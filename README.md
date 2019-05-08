@@ -1,2 +1,2 @@
-# css
-IC2S2 presentations
+# CSS Actually (IC2S2 dataset)
+Hi, CSS community! What is computational social science? While all of us could come up with some definition, we think that what is computational social science actually is better reflected in the works presented at IC2S2. So we have collected data from the four editions of the conference and compiled it in CSV format. We think that this dataset should be fun to explore and we may even get insights into what computational social science is, who is who in CSS and where we are moving as a community.
