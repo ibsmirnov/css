@@ -1,0 +1,997 @@
+"Type","Speaker","Topic","Year"
+"Keynote","Michael Macy","Opportunities and challenges for computational social science",2015
+"Keynote","Jure Leskovec","Structure and dynamics of information propagation",2015
+"Plenary","Omar Guerrero, Eduardo Lopez, Robert Axtell","Labor flows and unemployment mediated by networks",2015
+"Keynote","Duncan Watts","An experimental study of collective self-organization in crisis mapping",2015
+"Keynote","Matthew Jackson","Multiplexing and the interaction between borrowing, favor exchange, and advice networks: how changes in one social network lead to changes in another",2015
+"Plenary","Telecom Italy (SKIL Lab & Future Center), Fondazione Bruno Kessler (I3 & Mobs), MIT-Media Lab (Human Dynamics), Telefonica R & D (User, Media Intelligence), Trento-RISE (smart CROWDS)","The Mobile Territorial Lab – A joint research/industrial living lab to investigate individual and social dynamics",2015
+"Networks","Janos Kertesz, Balazs Lengyel, Bence Sagvari, Janos Torok, Zhongyuan Ruan","The full life cycle of an online social network",2015
+"Networks","Young-Ho Eom, Hang-Hyun Jo","Generalized friendship paradox in social networks: Why our friends are ""better"" than we are",2015
+"Networks","Marcella Tambuscio, Giancarlo Ruffo, Alessandro Flammini, Filippo Menczer","Fact-checking effect on viral hoaxes: a model of misinformation spread in social networks",2015
+"Networks","Tal Altshuler, Yoram Shiftan, Rachel Katoshevski, Nuria Oliver, Alex Pentland, Erez Shmueli, Yaniv Altshuler","The network dimension of ride sharing",2015
+"Networks","Martha Russell, Jukka Huhtamaki, Kaisa Still, Neil Rubens, Jiafeng Yu, Rahul Basole","Visualizing transformative networks in innovation ecosystems",2015
+"Networks","Valerio Ciotti, Vito Latora, Pietro Panzarasa","Birds of a feather? Revisiting homophily and tie creation in social networks",2015
+"Online Social Media","Venkata Rama, Ingmar Weber, Sonya Dal Cin","From “I love you babe” to “leave me alone”-romantic relationship breakups on Twitter",2015
+"Online Social Media","Galena Kostoska, Marcos Baez, Florian Daniel, Fabio Casati","Virtual, remote participation in museum visits by older adults",2015
+"Online Social Media","Riccardo Fusaroli, Marcus Perlman, Alan Mislove, Alexandra Paxton, Teenie Matlock, Rick Dale","Timescales of massive human entrainment",2015
+"Online Social Media","Kazutoshi Sasahara","Emergence of novel collective phenomena in Twitter",2015
+"Online Social Media","Luca Maria Aiello, Rossano Schifanella, Bogdan State","Decomposition of social ties with Blau’s exchange theory",2015
+"Online Social Media","Yelena Mejova, Bob Boynton","Language plurality in Twitter political speech",2015
+"Games and Economic Behavior","Matthieu Cristelli, Andrea Tacchella, Luciano Pietronero","Measuring the intangible growth potential of countries: weather-like forecasting for economics",2015
+"Games and Economic Behavior","Jeffrey Naecker, Alex Peysakhovich","Evaluating models of choice under risk and ambiguity using methods from machine learning",2015
+"Games and Economic Behavior","Katarzyna Growiec, Jakub Growiec","The impact of bridging and bonding social capital on individual earnings: evidence for an inverted U",2015
+"Games and Economic Behavior","Per Engstrom, Eskil Forsell","Demand effects of consumers’ stated and revealed preferences",2015
+"Games and Economic Behavior","Alessio E Biondo, Alessandro Pluchino, Andrea Rapisarda, Dirk Helbing","Micro and macro benefits of random investments in financial markets",2015
+"Games and Economic Behavior","Lukas Norbutas, Rense Corten","Freecycling in the sharing economy: sustainability of generalized exchange in Facebook networks",2015
+"Opinion Dynamics","Michael Mas, Lukas Bischofberger","Web personalization and opinion polarization",2015
+"Opinion Dynamics","Rion Brattig Correia, Kwan Nok Chan, Luis M Rocha","Discourse polarization in the US congress",2015
+"Opinion Dynamics","Philippos Louis, Orestis Troumpounis, Nikolaos Tsakas","On the unidimensionality of opinions: an experiment",2015
+"Opinion Dynamics","Hitoshi Yamamoto, Yuki Ogawa, Tetsuro Kobayashi, Takahisa Suzuki","Effects of social media contacts on perceived distributions of opinions",2015
+"Opinion Dynamics","Samuel Martin, Corentin Vande Kerckhove, Pascal Gend, Jason Rentfrow, Julien M Hendrickx, Vincent D Blondel","Modeling influence and opinion evolution in online collective behavior",2015
+"Opinion Dynamics","Alexandru-Ionut Babeanu, Leandros Talman, Diego Garlaschelli","Structural properties of realistic cultural space distributions",2015
+"Content Analysis","Matthew Denny, James Ben-Aaron, Hanna Wallach, Bruce Desmarais","Content-conditioned hierarchical latent space models for textual communication networks",2015
+"Content Analysis","Sergei Koltcov, Olessia Koltsova, Sergey Nikolenko","Topic modeling stability and granulated LDA",2015
+"Content Analysis","Martin Gerlach, Tiago P Peixoto, Eduardo G Altmann","Community detection of words: topic models and scaling laws",2015
+"Content Analysis","Bruno Goncalves, David Sanchez","Crowdsourcing dialect characterization through Twitter",2015
+"Content Analysis","George Gkotsis, Maria Liakata, Carlos Pedrinaci, John Domingue","Leveraging textual features for best answer prediction in community-based question answering",2015
+"Content Analysis","Suin Kim, Ingmar Weber, Li Wei, Alice Oh","Sociolinguistic analysis of Twitter in multilingual societies",2015
+"Poster","Seija Sirkia, Aleksi Kallio, Heta Koski, Pekka Lehtovuori","CSC-Public Finnish infrastructure for data science",2015
+"Poster","Aamena Alshamsi, Fabio Pianesi, Bruno Lepri, Iyad Rahwan","Social Diversity and Dynamic Psychological States",2015
+"Poster","Adrian Bruhin, Lorenz Goette, Simon Haenni, Lingqing Jiang","Prosocial Motivation Spillovers in Networks with Strong and Weak Ties: A Study in Blood Donation",2015
+"Poster","Adrian Carro, Raul Toral, Maxi San Miguel","Coupled dynamics of node and link states: A model for language competition",2015
+"Poster","Adriano Galati, Maria Olivares, Stefan Mangold","Mobile Empowerment with Delay Tolerant Networks for Socio-Economic Development in South Africa",2015
+"Poster","Alexander J Gross, Dhiraj Murthy, Lav R Varshney","Pace of Life in Cities and the Emergence of Town Tweeters",2015
+"Poster","Allison Chaney, Mike Gartrell, Jake Hofman","A Large-scale Exploration of Group Viewing Patterns",2015
+"Poster","Anamaria Berea, William Rand, Roland Rust","The Rise and Fall of Fads and Fashion",2015
+"Poster","Andrey Bogomolov, Bruno Lepri, Jacopo Staiano, Nuria Oliver, Fabio Pianesi, Alex Pentland","Predicting Crime Hotspots Using Aggregated and Anonymized Data on People Dynamics",2015
+"Poster","Biagio Aragona","Beyond analytics: what’s (really) new of big data from the methodological perspective of a social researcher.",2015
+"Poster","Cheryl Abundo, Stephen Lansing, Elsa Guillot, Murray Cox, Sean Downey","Languages association with maternal genetic lineages persists from the late Pleistocene",2015
+"Poster","Dario Zappala, Alessandro Pluchino, Andrea Rapisarda","Selective altruism in collective games",2015
+"Poster","Didem Gundogdu, Ozlem Durmaz Incel, Albert Salah, Bruno Lepri","Social event detaction in aggegater mobile phone data using Markov modulated poisson provess",2015
+"Poster","Dion O’Neale","Clustering of Technical Capabilities within Regions",2015
+"Poster","Eric Malmi, Arno Solin, Aristides Gionis","Reconstructing and Analyzing Family Trees: Towards Longitudinal Computational Social Science",2015
+"Poster","Fahad Alhasoun, Marta Gonzalez","Do Socially Connected People Move Similarly?",2015
+"Poster","Giulio Cimini, Tiziano Squartini, Andrea Gabrielli, Diego Garlaschelli","Estimating topological properties of weighted networks from limited information",2015
+"Poster","Giulio Rossetti, Riccardo Guidotti, Diego Pennacchioli, Dino Pedreschi, Fosca Giannotti","Time-Aware Interaction Prediction in Dynamic Social Networks exploiting Community Discover",2015
+"Poster","Guy Kelman, David Bree, Eran Manes, Marco Lamieri","Missing linkage information in trade networks as a behavioral dynamic property of the network",2015
+"Poster","Hayafumi Watanabe, Yukie Sano, Hideki Takayasu, Santi Saeyor, Koki Uchiyama, Misako Takayasu","Mathematical modeling of the fluctuation of the appearance of words in the Japanese blogs",2015
+"Poster","Henri Kauhanen","Preferential Attachment, Neutral Evolution and the Shape of Language Change",2015
+"Poster","Hywel Williams","Social media, collective behaviour and climate change",2015
+"Poster","Innar Liiv, Vadim Landa, Raivo Vetik","Computational Social Science approach to Berry’s Acculturation Theory",2015
+"Poster","Ismo Koponen","Modelling coupled cognitive and socio-dynamics in collaborative learning: How positive peer-feedback enhance learning through increased self-efficacy",2015
+"Poster","Jan Lorenz","Modeling the evolution of political landscapes",2015
+"Poster","Jeong-Han Kang, Jiwan Jeong","How did a Korean social networking service decline? Declining immediacy and breadth of responsiveness after a visible hand",2015
+"Poster","Jisun An, Ingmar Weber","Improving nowcasting through social media by sample re-weighting",2015
+"Poster","Johannes Zschache","The evolution of the matching law",2015
+"Poster","Joyce Klu, Gesine Reinert, Chris Farmer","Effects of New Information on Opinions and Social Network Dynamics",2015
+"Poster","Juste Raimbault","Hybrid Modeling of a Bike-Sharing Transportation System",2015
+"Poster","Kazuki Tanaka, Kazutoshi Sasahara","The Validation of “More Tweets, More Votes” Hypothesis in Tokyo Gubernatorial Election 2014",2015
+"Poster","Kunwoo Park, Meeyoung Cha, Juyong Park, Kuan-Ta Chen","Status and social dynamics in online games",2015
+"Poster","Kwan Hui Lim, Ee-Peng Lim, Binyan Jiang, Palakorn Achananuparp","Online Experiments of Authority Effects on User Behavior in Email Campaigns",2015
+"Poster","Luca Marotta, Jyrki Piilo, Rosario Mantegna","Patterns of high-frequency trading networks at NASDAQ OMX Helsinki",2015
+"Poster","Maria Gabriella Grassia, Emma Zavarrone, Rosanna Cataldo, Sandra De Francisci Epifani","Sustainability meaning. A Textual Network Data Analysis",2015
+"Poster","Markus Kainu, Joona Lehtomaki, Juuso Parkkinen, Juha Yrjola, Måns Magnusson, Leo Lahti","Computational ecosystems for social science",2015
+"Poster","Matthew Wallace, Ismael Rafols","Characterizing the research landscape of Influenza A: new tools to inform policymaking",2015
+"Poster","Neal Lathia, Gillian Sandstrom, Jason Rentfrow, Cecilia Mascolo","Happy people have Active Lives: Sensing Happiness using Smartphone Accelerometers",2015
+"Poster","Nitesh Chawla, Reid Johnson, Yuxiao Dong","Will This Paper Increase Your h-index? Scientific Impact Prediction",2015
+"Poster","Philip Habel, Ruth Moon, Anjie Fang","Assessing Information Leadership and Intermedia Agenda Setting through Social Media",2015
+"Poster","Rion Brattig Correia, Kwan Nok Chan, Luis M Rocha","Detecting conflict in social unrest using Instagram",2015
+"Poster","Seth Frey, Paul L Williams, Dominic K Albino","Information encryption in the expert management of strategic uncertainty",2015
+"Poster","Shyam Ranganathan, Stamatios C Nicolis, David JT Sumpter","Setting development goals using stochastic data-driven models",2015
+"Poster","Stefano De Sabbata, Scott A Hale, Helen Margetts, Taha Yasseri","Understanding the patterns of success in online petitioning",2015
+"Poster","Syed Agha Muhammad, Kristof Van Laerhoven","DCS: Divide and Conquer Strategy for Detecting Overlapping Communities in Social Graphs",2015
+"Poster","Taha Yasseri","Understanding Zooniverse; Crowd-sourced science",2015
+"Poster","Takuto Sakamoto","Nomadic Computation: A Spatio-Temporal Analysis of Sustainability of African Pastoralists",2015
+"Poster","Taro Takaguchi, Takanori Maehara, Masashi Toyoda, Ken-Ichi Kawarabayashi","Two classes of users as a unique feature of online communication networks",2015
+"Poster","Teemu Tiinanen, Juha Tormanen, Raimo Hamalainen, Esa Saarinen","PoSITeams-Positive Systems Intelligent Teams, an Agent Based Simulator for Studying Group Behaviour",2015
+"Poster","Tharsis T P Souza, Gautam Mitra, Philip C Treleaven, Olga Kolchyna, Tomaso Aste","Big Data, Big Noise: Analysing the Interplay Between Market Sentiment and Stock Returns",2015
+"Poster","Toby Davies","Examining crime clustering via network motif analysis",2015
+"Poster","Tommaso Venturini, Pablo Jensen, Bruno Latour","From simple explanations to complex observations: a new alliance for social and natural sciences",2015
+"Poster","Veikko Eranti, Tuukka Yla-Anttila, Anna Kukkonen, Tomi Lehtimaki","Topic Modeling the Global Climate Policy Debate",2015
+"Poster","Vincent Traag, Rick Quax, Peter Sloot","Geography of protest participation",2015
+"Poster","Vyacheslav Polonski, Bernie Hogan","Assessing the Impact of Friendship Structure on Conversation Structure in Facebook Groups",2015
+"Poster","Yilin Huang, Sanja Scepanovic, Daniele Miorandi, Martijn Warnier, Frances Brazier","Towards Smart Grid User Engagement Through Social Networking",2015
+"Poster","Zack Almquist, Yang Yang","Suggested data-collection strategies for the application of dynamic network regression models: A simulation and empirical study",2015
+"Networks","Alex Stivala, Johan Koskinen, David Rolls, Peng Wang, Garry Robins, Alessandro Lomi","Modeling large social networks via snowball samples",2015
+"Networks","Ming-Xia Li, Vasyl Palchykov, Zhi-Qiang Jiang, Kimmo Kaski, Janos Kertesz, Salvatore Micciche, Michele Tumminello, Wei-Xing Zhou, Rosario Mantegna","Statistically validated mobile communication networks: Evolution of motifs in European and Chinese data",2015
+"Networks","Tomaso Aste, Guido Previde Massara, Wolfram Barfuss, Rodrigo Mazorra, Philip C Treleaven, Tiziana Di Matteo","Making sense from Big Data: a network information filtering approach",2015
+"Networks","Eugenio Valdano, Luca Ferreri, Chiara Poletto, Vittoria Colizza","Analytical computation of the epidemic threshold on temporal networks",2015
+"Online Social Media","Paul Laufer, Claudia Wagner, Fabian Flock, Markus Strohmaier","Mining cross-cultural relations from Wikipedia-A study of 31 European food cultures",2015
+"Online Social Media","Venkata Rama, Ingmar Weber","Co-following on Twitter",2015
+"Online Social Media","Rossano Schifanella, Miriam Redi, Luca Maria Aiello","An image is worth more than a thousand favorites",2015
+"Online Social Media","Geraud Le Falher, Aristides Gionis, Michael Mathioudakis","Where is beverly hills in your town? Finding similar neighborhoods across cities through social media activity",2015
+"Games and Economic Behavior","Daniele Vilone, Jose J Ramasco, Anxo Sanchez, Maxi San Miguel","Social imitation vs strategic choice in the networked Prisoner's Dilemma",2015
+"Games and Economic Behavior","Toni Perez, Jordi Zamora-Munt, Victor M Eguiluz","A web-based platform for analysing decision making choices from a collective guessing game",2015
+"Games and Economic Behavior","Griffith Rees, Felix Reed-Tsochas","Mechanisms of social system decline: Why Sysops left FidoNet",2015
+"Games and Economic Behavior","Nicolas Della Penna, Eaman Jahani, Peter Krafft, Alex Pentland, Julian Mcauley","Bubbles and network structure: a study in cryptocurrencies",2015
+"Spreading Phenomena","Genois Mathieu, Christian Vestergaard, Ciro Cattuto, Alain Barrat","Reconstructing sampled temporal networks of contacts for the simulation of epidemic spread",2015
+"Spreading Phenomena","Claudio Tessone","Network volatility as a source of collective dynamics",2015
+"Spreading Phenomena","Roberto Visintainer, Piero Poletti, Bruno Lepri, Stefano Merler","The relevance of social contacts in the transmission of seasonal influenzas",2015
+"Spreading Phenomena","Przemyslaw Grabowicz, Niloy Ganguly, Krishna Gummadi","Microscopic description of information diffusion",2015
+"Wisdom of Crowds","Johan Ugander, Ryan Drapeau, Carlos Guestrin","The wisdom of multiple guesses: a simple strategy for eliciting and aggregating uncertainty",2015
+"Wisdom of Crowds","Yves-Alexandre de Montjoye, Arkadiusz Stopczynski, Erez Shmueli, Alex Pentland, Sune Lehmann","The strength of the strongest ties in collaborative problem solving",2015
+"Wisdom of Crowds","Giacomo Livan, Matteo Marsili","What do leaders know?",2015
+"Wisdom of Crowds","Sebastian Herrmann, Franz Rothlauf, Joern Grahl","Social network studies: On the influence of task difficulty on problem solving",2015
+"Keynote","Albert-Laszlo Barabasi","Science of success: quantifying outcomes in social systems",2015
+"Keynote","Nicholas Christakis","The evolutionary significance of human social networks",2015
+"Plenary","Petter Holme, Jari Saramaki","A paradox of importance in network epidemiology",2015
+"Keynote","Sinan Aral","The dynamics of social influence and reputation online",2015
+"Plenary","Daniela Iosub, David Laniado, Carlos Castillo, Mayo Fuster Morell, Andreas Kaltenbrunner","Networked emotions and communication styles in online collaboration",2015
+"Plenary","Jingwen Zhang, Devon Brackbill, Sijia Yang, Damon Centola","Engineering behavior change through social media",2015
+"Plenary","Jose A Cuesta, Carlos Gracia-Lazaro, Alfredo Ferrer, Yamir Moreno, Anxo Sanchez","Reputation drives cooperative behavior and network formation in human groups",2015
+"Keynote","Alex Pentland","On collective action",2015
+"Keynote","Dirk Helbing","A digital Nervousnet for everyone and the golden age of complexity science",2015
+"Plenary","Riccardo Fusaroli, Kristian Tylen","Investigating conversational dynamics: interactive alignment, interpersonal synergy, and collective task performance",2015
+"Keynote","Alessandro Vespignani","Computational epidemiology does more than forecast",2015
+"Plenary","Seth Frey, Robert L Goldstone","Robust non-convergent flocking behavior in three different games of iterated reasoning",2015
+"Plenary","Andrea Baronchelli, Damon Centola","The emergence of social conventions: an experimental study",2015
+"Plenary","Milena Tsvetkova, Michael Macy","The contagion of prosocial behavior and the emergence of voluntary-contribution communities",2015
+"Networks","Mark Lutter","Do women suffer from network closure? The moderating effect of social capital on gender inequality in a project-based labor market, 1929-2010",2015
+"Networks","Georgios Rizos, Symeon Papadopoulos, Yiannis Kompatsiaris","Learning to classify users in online interaction networks",2015
+"Networks","Kaj Kolja Kleineberg, Marian Boguna","Digital ecology: coexistence and domination among interacting networks",2015
+"Networks","Abel Camacho Guardian, Radu Tanase, Claudio Tessone, Rene Algesheimer","A generalization of exponential random graph models for multiple networks",2015
+"Networks","Patrick Park, Michael Macy","Cultural correlates of network clustering",2015
+"Networks","Laetitia Gauvin, Andre Panisson, Alain Barrat, Ciro Cattuto","Revealing mesocale structures to control dynamical processes in socio-technical systems",2015
+"Networks","Michele Starnini, Antoine Moinet, Romualdo Pastor-Satorras","Burstiness and aging in social temporal networks",2015
+"Networks","Fariba Karimi, Ludvig Bohlin, Anna Samoilenko, Martin Rosvall, Andrea Lancichinetti","Local interests in a global world",2015
+"Online Social Media","Olga Kolchyna, Philip C Treleaven, Tharsis T P Souza, Tomaso Aste","In quest of significance: Identifying bursts in social-media that predict consumer sales",2015
+"Online Social Media","Fabio Celli, Bruno Lepri, Michal Kosinski","Prediction of personality from Facebook profile pictures",2015
+"Online Social Media","Richard Jayadi Oentaryo, Jia-Wei Low, Arinto Murdopo, Philips Kokoh Prasetyo, Ee-Peng Lim","Characterizing humans and bots in social media",2015
+"Online Social Media","Emre Kiciman","Towards decision support and goal achievement: Identifying action-outcome relationships from social media",2015
+"Online Social Media","Lu Chen, Ingmar Weber, Adam Okulicz-Kozaryn","U.S. religious landscape on Twitter",2015
+"Online Social Media","Aris Anagnostopoulos, Fabio Petroni, Mara Sorella","COLITA: collaborative interest-driven targeted advertising",2015
+"Online Social Media","Young-Ho Eom, Pablo Aragon, David Laniado, Andreas Kaltenbrunner, Sebastiano Vigna, Dima L Shepelyansky","Assessing inter-cultural influences through ranking biographies",2015
+"Online Social Media","Jose M Miotto, Holger Kantz, Eduardo Altmann","Modelling the popularity dynamics of online videos",2015
+"Games and Economic Behavior","Andreas Diekmann, Ben Jann, Wojtek Przepiorka, Stefan Wehrli","Using ‘big data’ to investigate reputation formation and feedback giving in anonymous online markets",2015
+"Games and Economic Behavior","Riccardo Di Clemente, Guido L Chiarotti, Matthieu Cristelli, Andrea Tacchella, Luciano Pietronero","Diversification versus specialization in complex ecosystems",2015
+"Games and Economic Behavior","Adrien Querbes","Growth, reputation and information diffusion in the profit-based sharing economy",2015
+"Games and Economic Behavior","Simon Gaechter, Chris Starmer, Fabio Tufano","Social relations and coordination: the value of ‘oneness’",2015
+"Games and Economic Behavior","Alberto Antonioni, Angel Sanchez, Marco Tomassini","Spatial coordination and cooperation among humans: experimental results",2015
+"Games and Economic Behavior","Marco Alberto Javarone","Is poker a skill game?",2015
+"Games and Economic Behavior","Julia Poncela-Casasnovas, Joan T Matamalas, Sergio Gomez, Alex Arenas","Strategical incoherence regulates cooperation in social dilemmas on multiplex networks",2015
+"Games and Economic Behavior","David Garcia, Frank Schweitzer","Trading and social signals in the Bitcoin ecosystem",2015
+"Spreading Phenomena","James Gleeson, Kevin O'Sullivan, Raquel Banos, Yamir Moreno","Effects of memory and network structure on memes competing for popularity",2015
+"Spreading Phenomena","Chiara Poletto, Marcelo Gomes, Ana Pastore Y Piontti, Luca Rossi, Livio Bioglio, Dennis Chao, Ira Longini, Elizabeth Halloran, Vittoria Colizza, Alessandro Vespignani","Global reaction to the 2014 West Africa Ebola epidemic: modification of the global air-travel network and its impact on the international epidemic spread",2015
+"Spreading Phenomena","Clara Granell, Alex Arenas, Sergio Gomez","Analysis of endogenous and exogenous effects on competing spreading processess",2015
+"Spreading Phenomena","Se-Wook Oh, Mason Porter","Complex contagions with lazy adoption",2015
+"Spreading Phenomena","Lewis Mitchell, James Bagrow","Predictability and social information flow",2015
+"Spreading Phenomena","Yang Yang, Jie Tang, Cane Wing-Ki Leung, Yizhou Sun, Qicong Chen, Juanzi Li, Qiang Yang","RAIN: social role-aware information diffusion",2015
+"Spreading Phenomena","Soheil Feizi, Ken Duffy, Manolis Kellis, Muriel Medard","Network infusion to infer information sources in networks",2015
+"Agent Based Models","Christian Bongiorno, Rosario Mantegna, Salvatore Micciche","An agent based model of air traffic management",2015
+"Agent Based Models","Milena Tsvetkova, David Sumpter, Lovisa Sumpter","Experimental evidence for the schelling segregation model",2015
+"Agent Based Models","Franziska Appel, Alfons Balmann, Changxing Dong, Jens Rommel","FarmAgriPoliS--An agent-based model to conduct behavioral experiments with farmers",2015
+"Agent Based Models","Tobias Schroeder, Jesse Hoey, Kimberly Rogers","Modeling dynamic identities and uncertainty in social interactions: Bayesian affect control theory",2015
+"Agent Based Models","Frensis Bras, Laia Becares, James Nazroo, Nick Shryane","The association between ethnic concentration and racism: an agent-based modelling approach",2015
+"Agent Based Models","Gerardo Iniguez, Marton Karsai, Riivo Kikas, Zhongyuan Ruan, Kimmo Kaski, Janos Kertesz","Modelling the slow adoption of technology in online societies",2015
+"Agent Based Models","Giangiacomo Bravo, Flaminio Squazzoni, Lorena Cadavid, Francisco Grimaldo","Why do we need more than one referee? A game theory-inspired agent-based model of peer review",2015
+"Agent Based Models","Sean Reardon, Rachel Baker, Matt Kasman, Daniel Klasik, Joseph Townsend","Simulation models of the effects of race-and socioeconomic-based affirmative action policies",2015
+"Poster","Abdullah Almaatouq, Alex Pentland, Erez Shmueli","Are You Your Friends’ Friend?",2015
+"Poster","Adrian Carro, Raul Toral, Maxi San Miguel","Markets, herding and response to external information",2015
+"Poster","Alice Ciccone, Ole Rogenberg, Ragnhild Braten","Fairness Preferences in Trade",2015
+"Poster","Andres Abeliuk, Gerardo Berbeglia, Manuel Cebrian, Tad Hogg, Kristina Lerman, Pascal Van Hentenryck","Controlling Collective Behavior",2015
+"Poster","Beatrice Valeri, Florian Daniel, Fabio Casati","Better recommendations of social leisure activities through better understanding of people’s choices and motivations",2015
+"Poster","Bertrand Jayles, Clement Sire, Guy Theraulaz","From Wisdom of Crowds to Collective Intelligence: under what conditions can a group, as a whole, become smarter than any one person in the group?",2015
+"Poster","Camellia Sarkar, Alok Yadav, Sanjiv Kumar Dwivedi, Aparna Rai, Sarika Jalan","Gender disparity in the society revealed through Bollywood networks",2015
+"Poster","Carlos Sureda","Social Networks Generation with Heterogeneous Behavior",2015
+"Poster","Daniel Alexandrov, Alexei Gorgadze","Virtual Caucasus on VK Social Networking Site",2015
+"Poster","Eun Lee, Petter Holme","The influence of unequal distribution of information on convergence of society in diverse social structure",2015
+"Poster","Flaminio Squazzoni","Computational social science that peers into peer review. The peer cost Action on â€œNew frontiers of peer reviewâ€_x009d_",2015
+"Poster","Francesca Giardini, Daniele Vilone, Rosaria Conte","Revising opinions: A cognitive account of opinion dynamics",2015
+"Poster","Francesco Bailo","Networks in the online mobilisation enterprise of Italy’s Five Star Movement",2015
+"Poster","Fredrik Jansson, Moa Bursell","Ethnic Homophily and Social Influence in Workplace Preferences",2015
+"Poster","Georgios Balikas, Nicolas Baskiotis","Detecting Influence in User-Activity Logs",2015
+"Poster","Gerald Gurtner, Luca Valori, Fabrizio Lillo","Competitive allocation of resources on a network: an agent-based model of air companies competing for the best routes",2015
+"Poster","Giangiacomo Bravo, Lucia Tamburino","A simple model of multidimensional opinion dynamics under social influence",2015
+"Poster","Harris Papadakis, Costas Panagiotakis, Paraskevi Fragopoulou","SCCD: Distributed detection of communities based on synthetic coordinates",2015
+"Poster","James Wilson, Bruce Desmarais, Skyler Cranmer, Shankar Bhamidi, Matthew Denny","Complex Stochastic Weighted Graphs: Flexible Specification and Simulation",2015
+"Poster","Jaram Park, Young Min Baek, Meeyoung Cha","Cross-Cultural Comparison of Nonverbal Cues in Emoticons on Twitter: Evidence from Big Data Analysis",2015
+"Poster","Jean-Philippe Mague, Eric Fleury, Marton Karsai, Matthieu Quignard","Dialectal characterization of linguistics variability on Twitter",2015
+"Poster","Julian Maluck, Reik V Donner","The Interacting Network Topology of Global Trade",2015
+"Poster","Julius Adebayo, Vivek Singh, Alex Pentland, Burcin Bozkaya","Where Will You Shop Next: Inferring Shopping Behavior from Inverse Covariance Matrices and Pseudo Social Networks",2015
+"Poster","Katarzyna Growiec, Jakub Growiec","Social Capital, Trust, and Multiple Equilibria in Economic Performance",2015
+"Poster","Katrin Weller, Katharina Kinder-Kurlanda","The Hidden Data of Social Media Research: Exploring Practices and Problems of Studying Social Media Data",2015
+"Poster","Kosuke Shinoda","Emergence of Global Network Property based on Multi-agent Voting Model",2015
+"Poster","Luis A Martinez Vaquero, Jose A Cuesta","Why does intolerance emergence under bad economic conditions? Insights from a reputation-based model",2015
+"Poster","Luiza Sayfullina, Yoan Miche, Emil Eirola","Reducing sparsity for Text Classification",2015
+"Poster","Manlio De Domenico, Albert Sole, Elisa Omodei, Sergio Gomez, Alex Arenas","Ranking in Multilayer Networks Unveils Versatility",2015
+"Poster","Marie Moriame, Timoteo Carletti, Guillaume Deffuant, Floriana Gargiulo","Self-Organised Criticality and Dragon kings in the Leviathan model",2015
+"Poster","Marshall Poole, Natalie Lambert","GroupScope: A Framework and Tools for Large Scale Study of Social Processes",2015
+"Poster","Matteo Zignani, Mattia Dimauro, Sabrina Gaito, Gian Paolo Rossi","People across social media sites: usage and behaviors",2015
+"Poster","Mauro Coletto, Claudio Lucchese, Salvatore Orlando, Raffaele Perego, Alessandro Chessa, Michelangelo Puliga","Electoral Predictions with Twitter: a Joint Machine Learning and Complex Network approach applied to an italian case study",2015
+"Poster","Mikael Bask, Miia Bask","Social Influence and the Matthew Mechanism: The Case of an Artificial Cultural Market",2015
+"Poster","Moreno Bonaventura, Vito Latora, Vincenzo Nicosia, Pietro Panzarasa","Interdisciplinarity and specialization: Roads to scientific success",2015
+"Poster","Nathalie Gayraud, Evaggelia Pitoura, Panayiotis Tsaparas","Nathalie Gayraud, Evaggelia Pitoura and Panayiotis Tsaparas",2015
+"Poster","Nicolò Cesa-Bianchi, Claudio Gentile, Fabio Vitale, Giovanni Zappella","Efficient Link Classification in Social Networks",2015
+"Poster","Abhijin Adiga, Richard Beckman, Keith Bisset, Jiangzhuo Chen, Youngyun Chungbaek, Stephen Eubank, Sandeep Gupta, Maleq Khan, Chris Kuhlman, Eric Lofgren, Bryan Lewis, Achla Marathe, Madhav Marathe, Henning Mortveit, Eric Nordberg, Caitlin Rivers, Paula Stretz, Samarth Swarup, Amanda Wilson, Dawen Xie","Synthetic Populations for Epidemic Modeling",2015
+"Poster","Panagiota Mixolia, Merkouris Karaliopoulos, Iordanis Koutsopoulos, Luca Maria Aiello, Gianmarco De Francisci Morales, Daniele Quercia","Getting Jobs Done for the Sharing Economy",2015
+"Poster","Peter Davis, Barry Milne, Roy Lay-Yee, Jessica McLay","Computational social science as policy tool. The KIWI approach",2015
+"Poster","Przemyslaw Grabowicz, Francisco Romero Ferrero, Theo Lins, Gonzalo Polavieja, Fabricio Benevenuto, Krishna Gummadi","An experimental study of social opinion manipulation",2015
+"Poster","Radoslaw Michalski, Tomasz Kajdanowicz, Piotr Brodka, Przemyslaw Kazienko","Spread of Influence in Temporal Networks",2015
+"Poster","Riccardo Di Clemente, Alessandro Belmonte, Sergey Buldyrev","On the spatial distribution of the Italian primary school-size",2015
+"Poster","Robert Palovics, Frederick Ayala-Gomez, Andras A Benczur","Temporally Evolving Models for Dynamic Networks",2015
+"Poster","Roberto Catini, Michelangelo Puliga, Alessandro Chessa","A Multilayer Analysis of the Social Network of Italian Members of Parliament",2015
+"Poster","Sabin Roman, Markus Brede, Seth Bullock","Resilience of networked societies",2015
+"Poster","Seth Frey, Robert L Goldstone","Interactions between scales of coordination and non-laminar structure in laboratory groups",2015
+"Poster","Stefan Scholz, Manuel Batram, Wolfgang Greiner","The SILAS-Model: Sexual Infections as Large-Scale Agent-based Simulation",2015
+"Poster","Thomas Theodoridis, Symeon Papadopoulos, Yiannis Kompatsiaris","Assessing the Reliability of Facebook User Profiling",2015
+"Poster","Tommaso Ciarli, Ismael Rafols","Mapping the evolution of research. The case of rice since the ‘80s",2015
+"Poster","Uzay Cetin, Haluk Bingol","Computational Models of Attention Competition",2015
+"Poster","Vadim Voskresenskiy, Kirill Sukharev, Ilya Musabirov, Daniel Alexandrov","Online Communication in Appartment Buildings of St.Petersburg",2015
+"Poster","Vishal Singh, John Gero","Agent based simulation studies of emergence of design practice through the lens of legitimation code theory",2015
+"Poster","Yana Volkovich, David Laniado, Karolin Kappler, Andreas Kaltenbrunner","Gender homophily in a large online social network",2015
+"Poster","Yaniv Altshuler, Alex Pentland, Goren Gordon","From Individual Knowledge Management to Social Information Flow",2015
+"Poster","Yerali Gandica, Floriana Gargiulo, Timoteo Carletti","Social constraints on the metapopulation Schelling model over complex networking",2015
+"Poster","Yohsuke Murase, Janos Torok, Hang-Hyun Jo, Kimmo Kaski, Janos Kertesz","Multilayer Weighted Social Network Model",2015
+"Poster","Zhe Liu, Ingmar Weber","Is Twitter a Public Sphere for Online Conflicts? A Cross-Ideological and Cross-Hierarchical Look",2015
+"Poster","Sofiane Abbar, Yelena Mejova, Ingmar Weber","You Tweet What You Eat: Studying Food Consumption Through Twitter",2015
+"Networks","Radu Marculescu","Understanding communities at nanoscale: Bacteria networks formation, dynamics, and control for healthcare applications",2015
+"Networks","Ulrich Matter, Omar Guerrero","Uncovering vote trading through networks and computation",2015
+"Networks","Martin Rosvall, Renaud Lambiotte, Andrea Lancichinetti, Manlio De Domenico, Alex Arenas","Higher-order network flows captured by memory and multiplex networks and their effects on community detection",2015
+"Networks","Vedran Sekara, Sune Lehmann","High-resolution dynamics of social behaviour",2015
+"Online Social Media","Javier Borge-Holthoefer, Walid Magdy, Kareem Darwish, Ingmar Weber","Content and network dynamics behind Egyptian political polarization on Twitter",2015
+"Online Social Media","Philipp Singer, Florian Geigl, Denis Helic, Andreas Hotho, Markus Strohmaier","Bayesian comparison of hypotheses about human trails on the Web",2015
+"Online Social Media","Arnau Gavalda, David R Choffnes, John S Otto, Mario A Sanchez, Fabian E Bustamante, Luis AN Amaral, Roger Guimera, Jordi Duch","Understanding user behaviour in massive decentralized sharing networks",2015
+"Online Social Media","Jared Lorince, Kenneth Joseph, Peter Todd","Do tags really functions as retrieval aids?",2015
+"Games and Economic Behavior","Fabio Saracco, Riccardo Di Clemente, Andrea Gabrielli, Luciano Pietronero","From innovation to diversification: a simple competitive model",2015
+"Games and Economic Behavior","Zhao Yang, Claudio Tessone, Radu Tanase, Rene Algesheimer","Fraud behavior on an online shopping platform",2015
+"Games and Economic Behavior","Jonathan Gray, Jakub Bijak, Seth Bullock","Decision theoretic agent based modelling: Pregnancy and alcohol misuse",2015
+"Games and Economic Behavior","Nicholas Sabin, Felix Reed-Tsochas","Structural embeddedness and economic performance in microfinance",2015
+"Opinion Dynamics","Marco Alberto Javarone, Serge Galam","Modeling group polarization in terrorism dynamics",2015
+"Opinion Dynamics","Toni Perez, Juan Fernandez-Gracia, Jose J Ramasco, Victor M Eguiluz","Persistence in collective behavior: stronghold dynamics in elections",2015
+"Opinion Dynamics","Guillem Mosquera-Donate, Marian Boguna","Follow the leader: herding behavior in heterogeneous populations",2015
+"Opinion Dynamics","Ali Nahm, Alex Pentland, Peter Krafft","Measuring the political preferences of the U.S. electorate",2015
+"Influence","Antonios Proestakis, Eugenia Polizzi di Sorrentino, Ankur Mani, Sandra Caldeira, Helen Brown, Esther van Sluijs, Benedikt Herrmann","Social based incentives for increasing physical activity: A school based field experiment",2015
+"Influence","Bas Hofstra, Rense Corten, Vincent Buskens","Learning in social networks: Selecting profitable choices among alternatives of uncertain profitability in various networks",2015
+"Influence","Marton Karsai, Gerardo Iniguez, Kimmo Kaski, Janos Kertesz","Complex contagion process in spreading of online innovation",2015
+"Influence","Matthew Denny","Inferring latent influence diffusion networks in the United States senate",2015
+"Keynote","Lada Adamic","From friend to friend to friend: information diffusion on Facebook",2015
+"Keynote","Andreas Flache","The complexity of social integration: a chance and a challenge for big data?",2015
+"Plenary","Peter Burnap, Matthew Williams","Computational human security analytics using Big Data",2015
+"Keynote","Robin Dunbar","Does the Internet really allow you to have more friends?",2015
+"Plenary","Andrey Bogomolov, Bruno Lepri, Roberto Larcher, Fabrizio Antonelli, Fabio Pianesi, Alex Pentland","Energy consumption prediction using people dynamics derived from cellular network data",2015
+"Plenary","Evangelos Pournaras, Matteo Vasirani, Robert Kooij, Karl Aberer","Socio-technical trade-offs in self-regulating smart grids",2015
+"Plenary","Joscha Legewie","Edge detection algorithms, neighborhood boundaries and the consequences for violent crime and inter-ethnic Conflict",2015
+"Science meets industry","Ville Suur-Uski","Clans and social interactions in Clash of Clans",2015
+"Science meets industry","Juuso Parkkinen","Probabilistic programming for understanding regional trends in apartment prices",2015
+"Science meets industry","Matti Aksela","Practical application of machine learning through a cloud based delivery model for the Internet of Things",2015
+"Science meets industry","Kimmo Pentikainen","Finland-the highest mobile data usage in the world",2015
+"Networks","Nitesh Chawla, Jie Tang, Yuxiao Dong","The evolution of social strategies across the lifespan",2015
+"Networks","Sergey Melnik, Mason Porter, Peter Mucha, James Gleeson","Modelling social contagion on heterogeneous networks of networks",2015
+"Networks","Polina Rozenshtein, Aris Anagnostopoulos, Aristides Gionis, Tatti Nikolaj","Event detection in activity networks",2015
+"Networks","Luca Marotta, Salvatore Micciche, Yoshi Fujiwara, Hiroshi Iyetomi, Hideaki Aoyama, Mauro Gallegati, Rosario Mantegna","Bank-firm credit network in Japan. An analysis of a bipartite network",2015
+"Online Social Media","Alessandro Bessi, Michela Del Vicario, Fabiana Zollo, Guido Caldarelli, Antonio Scala, Walter Quattrociocchi","Misinformation on online social media",2015
+"Online Social Media","Claudia Wagner, Mohsen Jadidi, David Garcia, Markus Strohmaier","Gender inequalities on Wikipedia",2015
+"Online Social Media","David Garcia, Ingmar Weber, Venkata Rama","Gender asymmetries in reality and fiction: the bechdel test of social media",2015
+"Online Social Media","niko Hannak, Drew Margolin, Ingmar Weber","Political fact checking on Twitter: When do corrections have an effect?",2015
+"Games and Economic Behavior","Duy Vu, Paola Zappa, Alessandro Lomi","The micro-relational structure of the interbank overnight money market",2015
+"Games and Economic Behavior","Andrea Gabrielli, Giulio Cimini, Diego Garlaschelli, Tiziano Squartini","Systemic risk analysis in reconstructed economic and financial networks",2015
+"Games and Economic Behavior","Jelena Grujic, Henrik Jeldtoft Jensen","Model of intermittent behaviour based on multistrategy game",2015
+"Games and Economic Behavior","Gabriel Rosser, Toby Davies, Tao Cheng","Self-exciting network-constrained point process modelling for crime prediction",2015
+"Mobility","Anastasios Noulas, Blake Shaw, Renaud Lambiotte, Cecilia Mascolo","Topological properties and temporal dynamics of place networks in urban environments",2015
+"Mobility","Sang Hoon Lee, Robyn Ffrancon, Daniel M Abrams, Beom Jun Kim, Mason A Porter","Matchmaker, matchmaker, make me a match: migration of populations via marriages in the past",2015
+"Mobility","Jose J Ramasco, Maxime Lenormand, Bruno Goncalves, Antonia Tugores","Measuring global and regional influence of cites using geolocated tweets",2015
+"Mobility","Andrea Cuttone, Sune Lehmann, Jakob Eg Larsen","Analyzing human mobility at multiple spatio-temporal scales",2015
+"Networks","David Hachen, Omar Lizardo, Michael Penta, Brandon Sepulvado, Matthew Chandler","Social tie formation, development and persistence: insights from the analysis of changes in the social networks of a college student cohort",2015
+"Networks","Fragkiskos Malliaros, Michalis Vazirgiannis","Disengagement social contagion: Assessing network vulnerability under node departures",2015
+"Networks","Antonia Godoy, Roger Guimera, Marta Sales-Pardo","Long-term evolution of email communication networks",2015
+"Networks","Hyejin Youn, Daniel Kim, Jose Lobo, Deborah Strumsky","Understanding technology pathway from U.S. patents",2015
+"Networks","Els Heinsalu, Marco Patriarca, Andrzej Pekalski, Janusz Szwabinski","Cooking recipes as an instance of cultural competition and spreadings",2015
+"Networks","Matteo Magnani, Luca Rossi","Local simplification of multiplex networks",2015
+"Networks","Marija Mitrovic Dankulov, Bosiljka Tadic","The dynamics of collective knowledge building via questions and answers",2015
+"Networks","Polina Rozenshtein, Nikolaj Tatti, Aristides Gionis","Discovering dynamic communities in interaction networks",2015
+"Online Social Media","Farshad Kooti, Gabriel Magno, Ingmar Weber","The social name-letter effect on online social networks",2015
+"Online Social Media","Maria Giatsoglou, Despoina Chatzakou, Neil Shah, Alex Beutel, Christos Faloutsos, Athena Vakali","Spotting fake retweeting activity in Twitter",2015
+"Online Social Media","Ian Wood, Johan Bollen, Luis Rocha","Eigenday twitter analysis",2015
+"Online Social Media","Carlos Castillo, Gianmarco De Francisci Morales, Marcelo Mendoza, Nasir Khan","Automatic analysis of television news: Media, people, framing and bias",2015
+"Online Social Media","Mariano Beguerisse Diaz, Guillermo Garduno, Sophia N Yaliraki, Mauricio Barahona","Beyond metadata: Using content to reveal the evolution of narratives in social media",2015
+"Online Social Media","Alex Peysakhovich, Sean Taylor","Forecasting Cultural Trends on Social Media Using the Crowd",2015
+"Online Social Media","Cristobal Garcia, Denis Parra, Peter Gloor","What can Twitter tell us about leadership in networked social movements: predicting the future success of the 2011-13 Chilean student movements leaders",2015
+"Games and Economic Behavior","Simone Righi, Karoly Takacs","Emotional strategies as catalysts for cooperation in signed networks",2015
+"Games and Economic Behavior","Niels Buus Lassen, Rene Madsen, Abid Hussain, Ravi K Vatrapu","Predictive analytics with big social data",2015
+"Games and Economic Behavior","Greg Morrison, Orion Penner, Roberto Catini, Massimo Riccaboni, Fabio Pammolli","The local structure of worldwide innovation hubs",2015
+"Games and Economic Behavior","Ioannis Zisis, The Anh Han, Sibilla di Guida, Georg Kirchsteiger, Tom Lenaerts","Generosity motivated by acceptance-evolutionary analysis of an anticipation game",2015
+"Games and Economic Behavior","Marco Smolla, Tucker Gilman, Tobias Galla, Susanne Shultz","Adding resource competition makes social learning models more elegant",2015
+"Games and Economic Behavior","Seth Frey, Robert W Sumner","Scaling of governance styles in designer societies",2015
+"Games and Economic Behavior","Matteo Chinazzi, Stefano Pegoraro, Giorgio Fagiolo","Defuse the bomb: rewiring interbank metworks",2015
+"Communication","Guy Zyskind, Bruno Lepri, Alex Pentland, Erez Shmueli","On the complementary roles of face-to-face and mediated social interactions",2015
+"Communication","Mikko Kivela, Mason Porter","Estimating inter-event time distributions from finite observation periods in communication networks",2015
+"Communication","Hang-Hyun Jo, Jari Saramaki, Robin Dunbar, Kimmo Kaski","Spatial patterns of close relationships across the lifespan",2015
+"Communication","Kyriaki Kalimeri, Ailbhe Finnerty, Fabio Pianesi","Ingredients of great teams: happiness and productivity in organisations",2015
+"Communication","Eduardo Lopez, Jari Saramaki, Elizabeth Leicht, Robin Dunbar, Sam Roberts, Felix Reed-Tsochas","Persistence of social signatures in human communication",2015
+"Communication","Yannick Leo, Eric Fleury, Carlos Sarraute, Marton Karsai","Socioeconomic correlations in social communication networks",2015
+"Communication","Nitesh Chawla, Jie Tang, Yuxiao Dong","Inferring social status and rich club effects in enterprise communication networks",2015
+"Communication","Talayeh Aledavood, Robin Dunbar, Eduardo Lopez, Esteban Moro, Sam Roberts, Felix Reed-Tsochas, Jari Saramaki","Persistent daily patterns in mobile telephone communication",2015
+"Success","Alexander Petersen","The apostle effect: Quantifying the impact of super ties in scientific careers",2015
+"Success","Roberta Sinatra, Dashun Wang, Pierre Deville, Chaoming Song, Albert-Laszlo Barabasi","Quantifying patterns of scientific excellence",2015
+"Success","Giulio Cimini, Andrea Gabrielli, Francesco Sylos-Labini","The scientific competitiveness of nations",2015
+"Success","Gergely Palla, Gergely Tibely, Enys Mones, Peter Pollner, Tamas Vicsek","Hierarchical networks of scientific journals",2015
+"Success","Floriana Gargiulo, Timoteo Carletti","The classical origin of modern science",2015
+"Success","Michael Szell, Roberta Sinatra, Albert-Laszlo Barabasi","Understanding effort and success in teams",2015
+"Success","Dashun Wang, Chaoming Song, Albert-Laszlo Barabasi","Understanding success in science and technology",2015
+"Success","Stefano Balietti, Robert Goldstone, Dirk Helbing","Competition promotes diversity and innovation, but undermines fair peer review",2015
+"Keynote","Peter Sheridan Dodds","The Panometer: Building Lexicon Meters to Gauge Emotional State, Health, Opinion and Stories",2016
+"Keynote","Sendhil Mullainathan","Keynote",2016
+"Keynote","Sandra Gonzalez-Bailon","Online Networks and Large-Scale Coordination",2016
+"Keynote","Markus Strohmaier","Measuring Social Phenomena on the Web",2016
+"Science of Science","Samuel Way, Daniel Larremore, Aaron Clauset","Gender, Productivity, and Prestige in Computer Science Faculty Hiring Networks",2016
+"Science of Science","Eliza Evans","Measuring Interdisciplinarity Using Text",2016
+"Science of Science","Vasyl Palchykov, Valerio Gemmetto, Alexey Boyarsky, Diego Garlaschelli","Ground truth? Clustering Scientific Publications",2016
+"Science of Science","Roberta Sinatra, Pierre Deville, Michael Szell, Dashun Wang, Albert-Laszlo Barabasi","Exploring the Anatomy of Physics",2016
+"Science of Science","Greg Morrison, Fabio Pammolli","Global Knowledge Spillovers Through Institutional Collaborations",2016
+"Science of Science","Kyeongan Kwon, Dinesh Majeti, Brian Uzzi, Ioannis Pavlidis","Scholar Plot: Visualizing Scientific Careers at a Glance",2016
+"Science of Science","Roberta Sinatra, Dashun Wang, Pierre Deville, Chaoming Song, Albert-Laszlo Barabasi","Quantifying and Predicting Patterns of Individual Scientific Impact",2016
+"Political Networks","Corentin Vande Kerckhove, Mickael Temporão, Yannick Dufresne","Ideological Scaling of Social Networks’ Users",2016
+"Political Networks","Vincent Antonio Traag","Complex Contagion of Campaign Donations",2016
+"Political Networks","Maksym Romenskyy, Viktoria Spaiser, Vladimir Lobaskin","Political Polarization in Ukraine 2014: Opinion and Territorial Split Demonstrated with the Bounded Confidence XY Model, Validated by Twitter Data",2016
+"Political Networks","Lijun Sun, Morgan R Frank, Brad L Leveck, Iyad Rahwan","Quantifying the Signatures of Global Cooperation and Conflict",2016
+"Political Networks","Aaron Schein, Mingyuan Zhou, David Blei, Hanna Wallach","Modeling International Relations with Bayesian Poisson Tucker Decomposition",2016
+"Political Networks","Yun Huang","Data-Driven Approaches to Understanding Community Policing on Social Media Platforms",2016
+"Political Networks","Venkata Rama, Ingmar Weber, Munmun De Choudhury","Quote RTs on Twitter: Usage of the New Feature for Political Discourse",2016
+"Economic Networks","Daniel Romero, Brian Uzzi, Jon Kleinberg","Social Networks Under Stress",2016
+"Economic Networks","Tomomi Kito, Steve New, Felix Reed-Tsochas","Towards Modeling Inter-Firm Networks: Empirical Analysis and Characterization of Automobile Parts Supply Relationship Formations",2016
+"Economic Networks","Matthias Leiss, Christian Schulz, Agnes Horvat, Dirk Helbing, Brian Uzzi","How Communication Networks Help Achieve Collective Goals",2016
+"Economic Networks","Andrey Fradkin","Search, Matching, and the Role of Digital Marketplace Design in Enabling Trade",2016
+"Economic Networks","Pramesh Singh, Panagiotis Karampournioutis, Jayaram Uparna, Agnes Horvat, Boleslaw Szymanski, Gyorgy Korniss, Jon Bakdash, Brian Uzzi","Fintech and The Flat World Hypothesis: Peer-to-Peer Lending Bias",2016
+"Economic Networks","Mohsen Mosleh, Babak Heydari","Fair Topologies: Structural Drivers of Evolution of Fairness in Social Networks",2016
+"Economic Networks","Julius Adebayo, Yoshihiko Suhara, Vivek Singh, Burcin Bozkaya, Alex Pentland","Forecasting Financial Well-Being for Small and Medium Enterprises Using Network-Based Signals",2016
+"Social Contagion","Niccolo Pescetelli, Nick Yeung","Real-time Uncertainty Update in Interactive and Non-Interactive Social Exchange",2016
+"Social Contagion","Adam Pah, Andrew Jennings, Aditya Jain, Adam Hockenberry, Luis Amaral","Are School Shootings Contagious?",2016
+"Social Contagion","Francesca Tria, Vittorio Loreto, Vito D P Servedio, Steven H Strogatz","The Dynamics of Correlated Novelties",2016
+"Social Contagion","Kang Zhao, Shiyao Wang, Ion Vasi, Zhang","The Concurrent Diffusion of Information and Behaviors in Online Social Networks",2016
+"Social Contagion","Yang Yang, Adam Pah, Brian Uzzi","The Global Terrorism Network: Power Law Foundations of System Behavior",2016
+"Social Contagion","Neelanjan Sircar","Analyzing Randomized Experiments with Spillovers Neelanjan Sircar Synthetic Webs of Trust for Egalitarian Communities",2016
+"Social Contagion","Edward Platt, Daniel Romero","Synthetic Webs of Trust for Egalitarian Communities",2016
+"Social Contagion","Yelena Mejova, Sofiane Abbar, Ingmar Weber","Influence in Food Consumption: Will You Eat Ice Cream When it Rains?",2016
+"Social Networks","Kristen Altenburger, Johan Ugander","Ruffled Feathers: When Can Gender Be Inferred on Social Networks?",2016
+"Social Networks","Zsofia Boda","Social Effects on Racial Perception",2016
+"Social Networks","Yuxiao Dong, Reid Johnson, Jian Xu, Nitesh Chawla","Structural Diversity and Homophily Across Many Large-Scale Social Networks",2016
+"Social Networks","Yuxiao Dong, Omar Lizardo, Nitesh Chawla","Longer Degrees of Separation Between Seniors in Mobile Communication",2016
+"Social Networks","Momin Malik, Juergen Pfeffer","Platform Effects in Social Media Networks",2016
+"Social Networks","Aaron Schecter, Yiheng Sun, Leslie Dechurch, Noshir Contractor","The Semantic Networks that Underpin Group Interaction",2016
+"Social Networks","Andrzej Nowak, Michele Gelfand, Wojciech Borkowski","Functionality of the Honor Cultures; Evolutionary Approach",2016
+"Social Dynamics and Influence","Joshua Becker, Devon Brackbill, Damon Centola","An Experimental Study of Critical Mass",2016
+"Social Dynamics and Influence","Julia Poncela-Casasnovas, Mario Gutierrez-Roig, Carlos Gracia-Lazaro, Julia Vicens, Jesus Gomez-Gardenes, Josep Perello, Yamir Moreno, Jordi Duch, Angel Sanchez","Uncovering Human Behavioral Phenotypes: A Lab-in-the-Field Game Theory Experiment",2016
+"Social Dynamics and Influence","Przemyslaw Grabowicz, Francisco Romero Ferrero, Theo Lins, Fabricio Benevenuto, Gonzalo Polavieja, Krishna Gummadi","An Experimental Study of Opinion Influenceability",2016
+"Social Dynamics and Influence","Taha Yasseri","Social Influence through Social Information: Insights from Three Large Scale Online Experiments with Millions of Participants",2016
+"Social Dynamics and Influence","Amit Sharma, Jake Hofman, Duncan Watts","Estimating the Causal Impact of Recommendation Systems from Observational Data",2016
+"Social Dynamics and Influence","William Pickering, Boleslaw Szymanski, Chjan Lim","Opinion Diversity and the Stability of Social Systems: Implications from a Model of Social Influence",2016
+"Social Dynamics and Influence","Corentin Vande Kerckhove, Samuel Martin, Pascal Gend, Julien M Hendrick","The Unpredictability of Human Opinion Dynamics",2016
+"Keynote","Dirk Brockmann","Experimental Epidemiology - Measuring What Matters in Disease Dynamics",2016
+"Keynote","Susan Athey","Keynote",2016
+"Keynote","Balazs Vedres","Fold Networks and Success with Innovation",2016
+"Keynote","Michael Kearns","Private Search in Social Networks",2016
+"Keynote","Alessandro Lomi","Keynote",2016
+"Collective Action","Joshua Mausolf","Occupy The Government: Presidential and Congressional Rhetorical Response to the Occupy Movement",2016
+"Collective Action","Brooke Foucault Welles, Sarah Jackson","The Networked Battle for #Baltimore: A Mixed-Methods Exploration of the Framing of Urban Unrest",2016
+"Collective Action","Han Zhang","Causal Effect of Witnessing Political Protest on Civic Engagement",2016
+"Art and Music","Dmitry Zinoviev","Soviet Popular Music Landscape: Community Structure and Success Predictors",2016
+"Art and Music","Arram Bae, Doheum Park, Yong-Yeol Ahn, Juyong Park","The Multi-Scale Network Landscape of Collaboration",2016
+"Art and Music","Valerio Ciotti, Marco Serino, Noshir Contractor, Leslie Dechurch, Pietro Panzarasa","The Structural Foundations of Creativity: A Network-based Study of Coproductions Among Italian Theatres",2016
+"Art and Music","Michael Mauskapf, Agnes Horvat, Noah Askin, Brian Uzzi","Understanding the Link Between Quality, Social Influence, and Success in Popular Music",2016
+"Social Networks","Mark Newman, Aaron Clauset","Structure and Inference in Annotated Networks",2016
+"Social Networks","Alexander Gutfraind, Ilya Safro, Lauren Meyers","Multiscale Network Generator",2016
+"Social Networks","Eun-Kyeong Kim, Hang-Hyun Jo","Burstiness Parameter for Finite Event Sequences",2016
+"Social Networks","Milena Tsvetkova, Ruth Garcia Gavilanes, Taha Yasseri","Dynamics of Disagreement: Large-Scale Temporal Network Analysis Reveals Negative Interactions in Online Collaboration",2016
+"Cities and Mobility","Edmond Awad, Max Kleiman-Weiner, Sohan Dsouza, Jean-Francois Bonnefon, Azim Shariff, Josh Tenenbaum, Iyad Rahwan","Commission and Omission Decisions by Autonomous Vehicles in Moral Dilemmas",2016
+"Cities and Mobility","Pierpaolo Mastroianni, Bernardo Monechi, Vito Servedio, Carlo Liberto, Gaetano Valenti, Vittorio Loreto","Local Optimization Strategies in Urban Mobility from Geo-referenced Floating Car Data",2016
+"Cities and Mobility","Giovanni Ciampaglia, Jose J Ramasco, Bruno Goncalves","Night Life and Road Safety: A Comparison of 7 Italian Cities",2016
+"Cities and Mobility","Aleix Bassolas, Maxime Lenormand, Antonia Tugores, Bruno Goncalves, Jose J Ramasco","Touristic Site Attractiveness Seen through Twitter",2016
+"Information and Attention","Pablo Barrio, Daniel Goldstein, Jake Hofman","Improving Comprehension of Numbers in the News",2016
+"Information and Attention","Ruth Garcia Gavilanes, Milena Tsvetkova, Taha Yasseri","Dynamics and Biases of Online Attention: The Case of Aircraft Crashes",2016
+"Information and Attention","Azadeh Nematzadeh, Giovanni Ciampaglia, Yong-Yeol Ahn, Alessandro Flammini","From Conversation to Cacophony: Information Overload and Collective Communication in Twitch",2016
+"Information and Attention","Alessandro Bessi, Michela Del Vicario, Ana Lucia Schmidt, Fabiana Zollo, Guido Caldarelli, Antonio Scala, Walter Quattrociocchi","Epidemiology of Misinformation Online",2016
+"Language","Amir Goldberg, Sameer Srivastava, V Govind Manian, Christopher Potts","Enculturation Trajectories and Individual Attainment: An Interactional Language Use Model of Cultural Dynamics in Organizations",2016
+"Language","John Shanahan, Robin Burke, Antonio Ceraso, Jessica Bishop-Royse","Data Sources for Modeling Library Texts and Readership",2016
+"Language","Scott Hale","Roles of Bilinguals on User-generated Content Platforms",2016
+"Crowd","Chien-Yi Hsiang, Albert Armisen, Sabine Brunswicker","Knowledge Reuse in Innovation Crowds: The Role of Semantic Heterogeneity",2016
+"Crowd","Mary Gray, Siddharth Suri, Ming Yin, Jennifer Wortman Vaughan, Syed Shoaib Ali, Deepti Kulkarni","The Collaboration and Communication Networks within the Crowd",2016
+"Crowd","Devon Brackbill, Joshua Becker, Damon Centola","The Danger of Opinion Leaders: How Social Influence Affects the Wisdom of Crowds",2016
+"Crowd","Feng Shi, Misha Teplitskiy, Megan Barnes","Political Polarization of Science on Wikipedia",2016
+"Security and Crime","Petter Holme, Yukie Sano","Network Effects in Team Assembly and Crime Ideation in Criminal Co-offender Networks",2016
+"Security and Crime","Russell Thomas, Mathew Woodyard","Cyber Security as an Evolving Host-Parasite System",2016
+"Security and Crime","Camelia Simoiu, Sam Corbett Davies, Sharad Goel","A Novel Statistical Test for Discrimination: Investigating Racial Disparities in Police Traffic Stop Data",2016
+"Security and Crime","Sharad Goel, Justin Rao, Ravi Shroff","Personalized Risk Assessments in the Criminal Justice System",2016
+"Social Networks","Brian Keegan","The Structure of Sequences: Mining and Interpreting Networks from Event Log Data",2016
+"Social Networks","Youngsoo Park, Ayesha Mahmud, Samuel Carton, Kenneth Joseph, Jennifer Helsby, Joseph Walsh, Lauren Haynes, Rayid Ghani","On Predicting Adverse Police-Public Interactions",2016
+"Social Networks","Samuel Fraiberger","Personality, Homophily and Embeddedness",2016
+"Social Networks","Didem Gundogdu, Jacopo Staiano, Ailbhe N Finnerty, Stefano Teso, Andrea Passerini, Fabio Pianesi, Bruno Lepri","Investigating the Role of Social Interactions on Personality States Dynamics",2016
+"Social Media","Abigail Jacobs, Samuel Way, Johan Ugander, Aaron Clauset","Natural Experiments in Online Social Network Assembly",2016
+"Social Media","Fatema Akbar","When Did They Join Twitter? Patterns of Twitter Adoption for Different Nationality Groups in The Arab Gulf Countries",2016
+"Social Media","Amac Herdagdelen, Winter Mason, Bogdan State, Lada Adamic","The Social Ties of Immigrant Communities in the United States",2016
+"Economic Content Analysis","Miguel Acosta","FOMC Responses to Calls for Transparency",2016
+"Economic Content Analysis","Aniko Hannak, Claudia Wagner, David Garcia, Alan Mislove, Markus Strohmaier, Christo Wilson","Measuring Discrimination in Online Freelance Marketplaces",2016
+"Economic Content Analysis","Kevin Gaughan, Edward Bishop Smith","Better in the Shadows? Media Coverage and Market Reactions to Female CEO Appointments",2016
+"Content Analysis","Steven Wilson, Ryan Boyd, Rada Mihalcea, James Pennebaker","Cultural Influences on the Measurement of Psychological Phenomena: Valuebehavior Relationships in India and the United States",2016
+"Content Analysis","Jasy Suet Yan Liew, Kevin Crowston, Nancy McCracken","SOCQA: Active Machine Learning Tool for Qualitative Text Analysis",2016
+"Content Analysis","Bo Cowgill","Human and Algorithmic Judgment in Resume Screening: Evidence from a Field Experiment",2016
+"Keynote","Matthew Salganik","Experiments in the Digital Age",2016
+"Keynote","David Ferrucci","AI: Episode II - The Quest for Understanding",2016
+"Science of Science","Christian Persson, Ludvig Bohlin, Daniel Edler, Martin Rosvall","Mapping Science with Variable-order Markov Dynamics Reveal Overlapping Fields and Multidisciplinary Journals",2016
+"Science of Science","Samuel Way, Daniel Larremore, Aaron Clauset","Trends and Gaps in Scholarly Productivity of Computer Science Faculty",2016
+"Science of Science","Valentin Danchev, Jacob G Foster, James Evans","Weighting Experimental Claims to Leverage Scientific Exploration",2016
+"Science of Science","Martin Gerlach, Laercio Dias, Eduardo G Altmann","Using Text Analysis to Quantify the Similarity and Evolution of Scientific Disciplines",2016
+"Science of Science","James Evans, Peter McMahan","Ambiguity and Intellectual Engagement",2016
+"Health and Wellbeing","Hyun Suk Kim, Sijia Yang, Minji Kim, Joseph Cappella","Assessing the Effectiveness of Recommendation Algorithms for Health Message Design: An Experiment",2016
+"Health and Wellbeing","Nandana Sengupta, Aakanksha Sinha","Propensity Score Model Selection with an Application to India’s Safe Motherhood Scheme",2016
+"Health and Wellbeing","Alexandra Olteanu, Onur Varol, Emre Kiciman","Distilling the Outcomes of Personal Experiences from Social Media Timelines",2016
+"Health and Wellbeing","Takuto Sakamoto","Climate Change and African Pastoralists: A Computational Analysis",2016
+"Political Content Analysis","Marshall Taylor, Ann Mische, Leslie MacColman","Topic Models as Affiliation Networks",2016
+"Political Content Analysis","John J Nay","Distributed Representations of Institutions and Their Policy Text",2016
+"Political Content Analysis","Yanchuan Sim, Bryan Routledge, Noah A Smith","Text Reveals Influence: The Case of Amicus Briefs and the Supreme Court",2016
+"Political Content Analysis","Jennifer Stromer-Galley, Sikana Tanupabrungsun, Feifei Zhang, Jeff Hemsley, Nancy McCracken, Lauren Bryant, Brian Dobreski, Bryan Semaan","Strategic Changes in Gubernatorial Campaign Messaging Over Time: A Computational Analysis",2016
+"Political Content Analysis","Ryan Whalen, Satyam Mukherjee, Brian Uzzi","Legal Evolution: Temporal Patterns of Precedent Citation & Judicial Opinion Impact",2016
+"Political Content Analysis","Dallas Card, Amber Boydstun, Noah Smith","Automated Text Analysis to Unframe the News",2016
+"Economic Models","Andrew Mao, Lili Dworkin, Siddharth Suri, Duncan Watts","Altruists Stabilize Cooperation in a Long-run Prisoner’s Dilemma Experiment",2016
+"Economic Models","Alessio E Biondo, Alessandro Pluchino, Andrea Rapisarda","Modeling Financial Markets by Self-Organized Criticality",2016
+"Economic Models","Morgan Frank, Lijun Sun, Manuel Cebrian, Hyejin Youn, Iyad Rahwan","Cities and Resilience to Automation: Specialization or Diversity?",2016
+"Economic Models","Srayan Datta, Ceren Budak, Daniel Romero","From Local Popularity to Global Influence: A Computationally Effective Heuristic for Influence Maximization",2016
+"Economic Models","Cyrus Dioun, Heather Haveman","Navigating Norms: Making Sense of Products in Contested Markets",2016
+"Economic Models","Josep Perello, Jordi Duch, Carlota Segura, Mario Gutierrez-Roig","Market Imitation and Win-Stay Lose-Shift Strategies Emerge as Unintended Patterns in Market Direction Guesses",2016
+"Success","Lu Liu, Yang Wang, Chaoming Song, Dashun Wang","Quantifying the Dynamical Impact of Individual Scientists",2016
+"Success","Satyam Mukherjee, Yun Huang, Julia Neidhardt, Brian Uzzi, Noshir Contractor","Team Assembly Factors Influencing the Victor in Competitive Environment",2016
+"Success","Quincy Stewart, Saheli Nath, Fabio Rojas","Acknowledging Gender Inequality in Sociology: A Network Analysis",2016
+"Success","Brian Uzzi, Yang Yang, Kevin Gaughan","The Formation and Imprinting of Network Effects Among the Business Elite",2016
+"Success","Mark Rouleau, Ashma Vaidya","ForestSim: Assessing the Sustainability of Bioenergy Production Using AgentBased Simulation",2016
+"Success","Christine Cuskley, Bernardo Monechi, Pietro Gravino, Vittorio Loreto","The Emergence and Evolution of Collaborative Stories",2016
+"Social Media","Xidao Wen, Yu-Ru Lin","The Distress Trajectories After A Terrorist Attack",2016
+"Social Media","Jisun An, Ingmar Weber","Trend Spotting and Demographics in Twitter",2016
+"Social Media","Eun-Kyeong Kim, Alan MacEachren","Spatial and Temporal Inhomogeneity of Geo-tagged Twitter Data",2016
+"Social Media","Travis Martin, Jake Hofman, Amit Sharma, Ashton Anderson, Duncan Watts","Exploring Limits to Prediction in Complex Social Systems",2016
+"Social Media","Daniel Kondor, Dimitrios Milioris","Unsupervised Classification in Twitter based on Joint Complexity",2016
+"Social Media","Li Zeng, A Conrad Nied, Logan Walls, John Robinson, Kate Starbird, Emma Spiro","Automatic Misinformation Detection on Social Media Spaces during Crisis Events",2016
+"Keynote","Shawndra Hill","Measuring the Impact of TV Content on Digital Behaviors",2016
+"Keynote","Jon Kleinberg","Keynote",2016
+"Poster","Jacob Fisher, Jonathon Cummings, Yong-Mi Kim","Abandoning Innovations: Network Evidence on Enterprise Collaboration Software",2016
+"Poster","Shu-Heng Chen, Bin-Tzong Chie, Ying-Fang Kao, Timo Meyer, Ragupathy Venkatachalam","Agent-based Macroeconomic Models: Does Size Matter?",2016
+"Poster","Lingxin Hao, Zhaohao Fu","Agent-based Modeling of Networks in China’s Rural-Urban Migration",2016
+"Poster","Zining Yang","An Agent-based Dynamic Model of Politics, Fertility and Economic Development",2016
+"Poster","Santa Agreste, Pasquale De Meo, Emilio Ferrara, Sebastiano Piccolo, Alessandro Provetti","Analysis of a Heterogeneous Social Network of Humans and Cultural Objects",2016
+"Poster","Edmond Awad, Alex Rutherford, Manuel Garcia-Herranz, Iyad Rahwan","Analyzing Interactions of Syrian Refugees on Facebook Using Topic Modeling",2016
+"Poster","Yuheng Hu, Kevin Hong","Analyzing Location Disclosure Behavior on Instagram",2016
+"Poster","Junghwan Yang, Arash Sangari, Weiqi Zhang, Dhavan Shah","Applying Supervised Machine Learning to Compute Political Ideology Among Twitter Users",2016
+"Poster","Vudtiwat Ngampruetikorn, Greg J Stephens","Bias, Belief and Consensus: Collective Opinion Formation on Fluctuating Networks",2016
+"Poster","Seth Frey, Robert W Sumner, Maarten W Bos","Blind Moderation of User-generated Content in the Child-focused Use Case",2016
+"Poster","Reid Johnson, Yuxiao Dong, Nitesh Chawla","Can Scientific Impact Be Predicted?",2016
+"Poster","Yilang Peng","Can Self-disclosure Drive Online Activism? Personal Story, Selfie and the Loss of Collective Identity in Contemporary Activism",2016
+"Poster","Michael Schnabel, Daniel Diermeier","Charting and Exploring the Opinion Space of Generic Spin Models on Arbitrary Network Topologies",2016
+"Poster","Connie Wang, Shu-Heng Chen","Chinese University Admission Mechanisms: Should We Defer Deferred Acceptance?",2016
+"Poster","Daniel Barkoczi, Mirta Galesic","Clarifying the Relationship Between Network Structure and Collective Problem Solving",2016
+"Poster","Yuan Li, Bin Xiong","Community Detection in Dynamic Social Network with Node Attributes and Edge Content",2016
+"Poster","Piotr Szymanski, Tomasz Kajdanowicz","Community Detection Methods form a Viable Alternative to Random Approach for Label Space Division in Multi-label Classification",2016
+"Poster","Liangyue Li, Hanghang Tong, Nan Cao, Kate Ehrlich, Yu-Ru Lin, Norbou Buchler","Computational Methods to Enhance Team Composition in Networks",2016
+"Poster","Xiaozhong Liu","Computational Student Information Need Estimation for Cyberreading",2016
+"Poster","Roman Bartusiak , Tomasz Kajdanowicz","Cooperation Prediction in Github Developers Network",2016
+"Poster","Radoslaw Michalski, Przemyslaw Kazienko, Marcin Kulisiewicz","Core Nodes As the Influencers in Temporal Social Networks",2016
+"Poster","Takaaki Ohnishi, Akira Ishii, Keiko Toya","Correlation Between the Financial Evaluations and the Pagerank of Inter-firm Payment Flows Using Real Monetary Transaction Records Between Firms",2016
+"Poster","Jacob Miller, David Gefen, Vk Narayanan","Creating Technological Frames: Latent Semantic Analysis of Discourse on Smartphones",2016
+"Poster","Yoshihiko Suhara, Xiaowen Dong, Burcin Bozkaya, Alex Pentland","Deepshop: Understanding Purchase Patterns Via Deep Learning",2016
+"Poster","Piotr Szymanski","Discovering the Co-authorship Network of 2nd Polish Republic Scientists Using Multiple Electronic Data Sources",2016
+"Poster","Degang Wu, Kwok Yip Szeto","Does Having More Options Mean Harder to Reach Consensus?",2016
+"Poster","Haris Memic, Robert Ackland","Dynamic Network Analysis of Australian Advocacy Groups on Twitter",2016
+"Poster","Fujio Toriumi, Hitoshi Yamamoto, Isamu Okada","Effect of Rewarding Systems in Social Media",2016
+"Poster","Yuki Ogawa, Hitoshi Yamamoto, Tetsuro Kobayashi, Takahisa Suzuki","Effects of Twitter Contacts on Perceived Distributions of Public Opinions",2016
+"Poster","Eszter Bokanyi, Zoltan Labszki, Gabor Vattay","Estimating US County Unemployment Rates from Twitter Messages",2016
+"Poster","Ryan Whalen, Noshir Contractor","Explorative Knowledge Search, Team Diversity, and Research Impact",2016
+"Poster","Hedwig Lee, Tyler McCormick, Emma Spiro, Nina Cesare","Exploring Relationship Dynamics Between Citizens and the Police Via Twitter",2016
+"Poster","Kazutoshi Sasahara","Exploring Semantic Structures of Online Collective Attention",2016
+"Poster","Fredrik Erlandsson, Piotr Brodka, Anton Borg, Henric Johnson","Finding Influential Users in Social Media Using Rule Learning",2016
+"Poster","Eshin Jolly, Luke Chang","The Function of Communication: Groups, Gossip and Social Dilemmas",2016
+"Poster","Mohsen Jadidi, Fariba Karimi, Claudia Wagner, Markus Strohmaier","Gender Disparities in Scientific Collaboration Networks",2016
+"Poster","Sucheta Soundarajan, Acar Tamersoy, Elias Khalil, Tina Eliassi-Rad, Duen Horng Chau, Brian Gallagher, Kevin Roundy","Generating a Sequence of Structurally Mature Networks from Streaming Edge Data",2016
+"Poster","Dhaval Adjodah, Peter Krafft, Alejandro Noriega, Alex Pentland","Harnessing Social Learning to Improve Crowd-Sourced Prediction",2016
+"Poster","Agnes Horvat, Jayaram Uparna, Brian Uzzi","Hidden Indicators of Collective Intelligence in Crowdfunding",2016
+"Poster","Valerio Ciotti, Moreno Bonaventura, Pietro Panzarasa, Vincenzo Nicosia, Vito Latora","Homophily and Missing Links in Citation Networks",2016
+"Poster","Moonhoon Choi, Ari Kim","How Crisis Spreads in Social Media and Affects the Attitude Toward the Host City of Mega Sports Event: In Case of Zika Virus and 2016 Brazil Olympic Games",2016
+"Poster","Pouya Rahmati, Ali Tafti, Rui Guo, Chris Westland","How Do Firms Digitize Through Inter-firm Relationships? Network Positioning and Digital Complexity",2016
+"Poster","James Evans, Misha Teplitskiy","How Firm Is Sociological Knowledge? Reanalysis of GSS Findings with Alternative Models and Out-of-Sample Data, 1972-2012",2016
+"Poster","Dmytro Karamshuk, Tetyana Lokot, Oleksandr Pryymak, Nishanth Sastry","Identifying Partisanship in News Articles and Twitter Using Natural Language Processing",2016
+"Poster","Yilin Zhang, Karl Rohe, Chris Wells","Identifying Sub-populations of French Voters on Facebook with Spectral Contextualization",2016
+"Poster","Jacqueline Ng, Seyed Iravani, Noshir Contractor","The Impact of a Graphical Network Interface for Online Discussions on Student Learning",2016
+"Poster","Eun Lee, Petter Holme","The Influence of Heterogeneous Threshold in Opinion Dynamics",2016
+"Poster","Mark Costa","The Interdependence of Scientists in Team Science Environments",2016
+"Poster","Natalie Herbert, Soojong Kim, Damon Centola","Is Inequality Inevitable? An Agent-based Bargaining Model of Network Structure and Nominal Characteristic Tags",2016
+"Poster","Roman Bartusiak, Tomasz Kajdanowicz","Large Scale Network Measures Computation Using Bulk Synchronous Parallel Approach in Comparison to Centralized Methods",2016
+"Poster","Pietro Gravino, Cesare Bianchi, Bernardo Monechi, Vito D P Servedio, Vittorio Loreto","LEGO Pixel Art: Identifying Creativity Through a Web-based Game-shaped Experiment",2016
+"Poster","Fredrik Jansson, Pontus Strimling, Irina Vartanova, Kimmo Eriksson","The Moral Psychology of Liberals and Conservatives Can Predict Public Opinion Dynamics",2016
+"Poster","Alessio E Biondo","A Multi-Quantity Order Book Model",2016
+"Poster","Jaimie Murdock, Colin Allen, Simon Dedeo","Production and Consumption of Victorian Science in Charles Darwin's Scientific Practice",2016
+"Poster","Clement Thibert, Sevil Zeynali, Matthieu Quignard, Jean-Philippe Mague","Linguistic Variability Among Communities of French Speaking Twitter Users",2016
+"Poster","S M Niaz Arifin, Mei Li, Sarv Devaraj, Gregory Madey","Managed Healthcare: Modeling Decision Processes by Physician Groups Within Healthcare Supply Networks",2016
+"Poster","Rebecca Jen-Hui Wang","Managing Loyalty Programs in the Mobile and Digital Era: An Empirical Study",2016
+"Poster","Akira Ishii, Akiko Kitao","Mathematical Model for Hit Phenomena As a Tool of Computational Social Sciences",2016
+"Poster","Daniel Citron, Samuel Way, Laurence Brandenberger","Measuring Topological Transitions in Scientific Collaboration Networks Using Topic Modeling for Subfield Detection",2016
+"Poster","James Evans, Aaron Gerow, David Blei, Jordan Boyd-Graber, Yuening Hu","A Model of Author and Institution Textual Influence",2016
+"Poster","Kenenbek Arzymatov, Igor Pospelov, Aleksandra Zhukova","Modeling of Financial Bubbles in Illiquid Market of Rational Agents",2016
+"Poster","Yohsuke Murase, Hang-Hyun Jo, Janos Torok, Janos Kertesz, Kimmo Kaski","Modeling the Role of Relationship Fading and Breakup in Social Network Formation",2016
+"Poster","Taraneh Khazaei, Lu Xiao, Robert Mercer, Atif Khan","Modelling Social Privacy Behavior in Twitter Data",2016
+"Poster","Xiao Yang, Iadh Ounis, Craig Macdonald","Monitoring Electoral Violence Through Social Media: A Machine Learning Approach",2016
+"Poster","Tse-Chuan Yang, Daniel Kifer, Stephen Matthews","Multiple Imputations of Subregions with Censored Location Data: A Kullback-Leibler Divergence Approach",2016
+"Poster","Giuseppe Pappalardo, Tharsis T P Souza, Guido Caldarelli, Soong Moon Kang, Tomaso Aste","Multiplex Structure of Social Media and Financial Networks",2016
+"Poster","Craig Evans, Jana Diesner","Mutual Impact and Stability of Personal Ethics and Structural Balance in a Communication Network Over Time",2016
+"Poster","George Vega Yon, Stephanie Dyal, Timothy Hayes, Thomas Valente","Network Diffusion of Innovations in R: Introducing Netdiffuser",2016
+"Poster","Yu Cheng, Yu-Ru Lin, Hanghang Tong","A Network Regression Framework for Forecasting Labor Transitions",2016
+"Poster","Benjamin Smith, Andrea Figueroa-Caballero, Michael Stohl","Networks of Terror: A Computational Approach to Studying the Communicatively Constituted Terrorist Actor",2016
+"Poster","Tharsis T P Souza, Tomaso Aste","A Nonlinear Impact: Evidences of Causal Effects of Social Media on Market Prices",2016
+"Poster","Alessio E Biondo, Alfio Giarlotta, Alessandro Pluchino, Andrea Rapisarda","Perfect Information Vs Random Investigation: Safety Guidelines for a Consumer in the Jungle of Product Differentiation",2016
+"Poster","Silvia Fierascu, Balazs Vedres","Politicized Business Groups and Collusion in Public Procurement Contracts",2016
+"Poster","Subrina Farah","Powerful Impacts of a Specialized Academic Intervention Program: A Big Data Approach",2016
+"Poster","Shuqing Gao, Hao Chen, Kaisheng Lai, Guo-An Yue, Weining Qian","Predicting Regional Variations of Nationalism with Online Expression of Disgust Emotion in China",2016
+"Poster","Zhiya Zuo, Xi Wang, Kang Zhao, David Eichmann","The Prevalence and Interdisciplinarity of Collaborations in Multidisciplinary Institutions – A Case Study of iSchools",2016
+"Poster","Xiaowen Dong, Eaman Jahani, Burcin Bozkaya, Bruno Lepri, Alex Pentland","Purchase Pattern, Socioeconomic Status, and Political Inclination",2016
+"Poster","Luiz G A Alves, Renio Dos Santos Mendes, Ervin Lenzi, Haroldo Ribeiro","Quantifying and Predicting the Performance of Cities Via Scale-adjusted Metrics",2016
+"Poster","David O'Sullivan, Mariano Beguerisse-Diaz, Guillermo Garduno, James Gleeson","Quantifying Interactions Among Twitter Users Based on Sentiment, Affinities, and Relationships, Using Data from the Irish Marriage Referendum",2016
+"Poster","Przemyslaw Grabowicz, Mahmoudreza Babaei, Juhi Kulshrestha, Krishna Gummadi, Ingmar Weber","The Road to Popularity: The Dilution of Growing Audience on Twitter",2016
+"Poster","Fredrik Jansson, Gunn Elisabeth Birkelund","Segregation Within School Classes: Deriving Social Ties from Register Data",2016
+"Poster","Andrea Rapisarda, Alessandro Pluchino, Dario Zappala","Selective Altruism in Collective Games with Different Network Topologies",2016
+"Poster","Lukasz Augustyniak, Tomasz Kajdanowicz, Roman Bartusiak, Piotr Szymanski","Sentiment Analysis Using Community Detection in Big Unlabeled Corpora",2016
+"Poster","Jaroslaw Jankowski, Piotr Brodka, Tomasz Kajdanowicz, Przemyslaw Kazienko, Boleslaw Szymanski, Radoslaw Michalski","Sequential Seeding in Social Networks",2016
+"Poster","Seth Frey, Karsten Donnay, Dirk Helbing, Bob Sumner, Maarten Bos","The Social Dimensions of Self-influence in a Young Online Population",2016
+"Poster","Sara Soderstrom, Brian Uzzi, Derek Rucker, James Fowler, Daniel Diermeier","Social Influence Effects on the Adoption of Innovations Over Their Lifecycle",2016
+"Poster","Peter Krafft, Nicolas Della Penna, Alex Pentland","Social Influence in Cryptocoin Markets: A Randomized Field Experiment",2016
+"Poster","Nicholas Peiper, Rob Chew, Peter Baumgartner","Social-Ecology Meets Twitter: A Sociocentric Analysis of Medical Marijuana Dispensaries in Two California Communities",2016
+"Poster","Yohsuke Murase, Takeshi Uchitane, Nobuyasu Ito","A Software Framework for Parameter-Space Explorations",2016
+"Poster","Spyros Angelopoulos, Yasmin Merali","Sometimes a Cigar Is Not Just a Cigar: Exploring the Entanglement of Online Sociability and Offline Interactivity on Online Communities",2016
+"Poster","Marco De Nadai, Xiaowen Dong, Roberto Larcher, Alex Pentland, Bruno Lepri","Spatial Structure of Cities: How Neighborhoods' Activity Patterns Shape Inequality and Polycentricity",2016
+"Poster","Julia Poncela-Casasnovas, Brian Uzzi","The Spread of Negative Links in Social and Economic Networks",2016
+"Poster","Sijia Yang, Hyun Suk Kim, Poong Oh, Minji Kim, Joseph Cappella","Tailoring by “Cloning”: Comparing Four Collaborative Filtering Algorithms to Effectively Recommend Anti-Smoking Health Messages",2016
+"Poster","Antonis Matakos, Panayiotis Tsaparas","Temporal Mechanisms of Polarization in Online Reviews",2016
+"Poster","Jason Radford, Amotz Bar-Noy, Alexey Nikolaev, Saad Mneimneh, David Lazer, Ram Ramanathan","Testing Higher-Order Network Structures in an Online Experiment",2016
+"Poster","Dimitrios Milioris, Daniel Kondor","Topic Detection Completeness in Twitter: Is It Possible?",2016
+"Poster","Jaimie Murdock, Jiaan Zeng, Colin Allen","Towards Evaluation of Cultural-Scale Claims in Light of Topic Model Sampling Effects",2016
+"Poster","Santa Agreste, Pasquale De Meo, Emilio Ferrara, Sebastiano Piccolo, Alessandro Provetti","Trust Networks: Topology, Dynamics and Measurements",2016
+"Poster","Bob Boynton, Yelena Mejova, Zubair Shafiq","Twitter and the Iowa Caucus",2016
+"Poster","Anahita Davoudi","Using Centrality Measures in Social Networks for Product Rating Prediction",2016
+"Poster","Carlos Gallo, Wouter Vermeer, Justin Smith, Stacie Harissis, Hendricks Brown, Michael Newcomb, Brian Mustanski","Using Text Mining to Automatize Literature Reviews",2016
+"Poster","Vicky Chuqiao Yang, Andrew Papachristos, Daniel Abrams","Why Bigger Cities Have More Inventions, Crime and Disease: A Mathematical Model for Superlinear Scaling in Urban Output",2016
+"Poster","Katharine Anderson","Writers, Designers, and Software Developers: Skill Networks and Measures of Complex Human Capital in Freelance Labor Markets",2016
+"Keynote","Ciro Cattuto","High-resolution social networks from wearable sensors: Experiences and perspectives",2017
+"Keynote","Agnes Horvat","Hidden signals of collective intelligence in crowdfunding",2017
+"News","Yuemei Xu, Jiayi Zhou, Xiaoya Zhang, Chenyu Dong","A Topic-Sentiment Evolution Model to Analyze Chinese National Image from Online News",2017
+"News","Erick Elejalde, Leo Ferres, Eelco Herder","Nature of Real and Perceived Bias in Chilean Media",2017
+"News","Lorien Jasny, Susan Banducci, Travis Coan, Iulia Cioroianu, Iain Weaver, Hywell Williams","Dynamic Networks of News Consumption: Online Traffic during the 2016 Brexit Campaign in the UK",2017
+"News","Judith Moeller, Damian Trilling, Natali Helberger, Bram van Es","Do news recommenders foster filter bubbles? An empirical assessment of multiple recommender systems and their impact on content diversity",2017
+"News","Kazutoshi Sasahara, Giovanni Ciampaglia, Alessandro Flammini, Filippo Menczer","Modeling Echo Chambers on Social Media",2017
+"Analysis of Text","Henri Kauhanen, Deepthi Gopal, Tobias Galla","Spatial distributions of linguistic features are determined by the interaction of endogenous and exogenous dynamics",2017
+"Analysis of Text","Hayafumi Watanabe, Yukie Sano, Hideki Takayasu, Misako Takayasu","Statistical properties of fluctuations of time series representing appearances of words in nationwide blog data and their applications",2017
+"Analysis of Text","Thomas Daeubler, Kenneth Benoit","Statistical Scaling Meets Classic Content Analysis: Using Bayesian IRT-Modelling to Infer Latent Variables from Hand-Coded Texts",2017
+"Analysis of Text","Bruno Goncalves, Lucia Loureiro-Porto, Jose J Ramasco, David Sanchez","The fall of the empire: The Americanization of English",2017
+"Analysis of Text","Bennett Kleinberg, Maximilian Mozes, Arnoud Arntz, Bruno Verschuere","Using named entities for computer-automated verbal deception detection",2017
+"Analysis of Text","Christopher Riederer, Jake Hofman, Daniel Goldstein","To put that in perspective: Generating analogies that make numbers easier to understand",2017
+"Markets","Bruno Abrahao, Paolo Parigi, Alok Gupta, Karen Cook","Trust is Extendible: An Online Experiment on Airbnb’s User Population",2017
+"Markets","Johannes Wachs, Janos Kertesz","Network Characterization of Cartels in Public Auction Markets",2017
+"Markets","Ceren Budak, Justin Rao","Who Cares About the Overhead? Measuring the Efficiency in the Charity Marketplace",2017
+"Markets","Wojtek Przepiorka, Lukas Norbutas, Rense Corten","Order without law: Reputation promotes cooperation in a cryptomarket for illegal drugs",2017
+"Markets","Lukas Norbutas, Rense Corten, Stijn Ruiter","Dyadic and network learning in online drug marketplaces: commitment or market efficiency?",2017
+"Markets","Javier Garcia-Bernardo, Jan Fichtner, Eelke Heemskerk, Frank Takes","Identifying Sink and Conduit Offshore Financial Centers in the Global Corporate Ownership Network",2017
+"User demographics and privacy","Yang-Chih Fu, Ming-Yi Chang","Inducing Egocentric Networks with Privacy Settings: Evidence from Integrated Social Media and Representative Survey Data",2017
+"User demographics and privacy","Kyriaki Kalimeri, Mariano Beiro, Robert Raleigh, Ciro Cattuto","What do our digital records reveal about us? Automatic Prediction of Demographic and Psychometric Attributes from Digital Data",2017
+"User demographics and privacy","Rainer Schnell and Christian Borgs","New Techniques for Privacy-preserving Record Linkage of Large-scale Social Science Data Sets",2017
+"User demographics and privacy","Stefano Bennati, Evangelos Pournaras","Incentivized Data Sharing via Group-level Privacy-preservation",2017
+"User demographics and privacy","Dennis Feehan, Curtiss Cobb","How many of your friends have access to the internet? Estimating internet adoption around the world from a sample of Facebook users",2017
+"User demographics and privacy","Ridhi Kashyap, Francesco Billari, Nicolo Cavalli, Eric Qian, Ingmar Weber","Ultrasound Technology and ‘Missing Women’ in India: Analyses and Now-casts Based on Google Searches",2017
+"Finances","Federico Musciotto, Jyrki Piilo, Rosario N Mantegna","Demographic trends and social dynamics of a financial bubble",2017
+"Finances","Jaimie Park, Mahmoudreza Babaei, Przemyslaw Grabowicz, Krishna Gummadi, Sue Moon","An Analysis of Sponsored Content on Twitter",2017
+"Finances","Eaman Jahani, Guillaume Saint-Jacques, Pål Sundsøy, Johannes Bjelland, Esteban Moro, Alex Pentland","Differential Network Effects on Economic Outcomes: A Structural Perspective",2017
+"Finances","Shilin Jia, Linzhuo Li","Ideological Creation of Market in Socialist China: Change in Economic Rhetoric in the People’s Daily, 1946-2003",2017
+"Finances","Federica Bianchi","Market uncertainty and the network structure of transaction sequences in the EU interbank money market",2017
+"Finances","Lijun Sun, Morgan Frank, Hyejin Youn, Iyad Rahwan","Understanding Regional Economy by Decomposing Urban Labor Systems",2017
+"Norms, Trust, and Moral Foundations","Weiqi Zhang, Dmitry Zinoviev","How North Korea Views China: Applying Sentiment Analysis to Korean Central News Agency Reports",2017
+"Norms, Trust, and Moral Foundations","Richard Lu, Jennifer Chatman, Sameer Srivastava, Amir Goldberg","Perceiving and Acting: How Preferences and Perceptions of Cultural Norms Relate to Normative Compliance",2017
+"Norms, Trust, and Moral Foundations","Nikolas Zoller, Ingo Wolf, Tobias Schroder","Political Ideology and Affective Attitudes Towards Mobility Innovation: Comparing Survey Responses and Twitter Data",2017
+"Norms, Trust, and Moral Foundations","Rishemjit Kaur, Kazutoshi Sasahara","Moral Foundations in Online Conversations",2017
+"Norms, Trust, and Moral Foundations","Santa Agreste, Pasquale De Meo, Emilio Ferrara, Sebastiano Piccolo, Alessandro Provetti","Trust Networks: Topology, Dynamics and Measurements",2017
+"Keynote","Dashun Wang","Emergence of Scaling in Complex Substitutive Systems",2017
+"Keynote","Ulrik Brandes","The Space of All Centralities",2017
+"Keynote","Cecilia Mascolo","Human Behaviour Studies through the lens of Mobile Sensing and Complex Networks",2017
+"Keynote","Emily Falk","The spread of ideas from brain to brain",2017
+"Political Phenomena","Hiroki Takikawa, Takuto Sakamoto","Moral Foundations of Political Discourse: Comparative Analysis of the Speech Records of the US Congress and the Japanese Diet",2017
+"Political Phenomena","Solomon Messing, Patrick Van Kessel, Adam Hughes","The Hostility Bonus: How Negativity Dominates American Political Communication",2017
+"Political Phenomena","Meysam Alizadeh, Ingmar Weber, Claudio Cioffi, Santo Fortunato, Michael Macy","Psychological and Personality Profiles of Political Extremists",2017
+"Political Phenomena","Changdong Oh","Evolution of Moral Politics: Analysis on the Moral Foundations of Korean Political Parties",2017
+"Political Phenomena","Lukas Fervers","Economic Miracle, Political Disaster? Political and Social Consequences of the Hartz-Reforms",2017
+"Political Phenomena","Iain Weaver, Hywel Williams, Travis Coan, Iulia Cioroianu, Susan Banducci","Evolving affiliations amongst UK politicians",2017
+"Health and Wellbeing","Matheus Araujo, Yelena Mejova, Ingmar Weber, Fabricio Benevenuto","Using Facebook Ads Audiences for Global Lifestyle Disease Surveillance",2017
+"Health and Wellbeing","Enes Kocabey, Mustafa Camurcu, Ingmar Weber, Ferda Ofli, Yusuf Aytar, Javier Marin, Antonio Torralba","Face-to-BMI: Using Computer Vision to Study Body Weight in Social Media Profile Pictures",2017
+"Health and Wellbeing","Tiago Cunha, Ingmar Weber, Gisele Pappa","The Link Between Social Feedback and Weight Loss in a Reddit Community",2017
+"Health and Wellbeing","Munmun De Choudhury, Mrinal Kumar, Ingmar Weber","Computational Approaches Toward Integrating Quantified Self Sensing and Social Media",2017
+"Health and Wellbeing","Mark Lutter, Karlijn Roex","Celebrity Suicides and the Werther Effect. An Analysis of 34 OECD Countries using Wikipedia’s Celebrity Suicide Data",2017
+"Competition","Ashton Anderson, Etan Green","Personal Bests as Reference Points",2017
+"Competition","Jelena Grujic, Tom Lenaerts","Looking for the strategies in the repeated prisoner's dilemma when the cooperation is established",2017
+"Competition","Joshua Jung, Jesse Hoey","Computational Affective Model of Human Action in a Social Dilemma",2017
+"Competition","Ismo Koponen, Maija Nousiainen","Modelling discourse patterns in small groups of competing and co-operating members",2017
+"Competition","Oana Vuculescu, Carsten Bergenholtz, Michela Beretta","The Ikea-effect in collective problem solving",2017
+"Competition","Sabine Brunswicker, Michael Prietula","Transparency and Re-Use Patterns of Open Digital Crowd Contests: Linking Empirical and Computational Approaches",2017
+"Collaboration and Communities","Satyam Mukherjee, Sabine Brunswicker","Problem-centric Network Embeddedness and Productivity in Open Source Software Communities",2017
+"Collaboration and Communities","Pj Lamberson, John Lang, Noshir Contractor, Leslie Dechurch, Brian Uzzi","Sharing Strategies: Optimal networks for team collaboration and problem solving",2017
+"Collaboration and Communities","Joshua Becker, Devon Brackbill, Damon Centola","The Network Dynamics of Social Influence in the Wisdom of Crowds",2017
+"Collaboration and Communities","Dhaval Adjodah, Yan Leng, Shi Kai Chong, Peter Krafft, Alex Pentland","Social Bayesian Learning in the Wisdom of the Crowd",2017
+"Collaboration and Communities","Alejandro Noriega, Abdullah Almaatouq, Peter Krafft, Abdulrahman Alotaibi, Mehdi Moussaid, Alex Pentland","The Wisdom of Dynamic Networks: Selective Social Learning and the Adaptive Wisdom of Crowds",2017
+"Collaboration and Communities","Dimitris Sacharidis","Observing User Behavior in Group Recommender Systems",2017
+"Wikipedia","Fabian Flock, Kenan Erdogan, Maribel Acosta","Studying Content Survival, Authorship & Controversy – By Tracing Every Word Change on Wikipedia",2017
+"Wikipedia","Milena Tsvetkova, Ruth Garcia Gavilanes, Luciano Floridi, Taha Yasseri","Even Good Bots Fight",2017
+"Wikipedia","Florian Lemmerich, Philipp Singer, Robert West, Leila Zia, Ellery Wulczyn, Markus Strohmaier, Jure Leskovec","Why We Read Wikipedia",2017
+"Wikipedia","Marijn ten Thij, David Laniado, Andreas Kaltenbrunner, Yana Volkovich","Modeling collective attention on promoted content in Wikipedia",2017
+"Wikipedia","Juergen Lerner, Alessandro Lomi","Global warming is different from Racism: on the structure of controversy in Wikipedia",2017
+"Wikipedia","Anna Samoilenko, Fariba Karimi, Daniel Edler, Jerôme Kunegis, Markus Strohmaier","Linguistic neighbourhoods: Explaining cultural borders on Wikipedia through multilingual co-editing activity",2017
+"Wikipedia","Brian Keegan","The Evolution and Consequences of Peer Producing Wikipedia’s Rules",2017
+"Settings","Ivan Smirnov","School segregation in the digital space",2017
+"Settings","Flavio L Pinheiro, Sara Encarnacão","Mapping the Higher Education System",2017
+"Settings","Rene Kizilcec","Promoting Educational Attainment at Scale with Psychological Interventions",2017
+"Settings","Lori Beaman, Ariel Benyishay, Jeremy Magruder, Ahmed Mushfiq Mobarak","Can Network Theory-based Targeting Increase Technology Adoption?",2017
+"Settings","Kyle Higham, Michele Governale, Adam Jaffe, Ulrich Zülicke","Fame and Obsolescence: Disentangling growth and ageing dynamics of patent citations",2017
+"Protest and Activism","Lia Bozarth, Ceren Budak","Measuring the Value of Low-Cost Activism for Online Social and Political Movements",2017
+"Protest and Activism","Anna-Lena Honig","Explaining protest intensity: The effect of roles and communities in a global cooperation network",2017
+"Protest and Activism","Ryan Wesslen, Tiffany Gallicano, Jean-Claude Thill, Sagar Nandu","Hot issue publics on Twitter: Analyzing Charlotte protests with automated text analysis",2017
+"Protest and Activism","Dharmashankar Subramanian","A trigger-conditional Hawkes process model for social protest",2017
+"Mobility and Geo-Information","Johnnatan Messias, Fabricio Benevenuto, Ingmar Weber, Emilio Zagheni","From Migration Corridors to Clusters: The Value of Google+ Data for Migration Studies",2017
+"Mobility and Geo-Information","Philipp Hunziker, Carl Muller-Crepon, Matthew Simonson, Lars-Erik Cederman, David Lazer","All Roads Lead to Lagos: Road networks and the legacies of extractive colonialism",2017
+"Mobility and Geo-Information","Daniel Kondor, Behrooz Hashemian, Yves-Alexandre de Montjoye, Carlo Ratti","Estimating the possibility of trajectory-based reidentification for fusion of large-scale urban mobility datasets",2017
+"Mobility and Geo-Information","Riyadh Alnasser, Faisal Aleissa, Michele Catasta","Gender Prediction in Gender Segregated Societies Using Cell Phone Data",2017
+"Mobility and Geo-Information","Cristina Kadar, Irena Pletikosa","Leveraging Large-Scale Ubiquitous Data for Fine-Grained Crime Prediction",2017
+"Mobility and Geo-Information","Morgan Frank, Lijun Sun, Manuel Cebrian, Hyejin Youn, Iyad Rahwan","Small cities face greater impact from automation",2017
+"Network Dynamics","Eduardo Altmann","Stochastic popularity of social-media items",2017
+"Network Dynamics","Nikolai Bode","Computing Quantitative Taxonomies of Social Interactions from Data",2017
+"Network Dynamics","Jana Huisman, Olivia Woolley","Inter-modular connectivity creates structural instability in complex contagion",2017
+"Network Dynamics","Aamena Alshamsi, Flavio Pinheiro, Cesar Hidalgo","When to target hubs? Strategic Diffusion in Complex Networks",2017
+"Network Dynamics","Samuel Fraiberger, Roberta Sinatra, Christoph Riedl, Albert-Laszlo Barabasi","Reputation and Success in Art",2017
+"Methods","Maksym Byshkin, Alex Stivala, Mira Antonietta, Garry Robins, Alessandro Lomi","Efficient Markov chain Monte Carlo Estimation of Exponential Random Graph Models",2017
+"Methods","Michele Starnini, Andrea Baronchelli, Romualdo Pastor-Satorras","Effects of temporal correlations in social multiplex networks",2017
+"Methods","Holger Finger, Caspar Goeke, Dorena Diekamp, Kai Standvoß, Peter Konig","LabVanced: A Unified JavaScript Framework for Online Studies",2017
+"Methods","Ashton Anderson, Jon Kleinberg, Sendhil Mullainathan","Assessing Human Error Against a Benchmark of Perfection",2017
+"Methods","Stefano Nasini","On the estimation of pairwise influences in dynamic choices",2017
+"Methods","Claudia Wagner, Philipp Singer, Fariba Karimi, Jürgen Pfeffer, Markus Strohmaier","Sampling from Social Networks with Attributes",2017
+"Identity and Self-Presentation","Morgan Frank, Ahmad Alabdulkareem, Lijun Sun, Bedoor Alshebli, Cesar Hidalgo, Iyad Rahwan","The Polarized Network of Skill Complementarity",2017
+"Identity and Self-Presentation","Fariba Karimi, Mathieu Genois, Claudia Wagner, Philipp Singer, Markus Strohmaier","Visibility of minorities in social networks",2017
+"Identity and Self-Presentation","Teresa Gil Lopez, Cuihua Shen, Grace Benefield, Nicholas Palomares, Michal Kosinski, David Stillwell","One Size Fits All: Context Collapse, Self-Presentation Strategies and Language Styles on Facebook",2017
+"Identity and Self-Presentation","Samuel Martin, Sylvie Huet, Pascal Gend, Mohammed Amine Ait Oumajoud, Guillaume Deffuant, Armelle Nugier, Serge Guimond","Bounded confidence in extreme opinion evolution : an online experiment",2017
+"Identity and Self-Presentation","Tao Jia, Dashun Wang, Boleslaw Szymanski","Quantifying patterns of research interest evolution",2017
+"Discourse","Pedro Parraguez, Melanie Kreye, Phil Cash, Anja Maier","Mapping evolving uncertainty in a complex engineering design project with email mining",2017
+"Discourse","David Garcia, Pavlin Mavrodiev, Daniele Casati, Frank Schweitzer","Understanding social influence and inactivity patterns in the Twitter society",2017
+"Discourse","Pablo Aragon, Andreas Kaltenbrunner, Vicenc Gomez","The Effects of Conversation Threading on Online Discussion Networks",2017
+"Discourse","Janos Kertesz, Janos Torok, Yohsuke Murase, Hang-Hyun Jo, Kimmo Kaski","Mapping out the social web from Big Data: Modeling selection of communication channels",2017
+"Discourse","Yasuhiro Hashimoto, Mizuki Oka, Takashi Ikegami","Large fluctuation in social tagging ecosystems",2017
+"Keynote","Kathleen Carley","Social Influence on the Web: Bots and Fake News",2017
+"Keynote","Justin Grimmer","Exploratory and Confirmatory Causal Inference for High Dimensional Interventions",2017
+"Keynote","Daniel Romero","Examining the Effects of Exogenous Shocks on Social Networks and Collaborative Crowds",2017
+"Keynote","Milena Tsvetkova","Social Science Research with Games and Gamification",2017
+"Elections","Eszter Bokanyi, Zoltan Szallasi, Gabor Vattay","Urban Scaling in US Presidential Elections",2017
+"Elections","Kenneth Joseph, Nir Grinberg, Lisa Friedland, William Hobbs, Carolina Mattsson, Stefan McCabe, Lucas Da Silva Almeida, David Lazer","The Spread of Fake News on Twitter by Voters During the 2016 U.S. General Election",2017
+"Elections","Sebastian Stier, Arnim Bleier, Haiko Lietz, Markus Strohmaier","Platform effects on social media: Topic salience in a representative survey, Facebook and Twitter during an election campaign",2017
+"Elections","Ashrakat Elshehawy, Nikolay Marinov, Federico Nanni","Quantifying Attention to Electoral Integrity of Foreign States with Text Analysis",2017
+"Elections","Laura Hollink, Astrid van Aggelen, Jacco van Ossenbruggen","The Effect of Missing Translations on Analyses of European Legislative Speech",2017
+"Online politics","Denis Stukal, Sergey Sanovich, Joshua A Tucker","Detecting Political Bots on Russian Twitter",2017
+"Online politics","Stefan Evert, Philipp Heinrich, Fabian Schaefer","Social Bots in Japan’s 2014 General Election: Preliminary Results from a Corpus-Linguistic and Qualitative Study of Computational Propaganda on Twitter",2017
+"Online politics","Pablo Aragon, Yana Volkovich, David Laniado, Andreas Kaltenbrunner","Online Network Organization of an Emergent Movement-Party",2017
+"Online politics","Ruth Garcia Gavilanes, Anders Mollgaard, Milena Tsvetkova, Taha Yasseri","The Memory Remains: Understanding Collective Memory in the Digital Age",2017
+"Popular Culture","Osnat Mokryn, Nadim Bader, Joel Lanir, Yael Albo","Exploring Emotions in Online Movie Reviews",2017
+"Popular Culture","Krzysztof Kulakowski, Malgorzata Krawczyk","Children names – simulations and facts",2017
+"Popular Culture","Marc Keuschnigg, Martin Arvidsson, Peter Hedstrom","Cultural Dynamics at Spotify",2017
+"Popular Culture","Carmen Iasiello","Using Agent Based Modeling to Interpret Underlying Factors of Underrepresentation of Minorities in Hollywood Films",2017
+"Popular Culture","Michael Mauskapf, Jared Lorince, Noah Askin, Agnes Horvat, Brian Uzzi","Women and Creativity: Gender Differences in the Production of Popular Music",2017
+"Popular Culture","Johannes Wachs, Aniko Hannak, Balint Daroczy, Andras Voros","Gender Outcome Disparities in an Online Community of Designers",2017
+"Workplaces","Matthew Corritore, Amir Goldberg, Sameer Srivastava","What Difference Does Difference Make? A Language-Based Model of Cultural Heterogeneity and Firm Performance",2017
+"Workplaces","Lisa Posch, Arnim Bleier, Fabian Flock, Markus Strohmaier","A Cross-Country Comparison of Crowdworker Motivations",2017
+"Workplaces","Eray Alpan, Gokhan Gokturk, Selim Balcisoy, Burcin Bozkaya","Insurance Fraud Detection: A Network Modeling and Behavioral Analytics Approach",2017
+"Workplaces","Radoslaw Kowalski","Patients’ written reviews as a resource for public healthcare management in England",2017
+"Workplaces","Katie Metzler, Ian Mulvany","Opportunities and Challenges in Computational Social Science: A Publisher’s Perspective",2017
+"Keynote","Matt Taddy","Economic AI",2017
+"Keynote","Maria Pereda","Learning to be nice: social norm as a result of adjusting expectations",2017
+"Keynote","Jeff Hancock","Folk Theories and Cyber-Social Systems: Understanding People's Understanding",2017
+"Poster","Akin Unver","Geo-Spatial Network Analysis of Digital and Traditional Mobilization: The Case of Turkey’s Failed Coup",2017
+"Poster","Bertie Vidgen, Taha Yasseri, Helen Margetts","What factors drive the success of e-petitions? A case study of the UK Government’s e-petition website",2017
+"Poster","Kokil Jaidka, Saifuddin Ahmed","Predicting Protest Participation from Social Media",2017
+"Poster","Julia Proskurnia, Przemyslaw Grabowicz, Ryota Kobayashi, Carlos Castillo, Philippe Cudre-Mauroux, Karl Aberer","Predicting the Success of Online Petitions Leveraging Multidimensional Time-Series",2017
+"Poster","Richard Kim, Bjarke Felbo, Nick Obradovich, Iyad Rahwan","Quantifying structural factors affecting racial tensions during 2016 US Presidential election",2017
+"Poster","Lisa-Maria Neudert, Bence Kollyani","Computational Propaganda: Bots & Automated Misinformation in the German Elections",2017
+"Poster","Carlos Arcila, Felix Ortega, Miguel Vicente","Sentiment Analysis of Political Tweets based on Machine Learning Approaches using Streaming and Distributed Technologies",2017
+"Poster","Andres Abeliuk, Antonio Fernandez Anta, Nick Obradovich, Iyad Rahwan","Modeling the Evolution of Political Ideologies",2017
+"Poster","Javier Ruiz-Soler","Twitter as the new coffee house? The mapping of European issue publics and the analysis of its internal structure",2017
+"Poster","Jan Lorenz","How Public Policy Mood Cycles through Opinion Dynamics",2017
+"Poster","Floriana Gargiulo, Yerali Gandica","The role of homophily in the emergency of controversies",2017
+"Poster","Venkata Rama, Ingmar Weber","A long-term Analysis of Polarization on Twitter",2017
+"Poster","Jingwen Zhang, Ze Li","Hybrid Contagion: Theoretical and Practical Implications for Communication Campaigns",2017
+"Poster","George Boynton, Sikder Huq, Yelena Mejova","The Audience in Twitter Communication",2017
+"Poster","Angus Veitch","Exploring the agendas of a large number of discourse actors",2017
+"Poster","Lu Xiao","What Makes a User’s Comment Persuasive in Online Discussions? An Entry-Order Examination",2017
+"Poster","Elisa Celis, Siddhartha Tekriwal","What Do Users Want in Q&A Sites: Quality or Diversity?",2017
+"Poster","Hyunjin Seo, Stuart Thorson","Press Freedom Homophily and the Structure of the Global Internet",2017
+"Poster","Joanna Strycharz, Guda van Noort, Edith Smit, Rens Vliegenthart, Natali Helberger","Media effects on public opinion about online privacy",2017
+"Poster","Martin Hilbert, Saifuddin Ahmed, Jaeho Cho, Billy Liu, Jonathan Luu","Communicating with algorithms: a transfer entropy analysis of emotions-based escapes from online echo chambers",2017
+"Poster","Peter Krafft, Michael Macy, Alex Pentland","Bots as Virtual Confederates: Design and Ethics",2017
+"Poster","Samira Shaikh","A Construal Level Approach Towards Measuring Social Distance in Natural Language",2017
+"Poster","Kyriaki Kalimeri, Mariano Beiro, Andrea Bonanomi, Alessandro Rosina, Ciro Cattuto","Automatic Prediction of Youth Unemployment via Social Media Data",2017
+"Poster","Wei Huang, Tomas Uson, Alexander Zipf","Modeling “Psychological Crowd” based on Social Media Data: A Case Study of Toronto, Canada",2017
+"Poster","Venkata Rama, Jonathan Cohen, Ingmar Weber","Understanding Para Social Breakups on Twitter",2017
+"Poster","David Choi, Robert Freeland, Jesse Hoey","Occupational Social Status Modeling with Affect Control Theory",2017
+"Poster","Ailbhe N Finnerty, Debasis Ganguly, Emma Norris, Marta Marques, Alison O' Mara-Eves, James Thomas, Lea A Deleris, Pol Mac Aonghusa, Robert J West, Susan Michie","Advancing the Understanding of Behaviour Change through Artifical Intelligence and Machine Learning",2017
+"Poster","Bruce Sherin, Nicole Kersting, Matthew Berland","Mutually-supporting computational and traditional analysis for learning analytics",2017
+"Poster","Thomas Stoeger, Martin Gerlach, Richard Morimoto, Luis Amaral","Reconstructing a scientific discipline",2017
+"Poster","Jared Lorince, Martin Gerlach, Brian Uzzi","Measuring Textual Similarity of Scientific Papers to Predict Growth and Decline of Disciplines",2017
+"Poster","Christian Pentzold, Esther Weltevrede, Michele Mauri, David Laniado, Andreas Kaltenbrunner, Erik Borra","Mining Wikipedia as digital cultural heritage gateway and site",2017
+"Poster","Cristian Candia Vallejos, Cristian Jara Figueroa, Carlos Rodriguez Sickert, Cesar Hidalgo","The laws of forgetting: How time, popularity, and death shape human collective memory",2017
+"Poster","Santa Agreste, Pasquale De Meo, Emilio Ferrara, Sebastiano Piccolo, Alessandro Provetti","Analysis of a Heterogeneous Social Network of Humans and Cultural Objects",2017
+"Poster","Martyn Harris, Mark Levene, Dell Zhang, Alessandro Provetti","Crowdsourcing user relevance judgments for a Digital Humanities Information Retrieval system",2017
+"Poster","Jussi Ojala, Ingmar Weber, Emilio Zagheni, Francesco Billari","Fertility and its Meaning: Evidence from Search Behavior",2017
+"Poster","Emanuele Massaro, Daniel Kondor, Alessandro Vespignani, Carlo Ratti","Improving urban epidemiology using mobile phone data",2017
+"Poster","Narjes Tahaei, Aseel A Addawood","Scientific credibility behind MMR vaccination debates on Twitter",2017
+"Poster","Ferda Ofli, Yusuf Aytar, Ingmar Weber, Raggi Al Hammouri, Antonio Torralba","Is Saki #delicious? The Food Perception Gap on Instagram and Its Relation to Health",2017
+"Poster","Christa Brelsford, Caterina De Bacco, Joshua Abbott","Social Contagion in Water Conservation Program Adoption",2017
+"Poster","Kazuki Uchida, Fujio Toriumi, Takeshi Sakaki","Evaluation of robustness of clustering methods using incomplete data",2017
+"Poster","Elena Amista, Francesco Tarasconi, Vittorio Di Tomaso","Combining natural language processing and qualitative content analysis to understand online communication strategies in Italian local elections",2017
+"Poster","Maximilian Weber","From nought to sixty: Computer-assisted analysis of open-ended survey responses",2017
+"Poster","Kyriaki Kalimeri, Mariano Beiro, Andrea Bonanomi, Alessandro Rosina, Ciro Cattuto","Traditional versus Facebook-based Surveys: Evaluation of Biases in Self-reported Psychometric Information",2017
+"Poster","Peter Van Den Besselaar, Ali Khalili, Frank Van Harmelen, Klaas de Graaf","Improving social research using heterogeneous data: The SMS platform",2017
+"Poster","Alfredo Morales-Guzman, Xiaowen Dong, Yaneer Bar-Yam, Burcin Bozkaya, Alex Pentland","Coupling Patterns of Virtual and Physical Behavior",2017
+"Poster","Ignacio Tamarit, Maria Pereda, Robin Dunbar, Angel Sanchez","Dunbar’s numbers and social structure: Models and experiments",2017
+"Poster","Daniele Cassese","Surveillance on Networks",2017
+"Poster","Dmitry Zinoviev","Network Analysis of Conspiracy Theories and Pseudosciences",2017
+"Poster","Pablo Jensen, Matteo Morini, Marton Karsai, Eric Fleury, Patrick Flandrin","A mesoscale description of networks' dynamics through continuous partitioning",2017
+"Poster","Eun Lee, Fariba Karimi, Hang-Hyun Jo, Markus Strohmaier, Petter Holme","The effect of the homophilic on the local biased visibility",2017
+"Poster","Patrick Gildersleve, Taha Yasseri","Order in User Navigational Structures on Wikipedia",2017
+"Poster","Betsy Williams","Analyzing Each Other's Footprints: Interference in Crowded Online Research Ecosystems",2017
+"Poster","Eleonora Patacchini, Chris Rojas","Social Contagion and Selection in Large Online Systems",2017
+"Poster","Sanja Scepanovic, Igor Mishkovski, Bruno Goncalves, Hieu Nguyen Trung, Pan Hui","Semantic homophily in online communication: evidence from Twitter",2017
+"Poster","Emese Domahidi, Ana Levordashka, Vivian Fresen, Sonja Utz","Work related social support in Q&A sites: A content analysis approach",2017
+"Poster","Lucie Flekova, Jordan Carpenter, Lyle Ungar, Daniel Preotiuc-Pietro","Annotator Traits Impact Crowdsourced Assessment of other Users",2017
+"Poster","Amir Javed, Pete Burnap, Omer Rana","Real Time Prediction of Drive by Download Attacks on Twitter",2017
+"Poster","Scott Hale, Irene Eleta","Foreign-language Reviews: Help or Hindrance?",2017
+"Poster","Marlon Twyman, Brian Keegan, Aaron Shaw","Black Lives Matter in Wikipedia: Collaboration and Collective Memory around Online Social Movements",2017
+"Poster","Hyunjin Seo, Nicole Beckage","Social Media and Ethnic/Racial Inclusion: Topic Modeling and Multiplex Network Analysis Approach",2017
+"Poster","Martin Hilbert, Ryan James, Teresa Gill Lopez, Ke Jiang, Yining Zhou","The Predictability of Communication Patterns in Spontaneous Teamwork",2017
+"Poster","Werner Reichmann, Carsten Schwede","“Scopic Media” and the transformation of interaction order. A sociological interaction-experiment",2017
+"Poster","Soojong Kim, Natalie Herbert, Arnout van de Rijt, Damon M Centola","Emergence and Stability of Status Hierarchy",2017
+"Poster","Floriana Gargiulo, Gianluca Manzo","Reputation Dynamics: from theory, to Large-scale Digital Data, to models",2017
+"Poster","Mirko Lai, Marcella Tambuscio, Viviana Patti, Giancarlo Ruffo","The Significant Role of User's Community and Temporal Evolution on Stance Detection",2017
+"Poster","Adam Pah, John Hagan, Andrew Jennings, Aditya Jain, Kat Albrecht, Adam Hockenberry, Luis Amaral","Economic insecurity and the rise in gun violence at US schools",2017
+"Poster","Marco De Nadai, Emmanuel Letouze, Marta Gonzalez, Bruno Lepri","Inside Out: to understand crime mechanisms look at urban fabric first",2017
+"Poster","Katarzyna Growiec, Jakub Growiec, Bogumil Kaminski","Mapping the Dimensions of Social Capital",2017
+"Poster","Federico Musciotto, Luca Marotta, Jyrki Piilo, Rosario N Mantegna","Is high frequency trading networking a financial market?",2017
+"Poster","Raphael Heiberger","Predicting Economic Growth with Stock Networks",2017
+"Poster","Mohsen Bahrami, Burcin Bozkaya, Selim Balcisoy","Using Predictive Analytics to Learn and Predict Customer Invoice Payment Behavior",2017
+"Poster","Fabrizio Amarilli","A Co-evolution Perspective on Business IT Alignment. Implications for Corporate Management Practice",2017
+"Poster","Adrian Carro, Doyne Farmer","Towards a spatial agent-based model of the UK housing market",2017
+"Poster","Philipp Grunewald, Marina Diakonova","New data on the complex relationships between activities and electricity use in UK households",2017
+"Poster","Mohsen Mosleh, Babak Heydari","Co-evolution of Consumers’ Preferences in Sharing Economy and Traditional Platforms: the Case of Hospitality Industry",2017
+"Poster","Edmond Awad, Max Kleiman-Weiner, Sohan Dsouza, Jean-Francois Bonnefon, Azim Shariff, Josh Tenenbaum, Iyad Rahwan","Moral Responsibility for Suboptimal Death Toll Across Vehicle Automation Regimes",2017
+"Poster","Edmond Awad, Sohan Dsouza, Jean-Francois Bonnefon, Azim Shariff, Iyad Rahwan","Global Survey of Autonomous Vehicle Ethics using the Trolley Problem Paradigm",2017
+"Poster","Jasper Tjaden, Carsten Schwemmer, Menusch Khadjavi","Ride with me - Ethnic Discrimination in Online Car-Pooling Markets",2017
+"Poster","Toru Fujino, Yu Chen","Effects of Network Structure on the Performance of a Modeled Traffic Network with Drivers' Preference Heterogeneity",2017
+"Poster","Mariano Beiro, Ciro Cattuto, Leo Ferres, Eduardo Graells-Garrido, Loreto Bravo, Diego Caro","Understanding mall visiting patterns with CDR data",2017
+"Keynote","Duncan Watts","Contagion on Social Networks",2018
+"Keynote","Iain Couzin","Collective Sensing and Decision-Making in Animal Groups: From Fish Schools to Primate Societies",2018
+"Keynote","Nitesh Chawla","What Does the Quantified Self Tell about Qualified Self",2018
+"Keynote","Marta Sales-Pardo","Using Inference for Prediction on Social Systems",2018
+"Keynote","David Ferrucci","Understanding understanding",2018
+"Keynote","Damon Centola","How Behavior Spreads",2018
+"Keynote","Aaron Clauset","Scale Free Networks are Rare",2018
+"Keynote","Marta C.Gonzalez","Modeling and Planning Urban Systems with Novel Data Sources",2018
+"Keynote","Matthew Jackson","Dynamic Networks and Increasing Homophily and Polarization",2018
+"Keynote","David Lazer","The future(s) of computational social science",2018
+"Keynote","Moran Cerf","Usage of Neuroscience in Computational Social Science",2018
+"Keynote","Tanzeem Choudhury","How Social Science can Influence Technology Design for Influencing Behavior in the Physical World",2018
+"Keynote","Lada Adamic","How Cascades Grow",2018
+"Text and Social Media","Dmitry Zinoviev","Network Analysis of the 2016 Presidential Campaign Tweets",2018
+"Text and Social Media","Jacob Abitbol Levy, Marton Karsai, Jean-Pierre Chevrot, Jean-Philippe Mague, Eric Fleury","Socioeconomic and Network Dependencies of Linguistic Patterns in Twitter",2018
+"Text and Social Media","Chenhao Tan, Hao Peng, Noah Smith","You Are No Jack Kennedy: On Media Selection of Highlights from Presidential Debates",2018
+"Text and Social Media","Yevgeniy Golovchenko, Mareike Hartmann, Rebecca Adler-Nissen","Citizen Curators of Digital (Dis)Information: State, Media and Civil Society in the Information Warfare over Ukraine",2018
+"Text and Social Media","Sashank Santhanam, Samira Shaikh","I Stand with You: Detecting and Characterizing Expressions of Solidarity in Social Media",2018
+"Text and Social Media","Stefan Wojcik, Solomon Messing, Skye Toor","Bots on Twitter: Political or Just Prevalent?",2018
+"Text and Social Media","Bjarke Moensted, Piotr Sapieżynski, Emilio Ferrara, Sune Lehmann","Evidence of Complex Contagion of Information in Social Media: an Experiment Using Twitter Bots",2018
+"Text and Social Media","Yotam Shmargad, Limin Zhang","Social Media and the Rise of Dark Horse Candidates",2018
+"Culture","Austin Kozlowski, Matt Taddy, James Evans","The Geometry of Meaning: Analyzing Culture Through Word Embeddings",2018
+"Culture","Yian Yin, Yang Wang, James Evans, Dashun Wang","Temporal Scaling of Repeated Failures",2018
+"Culture","Charles Gomez","Global Epistemic Cultures and Their Nationalized Forms",2018
+"Culture","Samuel Fraiberger, Roberta Sinatra, Christoph Riedl, Albert-Laszlo Barabasi","Quantifying Reputation and Success in Art",2018
+"Culture","Julia Perczel, Balazs Vedres","Structural Properties of Canon-Formation in the Western Art World",2018
+"Culture","Hyunuk Kim, Marcus J. Hamilton, Woo-Sung Jung, Hyejin Youn","The Structure of Mythologies Explains Early Human Migrations Out of Africa",2018
+"Culture","Masahiro Kazama, Keisuke Matsushima, Lav R Varshney, Yoshiki Ishikawa","A Novel System for Transformation of Regional Cuisine Style",2018
+"Science of Science","David Jurgens, Srijan Kumar, Raine Hoover, Dan McFarland, Dan Jurafsky","Measuring the Evolution of a Scientific Field Through Citation Frames",2018
+"Science of Science","Yifang Ma, Satyam Mukherjee, Brian Uzzi","Universal Links Between Mentor’s Tacit Knowledge Transfer and Proteges’ Propensity for Leading Scientific Thinking",2018
+"Science of Science","Misha Teplitskiy, Eamon Duede, Karim Lakhani","Why Citations Don't Mean What We Think They Mean: Evidence from Citers",2018
+"Science of Science","Allison Morgan, Dimitrios Economou, Samuel Way, Aaron Clauset","Prestige Drives Epistemic Inequality in the Diffusion of Scientific Ideas",2018
+"Science of Science","Binglu Wang, Dashun Wang","Preferential Desertion Induces Structural Collapse in Science and Technology",2018
+"Science of Science","Shunzhe Yu, Isaac Waller, Ashton Anderson","Generalists and Specialists: Quantifying Activity Diversity in Online Platforms",2018
+"Science of Science","Johan Chu, James Evans","Too Many Papers? Slowed Canonical Progress in Large Fields of Science",2018
+"Science of Science","Valentin Danchev, Andrey Rzhetsky, James Evans","Centralized “Big Science” Communities More Likely Generate Non-Replicable Results",2018
+"Health and Wellbeing","Carlos Gallo, Hendricks Brown, Kevin Moran, Brian Mustanski","Preventing HIV by Analyzing Text Messages Written by Adolescent MSM",2018
+"Health and Wellbeing","Thomas Stoeger, Martin Gerlach, Richard Morimoto, Luis Nunes Amaral","Large-Scale Investigation of the Reasons Why Potentially Important Genes Are Ignored",2018
+"Health and Wellbeing","Balint Neray, Johan Koskinen, Patrick Janulis, Gregory Phillips Ii, Michelle Birkett","Inferring the Organizing Principles of Young Men Who Have Sex with Men from Combining Many Sex-Reports",2018
+"Health and Wellbeing","Abigail Jacobs, Mathijs De Vaan, Toby Stuart","The Diffusion of Opioids in Family Households",2018
+"Health and Wellbeing","Jessica Santana","Community Centrality and Boundary Work",2018
+"Health and Wellbeing","Pei Fang Hsieh","Measuring the Unmeasurable - A Project of High Risk Families Prediction and Management",2018
+"Health and Wellbeing","Giovanna Miritello, Manuel Cebrian, Cesar Hidalgo, Esteban Moro","Tie Strength Precedes Social Embeddedness",2018
+"Health and Wellbeing","Sharath Chandra Guntuku, Russell Ramsay, Raina Merchant, Lyle Ungar","Analyzing Linguistic Manifestations of ADHD in Adults on Social Media",2018
+"Politics","Feng Shi, Misha Teplitskiy, Eamon Duede, James Evans Satyam Mukherjee, Ryan Whalen","The Wisdom of Polarized Crowds",2018
+"Politics","Satyam Mukherjee, Ryan Whalen","Evolution and Formation of Judicial Advocacy Network",2018
+"Politics","Malgorzata Turalska, Ananthram Swami","Mesoscopic Signatures of Covert Groups: Changes in Motif Composition of the Provisional Irish Republican Army from 1970 to 1989",2018
+"Politics","Nick Judd","Who Speaks in the People's House? Policy Debate and Unequal Representation in the U.S. Congress",2018
+"Politics","Douglas Guilbeault, Joshua Becker, Damon Centola","Bipartisan Networks Reduce Political Bias in the Interpretation of Climate Trends",2018
+"Politics","Cristian Huepe","Opinion Fragmentation and Post-Truth Dynamics in Social Networks",2018
+"Politics","Bertram Vidgen, Taha Yasseri","The Where, What and When of Petitioning in the UK: a Case Study of Petitions Submitted to the UK Government",2018
+"Politics","Dave Gianetto, Mohsen Mosleh, Babak Heydari","The Dark Side of Resilience: Evolution of Market Competition Under the Affordable Care Act",2018
+"Methods","Amir Ghasemian, Homa Hosseinmardi, Aaron Clauset","Evaluating and Comparing Overfit in Models of Network Community Structure",2018
+"Methods","Martin Saveski, Jean Pouget-Abadie, Guillaume Saint-Jacques, Weitao Duan, Souvik Ghosh, Ya Xu, Edoardo M. Airoldi","Detecting Network Effects: Randomizing Over Randomized Experiments",2018
+"Methods","Ly Dinh, William Barley","A Multiple Membership Multiple Classification (MMMC) Model Approach for Egocentric Network Data",2018
+"Methods","Angelo Mele","A Structural Model of Homophily and Clustering in Social Networks",2018
+"Methods","Kenneth Joseph, Jonathan Morgan","The Identity Labeling Problem and a ""Solution"" to It",2018
+"Methods","Dallas Card, Noah Smith","The Importance of Calibration for Estimating Label Proportions",2018
+"Methods","Morgan Frank, Nick Obradovich, Iyad Rahwan, Brad Leveck, Lijun Sun","Detecting Reciprocity at a Global Scale",2018
+"Gender","Ivan Smirnov, Elizaveta Sivak","Gender Bias in Sharenting: Both Men and Women Mention Sons More Often than Daughters on Social Media",2018
+"Gender","Taha Yasseri","Semantic Map of Sexism: Topic Modelling of Everyday Sexism Project Entries",2018
+"Gender","Daniel Larremore, Aniko Hannak, Kenneth Joseph, Andrei Cimpian","The Branching Pipeline: Understanding Gender Disparities Within and Across Fields",2018
+"Corporations","Judy Hanwen Shen, Morgan Frank, Esteban Moro, Iyad Rahwan","Evolution of Employment in the United States: a Half-Century of Polarization",2018
+"Corporations","Yuan Tian, Ned Smith, Brayden King","Labor Cost Advantage of Status and Corporate Social Responsibility: Evidence from a Regression Discontinuity Design",2018
+"Corporations","Joshua Gary Mausolf","Corporate Politics: the Rise of Partisan Polarization in Firms, 1984-2016",2018
+"Corporations","Richard Benton, J Adam Cobb","Eyes on the Horizon? Fragmented Elites and the Short-Term Focus of the American Corporation",2018
+"Application of Algorithms","Jens Hainmueller, Kirk Bansak, Jeremy Ferwerda","Improving Refugee Integration Through Data-Driven Algorithmic Assignment",2018
+"Application of Algorithms","Julia Koschinsky, Nicole Marwell","Addressing Bigger Picture Questions in Human Services Funding with Government Open Data: A Cautionary Tale",2018
+"Application of Algorithms","Martin Hilbert, Billy Liu, Jonathan Luu, Joel Fishbein","Behavioral Experiments with Social Algorithms: An Information Theoretic Approach to Greying the Black Box",2018
+"Application of Algorithms","Edmond Awad, Sydney Levine, Max Kleiman-Weiner, Sohan Dsouza, Joshua Tenenbaum, Azim Shariff, Jean-Francois Bonnefon, Iyad Rahwan","Blaming Humans in Autonomous Vehicle Accidents: Shared Responsibility Across Levels of Automation",2018
+"Space","Inho Hong, Morgan Frank, Iyad Rahwan, Woo-Sung Jung, Hyejin Youn","Urban Economies Recapitulate a Common Trajectory",2018
+"Space","Dan O'Brien","The Role of Microplaces in the Urban Landscape: The Case of the Distribution and Consequences of Violent Crime",2018
+"Social Class","Vedran Sekara, Jonggun Lee, Miguel Luengo, Nick Obradovich, Manuel Garcia-Herranz, Esteban Moro","Predicting Socio-Economic Indicators for Multiple Countries from Social Media Data",2018
+"Social Class","Patrick Park, Minsu Park, Michael Macy","Economic Correlates of Diversity and Inequality in Online Social Networks",2018
+"Social Class","Omid Askari, Jacqueline Ng, Francesco Bullo, Noah Friedkin, Ambuj Singh, Brian Uzzi","Transitions Between Structurally Balanced and Unbalanced States and Risky Decision-Making in Social Networks",2018
+"Social Class","Hui-Min Xu, Zhi-Cong Chen, Cheng-Jun Wang","Social Classes Shape Our Trajectories in Both Online and Offline Space",2018
+"Conversation","David Ifeoluwa Adelani, Fabian Flock, Przemyslaw Grabowicz, Scott Hale, Timo Hartman, David Jurgens","Agendas on Social Media: Inferring Policy Attention from Non-Representative Data",2018
+"Conversation","Karoly Takacs, Boroka Papay, Julia Galantai, Balint Kubik","The Gossip Hypothesis",2018
+"Conversation","Federica Bianchi, Christoph Stadtfeld, Alessandro Lomi","Money Talks: An Empirical Study on the Conversational Structure of Financial Markets",2018
+"Conversation","Andras Voros","Friends Under Pressure: The Dynamics of Group Disagreement and Social Structure in Closed Communities",2018
+"Words","Marc-Etienne Brunet, Ashton Anderson, Richard Zemel","Tracing the Origins of Bias in Word Embeddings",2018
+"Words","Aghniadi Aghniadi, Annabelle Wenas","Courting of Public Opinion: How We Measure the Discourse of Human Rights Issues in Indonesia Through Topic Modeling of Aksi Kamisan Letters",2018
+"Words","Rishemjit Kaur, Kazutoshi Sasahara","Mapping the Moral Domain: A Factor Analysis of Distributed Representations of Moral Words",2018
+"Words","Molly Lewis, James Evans","Second-Language Learner Text as a Window into the Alignment of Cross-Linguistic Semantics",2018
+"Music","Samuel Way, Santiago Gil, Manish Nag, Aaron Clauset","Environmental Changes and the Formation of Musical Identity",2018
+"Music","Michael Mauskapf, Noah Askin, Agnes Horvat, Brian Uzzi","Is There a Gender Gap in the Novelty of Creative Products? Evidence from the Global Music Industry",2018
+"Music","Jan-Felix Schneider, Andrew Schwartz","Can Inferred Personality Improve the Accuracy of Music Recommender Systems?",2018
+"Music","John Ternovski, Taha Yasseri","Social Influence in Music Listenership: A Natural Experiment on 1.3 Million Last.fm Users",2018
+"Personality","Niccolo Pescetelli, Iyad Rahwan","Hybrid Intelligence: Preliminary Results from a National Forecasting Competition",2018
+"Personality","Kazutoshi Sasahara","You Are What You Eat: A Social Media Study of Personality Traits",2018
+"Personality","Martin Gerlach, Beatrice Farb, William Revelle, Luis Amaral","A New Computational Approach to the Debate on Personality Types Using Large Datasets",2018
+"Personality","Megan Squire","Analyzing Far-Right Extremist Facebook Group Co-Membership During the ""Summer of Hate""",2018
+"Social Movements","Hao Peng, Daniel Romero, Ceren Budak","Event-Driven Modeling of Crowd Dynamics in Online Social Movements",2018
+"Social Movements","Laura Nelson","The Role of Ideational and Socio-Structural Isomorphism for Social Movement Success",2018
+"Social Movements","Yang Yang, Adam Pah, Brian Uzzi","A Simple Model of the Shift from Low to High Lethality in Terror Organizations",2018
+"Social Movements","Edmond Awad, Sohan Dsouza, Richard Kim, Jonathan Schulz, Joseph Henrich, Azim Shariff, Jean-Francois Bonnefon, Iyad Rahwan","The Moral Machine Experiment: 40 Million Decisions and the Path to Universal Machine Ethics",2018
+"Cooperation","Julian Vicens, Nereida Bueno-Guerra, Mario Gutierrez-Roig, Carlos Gracia-Lazaro, Jesus Gomez-Gardeñes, Josep Perello, Angel Sanchez, Yamir Moreno, Jordi Duch","Resource Heterogeneity Leads to Unjust Effort Distribution in Climate Change Mitigation",2018
+"Cooperation","Keith Burghardt, Daniel Simmons, Luba Levin-Banchik, Michelle Phillips, Paul Smaldino, Raissa D'Souza, Zeev Maoz","Cooperative Multiplex Network Evolution and Responses to Shocks",2018
+"Cooperation","Mohsen Mosleh, David Rand","Thinking Fast and Slow on Networks: Co-Evolution of Cognition and Cooperation in Structured Populations",2018
+"Cooperation","Pj Lamberson, John Lang","Optimal Networks for Exploration and Exploitation",2018
+"Collective Behavior","Frank Marrs, Bailey Fosdick, Tyler H. McCormick","Inference in Network Regression",2018
+"Collective Behavior","Daniel Alexandrov, Ilya Musabirov, Viktor Karepin","Educational Migration from Russia: Social Media Data",2018
+"Collective Behavior","Joshua Becker, Damon Centola","Can Individuals Benefit from the Wisdom of Crowds?",2018
+"Collective Behavior","Jeremy Foote, Benjamin Mako Hill, Nathan Teblunthuis","An Agent-Based Model of Online Community Joining",2018
+"News and Media Consumption","Kokil Jaidka, Saifuddin Ahmed","Can We Predict Elections from Social Media? A Comparison of Computational Methods",2018
+"News and Media Consumption","Subhayan Mukerjee, Sandra Gonzalez-Bailon, Silvia Majo-Vazquez","Networks of Audience Overlap in the Consumption of Digital News",2018
+"News and Media Consumption","King-Wa Fu, Yun Tai","Tracking Censorship of WeChat Public Accounts in China: a Computational Social Science Approach",2018
+"News and Media Consumption","Silvia Majo-Vazquez, Sandra Gonzalez-Bailon, Rasmus K. Nielsen","The Backbone Structure of Audience Networks: A New Approach to Comparing Online News Consumption Across Countries",2018
+"News and Media Consumption","Iain Weaver, Hywel Williams","Bipartite Network Analysis of News-Sharing on Social Media During the UK General Election in 2015 General",2018
+"News and Media Consumption","Lorien Jasny, Susan Banducci, Iulia Cioroianu, Travis Coan, Iain Weaver, Hywel Williams","Voting Behavior, Beliefs, and Online News Consumption: A comparison of survey responses and clickstream data during Brexit using topic models and network analysis",2018
+"Online Platforms and Experiments","Sayamindu Dasgupta, Benjamin Mako Hill","How “Wide Walls” Can Increase Engagement: Evidence from a Natural Experiment in Scratch",2018
+"Online Platforms and Experiments","Zsofia Boda, Timon Elmer, Andras Voros, Christoph Stadtfeld","Seeds of Social Structure",2018
+"Online Platforms and Experiments","John Paolillo, Sharad Ghule, Brian Harper","A Network History of YouTube",2018
+"Online Platforms and Experiments","Joyce Delnoij, Rense Corten, Paolo Parigi","The Impact of Sharing on Trust: An Online Field Experiment Among Airbnb Users",2018
+"Online Platforms and Experiments","Rene Kizilcec, David Lang, Ben Stenhaug","Heterogeneous Effects of Cellphone Credit Incentives on Mobile Learning in Africa",2018
+"Online Platforms and Experiments","Ruowei Jiang, Ashton Anderson","Individual Goal-Seeking Behavior: A Large-Scale Study",2018
+"Scientific Collaboration and Impact","Allison Morgan, Samuel Way, Aaron Clauset","Automatically Assembling a Full Census of an Academic Field",2018
+"Scientific Collaboration and Impact","Yang Wang, Benjamin Jones, Dashun Wang","Early Career Failure and Long-Term Scientific Impact",2018
+"Scientific Collaboration and Impact","Yifang Ma, Brian Uzzi","The Scientific Prize Network and Trying Out to Be the First in Science",2018
+"Scientific Collaboration and Impact","Yuan Tian, Brian Uzzi","Informal Intellectual Collaboration in Scientific Community and Knowledge Production",2018
+"Scientific Collaboration and Impact","Yuxiao Dong, Hao Ma, Kuansan Wang","Collaboration Diversity and Scientific Impact",2018
+"Scientific Collaboration and Impact","Yuxiao Dong, Hao Ma, Zhihong Shen, Kuansan Wang","A Century of Science",2018
+"Teams","Marlon Twyman, Jessica Mesmer Magnus, Alina Lungeanu, Leslie Dechurch, Noshir Contractor","The Emergence and Development of Crew Shared Mental Models: An Agent-Based Model",2018
+"Teams","Edward Platt, Daniel Romero","Network Structure, Efficiency, and Performance on WikiProjects",2018
+"Teams","Valery Yakubovich, Roman Galperin, Mouna El Mansouri","Timing Is Money: Employment Relationships in a Virtual Call Center",2018
+"Teams","Marc Santolini, Abhijeet Krishna, Leo Blondel, Thomas Landrain, Albert-Laszlo Barabasi","Predicting Team Success in the iGEM Scientific Competition",2018
+"Teams","Manuel Cebrian, Martin Saveski, Edmond Awad, Iyad Rahwan","Computers Outperform Humans at Judging Group Performance Based on Sparse Visual Cues",2018
+"Teams","Lingfei Wu, Jie Tang, Dashun Wang, James Evans","Only Diamond Can Cut Diamond in Science",2018
+"Learning","Kristen Altenburger, Johan Ugander","The Network Structure of Attribute Missingness",2018
+"Learning","Teun Cuijpers, Maurice Vergeer, Erik Bijleveld","Studying the Effects of Stereotyping and Emotion on Viral Contagion Through a Deep Learning Approach",2018
+"Learning","Nazanin Alipourfard, Peter G. Fennell, Kristina Lerman","Using Simpson's Paradox to Discover Interesting Patterns in Behavioral Data",2018
+"Learning","Hyunuk Kim, Daniel Kim, Young-Ho Eom, Hawoong Jeong, Woo-Sung Jung, Hyejin Youn","Reconstructing Technology Space from a Secret Recipe of High Impact Innovation",2018
+"Learning","Stefano Balietti, Christoph Riedel","The Market Structure for Innovation",2018
+"Learning","Katharine Anderson","Skill networks and measures of complex human capital",2018
+"Poster","Iain Cruickshank, Kathleen Carley","A Gower Approach to Group Detection",2018
+"Poster","Zhiya Zuo, Kang Zhao","A Graphical Model for Topical Impact Over Time",2018
+"Poster","Johan Koskinen, Alex Stivala, Garry Robins","A Mixture Model for the Degree Distribution and Local Dependencies",2018
+"Poster","Pj Lamberson, Stuart Soroka","A Model of Attentiveness to Outlying News",2018
+"Poster","Alice Kathmandu, Jian Song, Yu Zhang, Tingyu Chen, Geoffrey Cohen","Advanced Machine Learning Algorithms Fail to Generalize Across Cultures",2018
+"Poster","Jiaying Liu, Wei Wang, Xiangjie Kong, Feng Xia","Advisor-Advisee Relationship Mining and Analysis in Scholarly Big Data",2018
+"Poster","Tiffany Tang, Hang Xie","All Underestimated Talent in Society Matter!: Sentiment Analysis on a Chinese Parent Support Forum on Autism",2018
+"Poster","Hanyu Shi, Martin Gerlach, Isabel Diersen, Doug Downey, Luis Amaral","An Objective Synthetic Benchmark for the Evaluation of Topic Modeling",2018
+"Poster","Thomas Marlo","Analyzing Industrial Neighborhoods in Rhode Island",2018
+"Poster","Nicholas Garcia, Natalia Levina","Applying Computational Techniques to Organizational Process Theory",2018
+"Poster","Christa Brelsford, Caterina De Bacco","Are `Water Smart Landscapes' Contagious? an Epidemic Approach on Networks to Study Peer Effects",2018
+"Poster","Xiaoyan Lu, Boleslaw Szymanski","Asymptotic Resolution Bound of Generalized Modularity and Its Implications",2018
+"Poster","Masanori Takano, Takaaki Tsunoda","Bullied-Experience Talks in Online Communications: Support for Bullied Children",2018
+"Poster","Donghui Wang","Climate Change Sentiment on Twitter in Alaska: a Spatial-Temporal Analysis",2018
+"Poster","Chico Camargo, Scott Hale, Helen Margetts, Peter John","Computational Measures of Political Volatility",2018
+"Poster","Nan Zhang, Heng Xu","Confidence Levels for Empirical Research Using Twitter Data",2018
+"Poster","Shubhanshu Mishra, Hyejin Lee, Jinseok Kim, Vetle Torvik, Jana Diesner","Construction of Hierarchical Subject Headings for Computer Science and Their Application to Studying Temporal Trends in Scholarly Literature",2018
+"Poster","Masoomali Fatehkia, Daniel O’brien, Ingmar Weber","Correlated Impulses: Using Facebook Interests to Improve Predictions of Crime Rates in Urban Areas",2018
+"Poster","Xiu-Xiu Zhan, Chuang Liu, Zi-Ke Zhang, Gui-Quan Sun, Jonathan Jh Zhu","Coupling Dynamics of Epidemic Spreading and Information Diffusion on Social Networks",2018
+"Poster","Steven Wilson, Yiting Shen, Rada Mihalcea","Crowd-Powered Concept Sorting for Lexicon Creation",2018
+"Poster","Alina Lungeanu, Patrick Park, Leslie Dechurch, Noshir Contractor","Deep Space Collaboration: Impact of Latency and Social Networks on Collaborative Work",2018
+"Poster","Damien Crone, Edward Slingerland","Describing Moral Concepts with Topic Modelling and Wikipedia",2018
+"Poster","Hadar Miller, Osnat Mokryn","Detecting the Effect of External Events on Dynamic Social Networks",2018
+"Poster","Miriam McKinney, Jessica Peker","Dialectic and Idiomatic Sensitivity in Text Analysis: The Importance of Constructing Inclusive Algorithms for 311 Data Normalization",2018
+"Poster","Nathan Teblunthuis","Discovering Clusters of Opinion in Wiki Surveys with Bayesian Latent Factor Analysis",2018
+"Poster","Sanaz Bahargam, Evangelos Papalexakis","Discovering Time-Evolving Topics of Varying Levels of Difficulty Via Constrained Coupled Matrix-Tensor Factorization",2018
+"Poster","Mitsuo Yoshida, Fujio Toriumi","Diversity of Political Information Received by Political Detachment Users on Social Media",2018
+"Poster","Fredrik Erlandsson, Piotr Brodka, Martin Boldt, Henric Johnson","Do We Really Need to Catch Them All? A New User-Guided Social Media Crawling Method",2018
+"Poster","Matthew Oldham","Drafting Agent-Based Modeling Into Basketball Analytics",2018
+"Poster","Esteban Moro, Dan Calacci, Xiaowen Dong, Manuel Cebrian, Alex Pentland","Economical Segregation of Encounter Networks in Cities",2018
+"Poster","Hiroko Yamano, Masanao Ochi, Ichiro Sakata","Effects of Industrial Concentration and Growth Stage on Mergers and Acquisitions in Japan",2018
+"Poster","Jessica Santana","Embracing Failure: A Cultural-Computational Analysis of Failure Narrative Strategies in Entrepreneurship",2018
+"Poster","Dong Nguyen, Barbara McGillivray, Taha Yasseri","Emo, Love, and God: Making Sense of Urban Dictionary, a Crowd-Sourced Online Dictionary",2018
+"Poster","Deepak Rishi, Meiyappan Nagappan, Tobias Schroeder, Kimberly Rogers, Jesse Hoey","Emotion and Interaction Processes in a Collaborative Online Network",2018
+"Poster","Marcin Kulisiewicz, Przemyslaw Kazienko, Boleslaw Szymanski, Radoslaw Michalski","Entropy of Evolving Temporal Social Networks",2018
+"Poster","Yunqi Xue, Priya Chakraborty","Epistemic Dynamics of Professional-Social Influence",2018
+"Poster","Denis Stukal, Sergey Sanovich, Richard Bonneau, Joshua Tucker","For Whom the Bot Tolls: A Neural Networks Approach to Measuring Political Orientation of Twitter Bots in Russia",2018
+"Poster","Chenhao Tan, Dallas Card, Noah Smith","Friendships, Rivalries, and Trysts: Characterizing Relations Between Ideas in Texts",2018
+"Poster","Li Zeng, Zack Almquist, Emma Spiro","Gender Differences in Social Exercise in an Online Fitness Community",2018
+"Poster","Enrico Forti, Kenny Ching, Evan Rawley","Generalists in Temporary Teams: Evidence From Random Assignment in E-Sports",2018
+"Poster","Yifan Qian, Paul Expert, Pietro Panzarasa, Mauricio Barahona","Geometric Deep Learning and Node Classification: An Application of Graph Convolutional Networks to Citation Networks",2018
+"Poster","Louis Chauvel, Eyal Bar-Haim, Anne Hartung, Anja Leist","Global Inequalities 1980-2050: A Microdata Oriented Simulation – Worldsim",2018
+"Poster","Sylvain Parasie, Jean-Philippe Cointet","Google Trends as a Research Tool to Monitor Public Attention During 2017 French Presidential Elections",2018
+"Poster","Marcin Waniek, Tomasz Michalak, Michael Wooldridgeand Talal Rahwan","Hiding Individuals and Communities in a Social Network",2018
+"Poster","Jason Jones","Identity Trends: A Method and Dataset Creation Tool for the Longitudinal Study of Self",2018
+"Poster","Maximilian Weber","Imagine Your Life One Decade Later. How Do Responses on Individuals’ Ideas on Life Change Between the Age of 11 and 50?",2018
+"Poster","Dhaval Adjodah, Dan Calacci, Abhimanyu Dubey, Yan Leng, Peter Krafft, Esteban Moro, Alex Pentland","Improving Deep Reinforcement Learning with Collective Intelligence",2018
+"Poster","Jiin Jung, Scott Page, Aaron Bramson","Indirect Minority Influence as a Source of Opinion Diversity",2018
+"Poster","Bedoor Alshebli, Anahit Sargsyan, Areg Karapetyan, Talal Rahwan, Wei Lee Woon","Informing Science Using Recommender Systems",2018
+"Poster","Nahum Alvarez, Itsuki Noda","Intelligent City Planning from Pedestrian Behavior Simulation",2018
+"Poster","Ian Miller, Elizabeth Page-Gould, Cara MacInnis","Intergroup Contact Effects Produced by Simulated Intergroup Interactions",2018
+"Poster","Gian-Luca Savino, Miriam Sturdee, Simon Runde, Christine Lohmeier, Brent Hecht, Johannes Schoning","Maprecorder: Analyzing Real World Usage of Mobile Map Applications",2018
+"Poster","Nabeel Gillani, Ann Yuan, Martin Saveski, Soroush Vosoughi, Deb Roy","Me, My Echo Chamber, and I: Introspection on Social Media Polarization",2018
+"Poster","Yuan Yuan, Tracy Liu, Chenhao Tan, Jie Tang","Online Red Packets: A Large-Scale Empirical Study of Gift Giving on Wechat",2018
+"Poster","Osnat Mokryn, Allon Wagner, Marcel Blattner, Eytan Ruppin, Yuval Shavitt","Trendy Is Better Than Rich? The Role of Temporal Trends in Networks",2018
+"Poster","Kinga Makovi, Byungkyu Lee","Microfinance Revisited: The Role of Modularity and Tie Multiplexity in Diffusion Processes on Networks",2018
+"Poster","Rediet Abebe, Lada Adamic, Jon Kleinberg","Mitigating Overexposure in Viral Marketing",2018
+"Poster","Marcin Waniek, Aamena Alshamsi","Mitigating Strategic Attack Diffusion in Security Games",2018
+"Poster","Chris Marcum","Modeling Association in Multiple Layer Networks Using the Conway-Maxwell Binomial Distribution in an Exponential Random Graph Framework",2018
+"Poster","Hemant Purohit, Bonnie Stabile, Aubrey Grant, Rahul Pandey","Modeling Policy-Relevant Intent Related to Gender Violence Myths on Social Media Using Social Construction Theory",2018
+"Poster","Marton Karsai, Hang-Hyun Jo, Kimmo Kaski","Models of Bursty Human Dynamics",2018
+"Poster","George Garas, Isabella Cingolani, Pietro Panzarasa, Ara Darzi, Thanos Athanasiou","Network Analysis of Surgical Innovation: Measuring Value and the Virality of Diffusion in Robotic Surgery",2018
+"Poster","Suchismita Goswami, Edward Wegman","Network Neighborhood Analysis for Detecting Anomalies Using Scan Statistics of Time Series of Graphs",2018
+"Poster","Helge Marahrens, Sam Regas, Patrick Kaminski","Omnivorousness as a Precondition for Specific and Obscure Tastes",2018
+"Poster","Andrew Butters, Scott Brave","On the Network Origins of Approximate Factor Models",2018
+"Poster","Peter Krafft, Matt Goerzen, Joan Donovan","Platform Filtering: How Rumors Crystallize When Crossing Platform Boundaries",2018
+"Poster","Gurpreet Ahitan, Michael Fagan, Federica Nocera","Plug-Or-Not: Identifying Commercial ""Plugs"" Within Twitter",2018
+"Poster","Samaneh Saadat, Gita Sukthankar","Predicting the Performance of Software Development Teams on Github",2018
+"Poster","Taylor Brown","Qualities and Inequalities Gendered Valuation in the Contemporary Art Market",2018
+"Poster","Li Zhang, Steven Wilson, Rada Mihalcea","Relating Human Activities with Phrasal Embeddings",2018
+"Poster","Wei Wang, Shuo Yu, Teshome Bekele, Xiangjie Kong, Feng Xia","Scientific Collaboration Patterns Vary with Scholars' Academic Age Kinga Makovi and Byungkyu Lee",2018
+"Poster","Youyou Wu, Yang Yang, Brian Uzzi","Scientists Get a Brain Boost: AI Mind + Machine Partnership and the Reproducibility Problem in Science",2018
+"Poster","Alix Rule, Jean-Philippe Cointet","Selecting Newspaper Coverage to Achieve Continuous Views of the Social World Over Long Periods of Time",2018
+"Poster","Yang Yang, Nitesh Chawla, Brian Uzzi","Sex Differences in Social Networks Predict Placement in Stem Leadership Positions",2018
+"Poster","Mary Monroe, George Banks, Ryan Wesslen","She's Got the ""It"" Factor: An Investigation of Charisma and Female Leaders",2018
+"Poster","Didem Gundogdu, Pietro Panzarasa, Nuria Oliver, Bruno Lepri","Social Capital and Mobile Phone Data: Evidence From a Developing Country",2018
+"Poster","Alexandra Ils, Katia Begall, Daniela Grunow","Social Change in Media Perspective: The Coverage of the 2007 Parental-Leave Reform in Germany",2018
+"Poster","Sabine Brunswicker, Satyam Mukherjee","Spatial and Temporal Separation in Coordination Structures in OSS",2018
+"Poster","Xiaoyan Lu, Boleslaw Szymanski","Stabilizing Block Model Inference in Sparse Networks",2018
+"Poster","Jaroslaw Jankowski, Boleslaw Szymanski, Przemyslaw Kazienko, Radoslaw Michalski, Piotr Brodka","Studying Limits of Information Spread with Sequential Seeding",2018
+"Poster","Boroka Papay, Balint Kubik, Julia Galantai, Karoly Takacs","The Content of Informal Communication: Topic Modeling on a Spontaneous Speech Corpus",2018
+"Poster","Jingwen Zhang, Cuihua Shen, Jaroslaw Jankowski, Piotr Brodka","The Duet of Persuasion and Social Influence in Decision Cascades",2018
+"Poster","Brian Keegan","The Dynamics of Peer-Produced Political Information During the 2016 U.S. Presidential Campaign",2018
+"Poster","Samuel Way, Allison Morgan, Daniel Larremore, Aaron Clauset","The Effects of Departmental Prestige on Researcher Productivity and Impact",2018
+"Poster","Gabriel Rossman, Jake Fisher","The Fragility of Opinion Leadership",2018
+"Poster","Morgan Frank, Esteban Moro, Iyad Rahwan","The Hidden Constraints on Career Mobility: How Skills Determine a Worker's Next Move",2018
+"Poster","Jeroen van Den Ochtend, Markus Meierer, Rene Algesheimer","The Impact of Private Information and Social Influence on Consumer Behavior",2018
+"Poster","Zhi-Cong Chen, Lingfei Wu, Naipeng Chao, Cheng-Jun Wang","The Poor Read for Entertainment and the Rich Read for Education: Poverty, Fragmentation, and Knowledge Homogeneity",2018
+"Poster","Jon Atwell","The Production of New Meaning in a Networked Public: Evidence From an Online Community",2018
+"Poster","Yu-Ya Rong","The Relationship Between Work-Family Conflict and Work Stress: Effects of Supervisor Support and Gender",2018
+"Poster","Zhiya Zuo, Kang Zhao","The Role of Advisor in Faculty Hiring: A Case Study of U.S. Information Schools",2018
+"Poster","Joshua Becker, Damon Centola, Ethan Porter","The Wisdom of Political Crowds: Increasing Accuracy and Reducing Polarization How Echo Chambers",2018
+"Poster","Yuan Yuan, Ahmad Alabdulkareem, Alex Pentland","Trade-Off Between Social Exchange and Homophily in Social Network Formation",2018
+"Poster","Masanori Takano","Two Types of Social Grooming Methods Depending on the Trade-Off Between the Number and Strength of Social Relationships",2018
+"Poster","Andres Abeliuk, Nathan Bartley, Kristina Lerman","Uber's Impact on Flu Infections: an Exploratory Analysis",2018
+"Poster","Yang Yang, Chenhao Tan, Zongtao Liu, Fei Wu, Yueting Zhuang","Urban Dreams of Migrants: A Case Study of Migrant Integration in Shanghai",2018
+"Poster","Masoomali Fatehkia, Ridhi Kashyap, Ingmar Weber","Using Facebook Ad Data to Track the Global Digital Gender Gap",2018
+"Poster","Rezvaneh Rezapour, Yodsawalai Chodpathumwan","Using Linguistic Cues for Analyzing Social Activism",2018
+"Poster","Emily Porter, Brian Keegan","Visual Rhetoric and Collective Memory Across Peer-Produced Accounts of Political Crises",2018
+"Poster","Lorien Jasny, Susan Banducci, Iulia Cioroianu, Travis Coan, Iain Weaver, Hywell Williams","Voting Behavior, Beliefs, and Online News Consumption: A Comparison of Survey Responses and Clickstream Data During Brexit Using Topic Models and Network Analysis",2018
+"Poster","Hirotake Ito, Takanori Nishida, Lav R. Varshney, Yoshiki Ishikawa","Weak Ties in Job Change: Evidence From Business Card Exchange in Japan",2018
+"Poster","Subhayan Mukerjee, Sandra Gonzalez-Bailon","What Counts as a Weak Tie? A Comparison of Thresholding Techniques for Analyzing Weighted Networks",2018
+"Poster","Igor Zakhlebin, Agnes Horvat","When Everyone Agrees: Similarity of Centrality Indices in Citation Networks",2018
+"Poster","King-Wa Fu","“Fake News” Drives Out Real: Analyzing Posts and Links Shared in Virtual Communities of Facebook Public Pages During 2016 US Presidential Election",2018
