@@ -1374,3 +1374,627 @@ Poster,"Anupama Aggarwal, Claudia Wagner, Fabian Flöck, Ali Aghelmaleki and Jul
 Poster,Tobias Buchmann and Patrick Wolf,Classifying European research networks,2019
 Poster,"Maayan Levinson, Yuval Benjamini and Liat Ayalon",The Making of a Place: Social Networks in Long Term Care Institutions for Older Adults,2019
 Poster,"Alex Rutherford, Shahad Althobaiti , Ahmad Alabdulkareem and Iyad Rahwan",Evolution of Employment in the United States: A Longitudinal Study of Job Polarisation,2019
+Algorithmics & Public Opinion,"Fengyuan Michael Liu, Hazem Ibrahim, Talal Rahwan, Yasir Zaki",Google Scholar is manipulatable,2024
+Algorithmics & Public Opinion,"Alvin Zhou, Danaë Metaxa, Shengchun Huang, Stephanie Wang","Lower Quantity, Higher Quality: Perceptions and Impact of Algorithmic News Curation on Twitter/X",2024
+Algorithmics & Public Opinion,"Grant Schoenebeck, Md Sanzeed Anwar, Paramveer Dhillon",Filter Bubble or Homogenization? Disentangling the Long-Term Effects of Recommendations on User Consumption Patterns,2024
+Algorithmics & Public Opinion,"Seonhye Noh, Stuart Soroka",Confrontational Consumption: How Hostility Promotes Consumption of Counter-Attitudinal News,2024
+Algorithmics & Public Opinion,"Lisa Oswald, Philipp Lorenz-Spreen",Dynamics of Digital Discourse: A Field Experiment on Reddit,2024
+Algorithmics & Public Opinion,"Alexander Wenz, Anna-Carolina Haensch, Leah von der Heyde","Vox Populi, Vox AI? Using Language Models to Estimate German Public Opinion",2024
+Politics and Media,"Hans William Alexander Hanley, Jennifer Pan, Yingdan Lu",Narratives of Foreign Media Ecosystems in Chinese Social Media Discussions of the Russo-Ukrainian War,2024
+Politics and Media,"Chloe Ahn, Junghyun Lim",The Political Impact of Refugee Inflow in New Destination Countries: Evidence from South Korea,2024
+Politics and Media,"Ashton Anderson, George Eilender",Quantifying the Political Composition of YouTube Shorts,2024
+Politics and Media,"Joshua Introne, Una Joh",A Psychological Model of Narrative Diffusion,2024
+Politics and Media,"Ceren Budak, Julia Mendelsohn, Patrick Gordon Wall",Who gets to frame? Peer and group-level dynamics of political framing on social media,2024
+Networks and Social Systems,"Asael H Sorensen, Asmeret Naugle, Casey Doyle, Dan J. Krofcheck, Matt Sweitzer",Detecting Emergent Discourse Dynamics in Online Social Media,2024
+Networks and Social Systems,"Christian Zingg, Christoph Benedikt Gote, Frank Schweitzer, Giona Casiraghi, Giuseppe Russo, Luca Verginer",Shock! Quantifying the Impact of Core Developers’ Dropout on the Productivity of OSS Projects,2024
+Networks and Social Systems,"Arnab Kumar Sarker, Patrick Park",Co-Present Triads,2024
+Networks and Social Systems,"Bruno Lepri, Eduardo López, Robin Dunbar, Sam G B Roberts, Simone Centellegher, Valentin Vergara Hidd",Early call volume predicts the eventual lifetime of transient relationships,2024
+Networks and Social Systems,"Balaraju BATTU, Talal Rahwan",Beyond Self-Interest: Cultural Leaders' Transformative Influence,2024
+Networks and Social Systems,"Alex Pentland, Bernardo Garcia Bulle Bueno, Esteban Moro, Michael Bailey, Takahiro Yabe",Online spaces Diversity utopia or segregation dystopia,2024
+AI and HCI,"Anastasia Kuzminykh, Angela Zavaleta Bernuy, Ashton Anderson, Harsh Kumar, Huayin Luo, Jiakai Shi, Rachel Kornfield, Suhyeon Yoo",LLM Agents Can Improve Engagement with Behavior Change Interventions: A Case Study on Mindfulness,2024
+AI and HCI,"Akira Goto, Genki Ichinose, Hiroki Sayama, Tran Quang Duc, Wakaba Tateishi",Effects of messages on rebuilding cooperation between humans and AI in a social dilemma situation,2024
+AI and HCI,"Abdullah Almaatouq, Ming Yin, Mohammed Alsobay",The Effect of Social Information on Trust and Efficacy in AI-assisted Prediction,2024
+AI and HCI,"Anders Giovanni Møller, Luca Maria Aiello",The Persuasive Power of Large Language Models,2024
+AI and HCI,"Francesco Salvi, Manoel Horta Ribeiro, Riccardo Gallotti, Robert West",Sparks of Superhuman Persuasion: Large Language Models Beat Humans in Online Debates,2024
+AI and HCI,"Abdullah Almaatouq, David Fang, Jared R. Curhan, Mohammed Alsobay",Smooth Operators: Measuring the Effect of LLM “Personality” on Negotiation Outcomes,2024
+Misinformation and Fact-Checking,Je Hoon Chae,Fact-Checking and Partisan Cheerleading: Dissemination Patterns of Political Fact-Checks on Twitter,2024
+Misinformation and Fact-Checking,"Kiran Garimella, M. Amin Rahimian, Yuxin Liu",Virality of Information Diffusion on WhatsApp,2024
+Misinformation and Fact-Checking,"David Rand, Gordon Pennycook, Kathleen M. Carley, Samantha C Phillips, Sze Yuh Nina Wang",Emotional language reduces belief in false claims,2024
+Misinformation and Fact-Checking,"Pedro Ramaciotti Morales, Tim Faverjon","Politics Ex Machina: identifying, measuring, and constraining political information learned by algorithms",2024
+Misinformation and Fact-Checking,"Mengyi Zhang, Qingxing Dong, Xiaozhen Wu",How misinformation diffuses on online social networks: dynamic opinion,2024
+Misinformation and Fact-Checking,Julia M. Cope,Capturing Climate Claims: A computational text analysis of energy company press releases,2024
+Networks and Social Systems,"Filipi Nascimento Silva, Jin Ai",Network Approach to Research Novelty: Typology and Metrics,2024
+Networks and Social Systems,"Arnab Sircar, Duncan J. Watts, Mark E. Whiting",Why is Common Sense Uncommon? A Network Model for Simulating Identity-dependent Shared Beliefs,2024
+Networks and Social Systems,"Milena Tsvetkova, Niccolo Pescetelli, Taha Yasseri, Tobias Felix Werner",Human-Machine Social Systems,2024
+Networks and Social Systems,"Pei-Ying Chen, Tzu-Kun Hsiao",Exploring International Collaboration Dynamics through Multilayer Network Analysis,2024
+Networks and Social Systems,"Donghyun Kang, James Evans",Socio-Epistemic Bubbles and Tacit Confidence in Randomized Clinical Trials,2024
+Networks and Social Systems,"Bruno Lepri, Eduardo López, Robin Dunbar, Sam G B Roberts, Simone Centellegher, Valentin Vergara Hidd",Absence of communication volume trends in transient relationships,2024
+Methods & Innovations,"Hejie Cui, Jon Kleinberg, Yanbang Wang",Network Recall by Large Language Models,2024
+Methods & Innovations,"Debarati Das, Ishaan Gupta, Jaideep Srivastava, Dongyeop Kang",Beyond Words: Incorporating Graph Data into LLMs for Comprehensive Social System Analysis,2024
+Methods & Innovations,"Yan Leng, Yuan Yuan",Do LLM Agents Exhibit Social Behavior?,2024
+Methods & Innovations,"Benjamin Roger Litterer, Dallas Card, David Jurgens",Adventures in Audio: An Open and Comprehensive Dataset of Podcasts for CSS Research,2024
+Methods & Innovations,"Chris Callison-Burch, Liam Dugan, Runsheng Huang, Yue Yang",MiRAGeNews: Multimodal Realistic AI-Generated News Detection,2024
+Methods & Innovations,"Dan Jurafsky, Esin Durmus, Kristina Gligoric, Lucia Zheng, Myra Cheng","NLP Systems That Can't Tell Use from Mention Censor Counterspeech, but Teaching the Distinction Helps",2024
+Culture and Online Communities,"Chirag Mahapatra, Riley Tucker",Using Large Language Models to Annotate Yelp Reviews so We Can Understand How Commercial Place Management Quality Shapes Crime Across Addresses,2024
+Culture and Online Communities,"David Fang, Sam J Maglio, Yiran Eileen Zhang",Short and Sweet or Short and Sour: The Influence of Text Message Abbreviations on Relational Outcomes,2024
+Culture and Online Communities,"Jang Hyo Min, Jungsik Choi",Remapping the World: Analyzing the Cultural Representation of Nation States through Word Embeddings,2024
+Culture and Online Communities,"Ali Tafti, Chang Liu, Moontae Lee",From Popularity to Meritocracy: Ranking Monopoly and Evolution of Excellence in Online Communities,2024
+Culture and Online Communities,"Daniel Romero, David Jurgens, Minje Choi",Profile Update: The Effects of Identity Disclosure on Network Connections and Language,2024
+Culture and Online Communities,"Anqi Shao, Dhruv Gupta, Heysung Lee, Jisoo Kim, Kaiping Chen, Sijia Yang, Xining Liao, Yoo Ji Suh, Yun-Shiuan Chuang, Zening Duan",Tackling the Challenge of Measuring Moral Appeals from Social Media Discourses,2024
+AI in Education,"Alireza Javadian Sabet, Morgan Ryan Frank, Renzhe Yu, Sarah H Bana","The skills taught across U.S. majors, universities, and student demographics",2024
+AI in Education,"Duncan J. Watts, Linnea Gandhi","Research Cartography: To navigate our way out of the generalizability crisis in social science, we need a map",2024
+AI in Education,"Chhandak Bagchi, Eric Malmi, Przemyslaw A. Grabowicz",Effects of Research Paper Promotion via ArXiv and X,2024
+AI in Education,"Anne-Marie Nussberger, Iyad Rahwan, Levin Brinkmann, Maxime Derex, Sara Bonati, Thomas Franz Müller, Valerii Chirkov",Humans can Learn and Culturally Preserve Inconceivable Strategies Introduced by Intelligent Machines,2024
+AI in Education,"Xiang Zheng, Chaoqun Ni",Exploring the Impact of Tenure on US Professors’ Research Practices,2024
+AI in Education,"Bedoor AlShebli, Petter Holme, Qing Guan, Shahan Ali Memon, Talal Rahwan, Yueran Duan",Where postdoctoral journeys lead,2024
+Misinformation and Fact-Checking,"Filippo Menczer, Kai-Cheng Yang",Can large language models rate news outlet credibility?,2024
+Misinformation and Fact-Checking,"Almog Simchon, Fabio Carrella, Stephan Lewandowsky, Matthew Edwards",Transparency is not enough: Warning people that they are being microtargeted fails to eliminate persuasive advantage,2024
+Misinformation and Fact-Checking,"Cameron Martel, David Rand, Rahul Bhui, Reed Orchinik",Uncommon Errors: Adaptive Intuitions in High-Quality Media Environments Increase Susceptibility to Misinformation,2024
+Misinformation and Fact-Checking,Kiran Garimella,Hate Speech and Misinformation on WhatsApp: Insights from a Large Data Donation Program in India and Brazil,2024
+Misinformation and Fact-Checking,"Aaron D Nichols, David Rand, Gordon Pennycook, Marshall Van Alstyne, Nina. Mazar, Tejovan Janaka Russell Parker",Certifiably True: The Impact of Self-Certification on Misinformation,2024
+Misinformation and Fact-Checking,"Dilrukshi Gamage, Jiayu Chen, Kazutoshi Sasahara, Matthew Haruyama, Tasuku Igarashi",Does hands-on learning experience of deepfakes reduce the intention to share them?,2024
+Methods & Innovations,"Amirhossein Nakhaei, Mark E. Whiting",Latent experiments: learning from experiment-like situations in data,2024
+Methods & Innovations,"Kokil Jaidka, Rongxin Ouyang, Subhayan Mukerjee",Visual Narratives in the Digital Age: Enhanced Online Content Analysis through Automatic Image Captioning,2024
+Methods & Innovations,"Munjung Kim, Sadamori Kojaku, Yong-Yeol Ahn",A Continuous Embedding Measure of Disruptiveness Reveals Hidden Simultaneous Disruption,2024
+Methods & Innovations,"Alina Herderich, David Garcia, Heribert Harald Freudenthaler",A Computational Method to Reveal Psychological Constructs from Text Data,2024
+Methods & Innovations,"Kathrin Zippel, Laura Nelson, Steven Lauterwasser",Reading Between the Lines: Institutional Constraints and the Production of Knowledge About Gender Equity in NSF ADVANCE,2024
+Methods & Innovations,Andrew Renninger,Machine learning (the determinants of neighborhood vibrancy) for hypothesis generation,2024
+Politics and Media,"Cameron Martel, David Rand, Mohsen Mosleh",Psychological underpinnings of partisan bias in tie formation on social media,2024
+Politics and Media,"Alexander C Furnas, Dashun Wang, Timothy LaPira",Partisan Disparities in the Use of Science in Policy,2024
+Politics and Media,"Jonathan Nagler, Joshua Tucker, Megan Brown, Tiago Ventura",Comparing Online and Offline Partisan Segregation Using a Novel Panel of Twitter Users,2024
+Politics and Media,"Brooke Foucault Welles, Samuel Scarpino, Sharaj Kunjar",Characterizing the politicized news media coverage of the Mpox epidemic,2024
+Politics and Media,"Aviral Chawla, Jonathan St-Onge, Juniper L Lovato, Laurent Hébert-Dufresne, Milo Z Trujillo, Sam Zhang",Lexical Analysis of Socio-Political Influence on Course Catalogs,2024
+Politics and Media,"Deb Roy, William Brannon",The Speed and Sentiment of News in Twitter Vs. Radio,2024
+Culture and Online Communities,"Aidan Chang-Lee, Doug Beeferman, Nabeel Gillani, Tyler Simko",Measuring Issue Attention in City Council Meetings,2024
+Culture and Online Communities,"Guillaume Moinard, Matthieu Latapy",Gathering and Flocking of Protesters on Street Networks,2024
+Culture and Online Communities,"Elham Aghakhani, Layla Bouzoubaa, Shadi Rezapour",Decoding the Discourse: Analyzing Personal Narratives of Drug Experiences Shared on Reddit,2024
+Culture and Online Communities,"Christopher Danforth, Ellen W McGinnis, Jennifer Ha, Johanna Esther Hidalgo, Jordan Llorin, Julia Kim, Juniper L Lovato, Kathryn Stanton, Laura S.P. Bloomfield, Matthew Alexander Price, Mikaela Irene Fudolig, Peter Dodds, Ryan S. McGinnis, Taylor Ricketts, Yoshi Meke Bird",Inferring collective behavior among college students using sleep and activity data from wearable devices,2024
+Culture and Online Communities,"Cassandra Overney, Deb Roy, Diyi Yang, Hang Jiang, Jad Kabbara, Nanxi Liu, Rukun Zhang",Lost in Translation: Investigating Systematic Discrepancies between Parallel English and Chinese Names of American Chinese Restaurants,2024
+Culture and Online Communities,"Pu Yan, Ralph Schroeder",“Algorithmic serendipity leads us to lifestyle activism”: A mixed methods study of climate communication on a Chinese imaged based platform,2024
+Social Impact and Policy,"Brian Uzzi, Hao Peng, Huilian Sophie Qiu",The Power of Promotional Language in Biomedical Funding Success,2024
+Social Impact and Policy,"Ceren Budak, Eric Gilbert, Joshua Ashkinaze",PlurChain: Towards a Society of Pluralistic Artificial Intelligence,2024
+Social Impact and Policy,"Nail Furkan Bashan, Qi Wang, Theodore Banken",Cycle of Inclusion: Examining the Impact of Fare-Free Bike-Sharing Systems in Urban Communities,2024
+Social Impact and Policy,Danit Berger Zalmanson,Can Sentiment Analysis Shed Light on International Relations? - A Case Study on United States Bilateral Interactions,2024
+Social Impact and Policy,"Dan Svirsky, Neil Sehgal",Race Discrimination in Internet Advertising: Evidence From a Field Experiment,2024
+Social Impact and Policy,"Eric Manning, William Small Schulz","Age, Digital Literacy, and Webpage Design: Evidence from U.S. Campaign Contributions",2024
+AI-driven Behavioral Economics,"Anoushka Kiyawat, Colin Camerer, Duncan J. Watts, Linnea Gandhi",Hypothetical nudges approximate the direction but not the magnitude of real behavior change,2024
+AI-driven Behavioral Economics,"Alex McAvoy, Feng Fu, Mark Lovett",Reinforcement Learning Sentiment Landscape: Zero-Sum Multi-Agent Learning Dynamics Perspective,2024
+AI-driven Behavioral Economics,"Moh Hosseinioun, Hyejin Youn",A Complexity Aproach to Human Capital,2024
+AI-driven Behavioral Economics,"Jason Burton, Philipp Lorenz-Spreen, Stefan Herzog",Simple changes to content curation algorithms affect the beliefs people form in a collaborative filtering experiment,2024
+AI-driven Behavioral Economics,"Brian Uzzi, Ryan Whalen, Sourav Medya, Tara Sowrirajan","Gender, Experience, and Institutional Policies as Determinants of High Potential Innovation Success",2024
+AI-driven Behavioral Economics,"Charles Yang, Douglas Richard Guilbeault, Spencer Caplan",Social Satisficing: How A Simple Cognitive Constraint Governs Norm Emergence,2024
+Policy and Urban Planning,"Elizabeth Roberto, Tina Law",Sites of Division: Using Network Analysis and GenAI to Examine Social and Spatial Division,2024
+Policy and Urban Planning,"Alex Pentland, Bernardo Garcia Bulle Bueno, Esteban Moro, Morgan Ryan Frank, Takahiro Yabe",Behavior-based dependency networks between places shape urban economic resilience,2024
+Policy and Urban Planning,"George Wood, Gerard Torrats-Espinosa, Samuel Thomas Donahue",Racial diversity and homophily in police deployment networks,2024
+Policy and Urban Planning,"Ariadna Albors Zumel, Gian Maria Campedelli, Giuseppe Alessandro Veltri, Michele Tizzoni",Mobility data and deep learning for advancing spatiotemporal crime forecasting in microgeographic units,2024
+Policy and Urban Planning,"Jonathan Gorstein, Reed Atkin, Saskia Osendarp",Use of Data to Drive Decision-Making to Improve Nutrition in Low- and Middle-Income,2024
+Policy and Urban Planning,Matteo Mazzamurro,The impact of the morphology of a system of cities on its ability to foster balanced interactions,2024
+AI and the Future of Work,"Julia Koltai, Márton Rakovics, Zsófia Rakovics",Large Language Models as Virtual Respondents: Investigating the Potential and Limitations of Social Science Applications,2024
+AI and the Future of Work,"Agnieszka Czaplicka, Alberto Acerbi, Anne-Marie Nussberger, Fabian Baumann, Iyad Rahwan, JF Bonnefon, Joel Z Leibo, Jonathan Stray, Joseph Henrich, Levin Brinkmann, Maxime Derex, Pierre-Yves Oudeyer, Richard Mcelreath, Thomas Franz Müller, Thomas L. Griffiths",Machine Culture,2024
+AI and the Future of Work,Attila Varga,First-mover Patents,2024
+AI and the Future of Work,"Bhargav Srinivasa Desikan, Carsten Jung",Managing Labour Market Impacts of LLMs through a Jobs Centric Industrial Policy,2024
+AI and the Future of Work,"Brian Uzzi, Dawei Wang, Qinghua Lee",The Beauty Bias Effect in Scientific Careers,2024
+AI and the Future of Work,"Albert-Laszlo Barabasi, Rodrigo Dorantes-Gilardi, Yixuan Liu",Quantifying Biennale Effect: Visibility and Recognition of Artists' Career,2024
+Politics and Media,"Amir Tohidi Kalorazi, Duncan J. Watts, Samar Haider",Investigating the Impact of Media Bias on News Readers,2024
+Politics and Media,"Kiho Park, Sean O'Hagan, Aaron Schein",Representations of Ideology in Large Language Models,2024
+Politics and Media,"Aaron Clauset, Duncan J. Watts, Homa Hosseinmardi, Upasana Dutta",Measuring partisanship in ideologically-biased TV news shows,2024
+Politics and Media,Neil Malhotra,Behavioral Manifestations of Political Polarization: Evidence on (Un)friending from over 150 Million Facebook Users,2024
+Politics and Media,Hugo Subtil,Social Learning of Political Elites - Peer effects in legislators’ political speech,2024
+Algorithmics & Public Opinion,"Ceren Budak, Eric Gilbert, Joshua Ashkinaze",The Dynamics of (Not) Unfollowing Misinformation Spreaders,2024
+Algorithmics & Public Opinion,"Flora Böwing, Patrick Gildersleve",The News Comment Gap and Algorithmic Agenda Setting in Online Forums,2024
+Algorithmics & Public Opinion,"Baird Howland, David Rothschild, Duncan J. Watts",Analysis of emotional bias in American news media discourse,2024
+Algorithmics & Public Opinion,"Rajvardhan Oak, Zubair Shafiq",Understanding Underground Incentivized Review Services,2024
+Algorithmics & Public Opinion,"Felix Schmidt, Frank Mangold, Sebastian Stier",Facebook reduces inequalities in online news exposure,2024
+Algorithmics & Public Opinion,"Hazem Ibrahim, Nouar AlDahoul, Talal Rahwan, Yasir Zaki",Youtube’s recommendation algorithm is left-leaning in the United States,2024
+Culture and Online Communities,"Andrew P. Davis, Tom R. Leppard, Xiaoqin Yan, Honglin Bao",Vogue in American Sociology,2024
+Culture and Online Communities,"Min-heng Wang, Shuyan Zhan, Ying-Kai Huang",Hope Hurts: Expectations-based Reference Dependence in Yelp Reviews,2024
+Culture and Online Communities,"Khushang Zaveri, Lyle Ungar, Sharath Chandra Guntuku, Shreya Havaldar, Soumna Nema, Sunny Rai",A Cross-Cultural Analysis of Social Norms in Bollywood and Hollywood Movies,2024
+Culture and Online Communities,"Jiayi Zhu, Zituo Wang",Feminist Discussion in the Tangshan Beating Incident: Feminist Discussion and Emotional Heterotopia in Patriarchal China,2024
+Culture and Online Communities,"Akira Matsui, Kazuki Fujikawa, Ryo Adachi, Ryo Sasaki",Balancing Act: The Dual Pathways of Exploitation and Exploration in Live Streaming,2024
+Culture and Online Communities,"Ethan Zuckerman, Kevin Zheng, Ryan McGrady",TubeStats: A Dashboard for YouTube Metrics,2024
+Methods & Innovations,"Abigail Z Jacobs, Dallas Card, Meera Desai",The universal instrument: LLMs and measurement in social science,2024
+Methods & Innovations,"Bethany Hsiao, Duncan J. Watts, Francisco Barreras",Debiasing sparse human mobility data using neural multilevel regression & post-stratification (deepMrP),2024
+Methods & Innovations,"Chung-hong Chan, Nathan TeBlunthuis, Valerie Hase",Misclassification in Automated Content Analysis Causes Bias in Regression. Can We Fix It? Yes We Can!,2024
+Methods & Innovations,"Dhruv Gupta, Kaiping Chen, Liwei Shen, Luhang Sun, Shanglin Yang, Sijia Yang, Yibing Sun, Yun-Shiuan Chuang, Zening Duan",Comparing LLMs with traditional content analysis methods in measuring communication concepts,2024
+Methods & Innovations,"Marshall Van Alstyne, Nina. Mazar, Sverre Wiedswang, Swapneel S Mehta, Zou Yang",Improving the Governance of Digital Platforms with Interactive Marketplace Experiments,2024
+Methods & Innovations,"Joseph Olson, Renzhe Yu, Zhen Xu, Zhijian Zheng",Evaluating Contextual Factors of Performance and Fairness Shift in Predictive Model Transfer,2024
+Data and Privacy,"Anders Giovanni Møller, Arianna Pera, Jacob Aarup Dalsgaard, Luca Maria Aiello",The Parrot Dilemma: Human-Labeled vs. LLM-augmented Data in Classification Tasks,2024
+Data and Privacy,"Christopher Graziul, Shiyang Lai",Reliability and Validity of Two-Way Radio Use as a Measure of Police Activity,2024
+Data and Privacy,"Anastasia Karpova, Artem Kuriksha, Peter Meylakhs, Priyanka Goonetilleke",Illegal Drug Use and Government Policy: Evidence from a Darknet Marketplace,2024
+Data and Privacy,"Paul Bouchaud, Pedro Ramaciotti Morales",Conducting social media experiments and auditing algorithms with engagement-predictive user models trained on donated behavioral data,2024
+Data and Privacy,"Richard J Timpone, Yongwei Yang","Synthetic Data Generated with Analytic and Generative AI: Evaluating Quality, Utility, and Risks in the Evolving Data Ecosystem",2024
+Data and Privacy,"Bella Struminskaya, Heleen Janssen, Laura Boeschoten, Niek C. de Schipper, Theo Araujo",Digital trace data collection through data donation,2024
+Social Impact and Policy,"Henrik Olsson, Milena Tsvetkova, Mirta Galesic",Perceptions of Inequality and Redistribution Decisions,2024
+Social Impact and Policy,"David Rand, Jennifer Allen, Mohsen Mosleh",Low-quality news posts receive higher engagement but not more impressions on Twitter,2024
+Social Impact and Policy,"Brian Uzzi, Hao Peng, Huilian Sophie Qiu",Leveraging Promotional Language in Grant Proposals,2024
+Social Impact and Policy,"Huimin Xu, Ying Ding",Beyond a Number Game: Flat Structures Foster Minority Inclusion in Diverse Scientific Teams,2024
+Social Impact and Policy,"Laura Fürsich, Sarah Valdez",Testing the Effects of Social Infrastructure for White Flight Behavior in Stockholm,2024
+Social Impact and Policy,"Kumar Chandra, Nabeel Gillani, Tyler Simko",Race or SES? Estimating the impacts of different policy objectives on K-12 school integration,2024
+Platform governance,"Bedoor AlShebli, Fengyuan Michael Liu, Talal Rahwan",Editors handle the submissions of their collaborators and colleagues despite explicit policies,2024
+Platform governance,"Manoel Horta Ribeiro, Robert West, Sanjay Kairam",Post Guidance for Online Communities,2024
+Platform governance,"Tessa Masis, Brendan O'Connor",Where on Earth Do Users Say They Are?: Geo-Entity Linking for Noisy User Input,2024
+Platform governance,Carl Colglazier,Do Servers Matter on Mastodon? Data-driven Design for Decentralized Social Media,2024
+Platform governance,"David Thiel, Evan M Williams, Jeffrey Hancock, Kathleen M. Carley, Renée DiResta, Ronald E. Robertson, Shelby Grossman",Evaluating Content Moderation on Google Search: Data Voids and Warning Banners,2024
+Platform governance,Daria Kravets,News On the Side: Yandex’s Top-5 News As a Tool of Russia’s Propaganda Abroad,2024
+Methods & Innovations,"Daniel G. Goldstein, David Rothschild, Jake M. Hofman, Sofia Eleni Spatharioti","Comparing Traditional and LLM-based Search for Consumer Decision Making: Speed, Accuracy, and Overreliance",2024
+Methods & Innovations,"Duncan J. Watts, Francisco Barreras, Thomas H. Li",Mind the Gap: Trajectory Data Mining in Highly Sparse Location Datasets,2024
+Methods & Innovations,"Justin Kyle Miller, Tristram Alexander",Making Big Data Small: Short Text Clustering using Large Language Models,2024
+Methods & Innovations,"Ashton Anderson, Daniel Matter, Difan Jiao, Jürgen Pfeffer, Yilun Liu, Zhenwei Tang",SPIN: Sparsifying and Integrating Internal Neurons in Large Language Models for Text Classification,2024
+Methods & Innovations,"Benjamin S. Manning, John Joseph Horton, Kehang Zhu",Automated Social Science: A Structural Causal Model-Based Approach,2024
+Methods & Innovations,John D. O'Brien,"Inferring the Latent Space of Political Ideology using Longitudinal, Multiview Election Data",2024
+Social Media Dynamics and Content Analysis,"Duncan J. Watts, Mark E. Whiting",What differences in people contribute to differences in common sense?,2024
+Social Media Dynamics and Content Analysis,"Bruno Lepri, Davide Longo, Ivano Bison, Nicolò Alessandro Girardini, Simone Centellegher",Personality Shapes Responses to COVID-19 Restrictions in University Students,2024
+Social Media Dynamics and Content Analysis,"Jason Burton, Leon Assaad",Opinion averaging versus argument exchange,2024
+Social Media Dynamics and Content Analysis,Ivan Smirnov,The Echoes of the 'I': Tracing Identity with Demographically Enhanced Word Embeddings,2024
+Social Media Dynamics and Content Analysis,"Martin Hilbert, Pablo M. Flores",Lean-back and lean-forward online behaviors: the role of emotions in passive versus proactive information diffusion of social media content,2024
+Social Media Dynamics and Content Analysis,Xuechunzi Bai,Multidimensional Stereotypes Emerge Spontaneously When Exploration is Costly,2024
+Networks and Social Systems,"Aparna Ananthasubramaniam, Daniel Romero, David Jurgens, Yufei Louise Zhu",Roles of Network and Identity in Hashtag Diffusion,2024
+Networks and Social Systems,"Alyssa Hasegawa Smith, Pranav Goel, Sagar Kumar, Yukun Yang",Locating the Asymmetry in Information Flow between Local and National Media on Transgender Discourses,2024
+Networks and Social Systems,"Bruno Lepri, Luca Pappalardo, Massimiliano Luca, Riccardo Gallotti, Sebastiano Bontorin, Simone Centellegher",Mixing Individual and Collective Behaviours in Mobility Models,2024
+Networks and Social Systems,"Abraham Israeli, Oren Tsur",With Flying Colors: Predicting Community Success in Large-scale Collaborative Campaigns,2024
+Networks and Social Systems,James Holehouse,The Scaling of Function Diversity and Specialization Across Socioeconomic and Biological Complex Systems,2024
+Networks and Social Systems,"Anders Weile, Vedran Sekara",Uncovering Influence Patterns in Cultural Markets: A Study of Book Lending across Danish Municipalities,2024
+Methods & Innovations,"Antoine Vendeville, Duncan Cassells, Pedro Ramaciotti Morales",Bridging agent-based opinion dynamics and empirical social sciences,2024
+Methods & Innovations,Oleg Urminsky,Does Big-Data Correlational Analysis Predict Causal Effects of Language on Decisions?,2024
+Methods & Innovations,"Dashun Wang, Nan Cao, Xiaoyu Qi, Yifan Qian, Yifang Wang",InnovationInsights: A Visual Analytics Approach for Understanding the Dual Frontiers of Science and Technology,2024
+Methods & Innovations,"Abigail L Horn, Andres Abeliuk, DongHyeon Seo, Keith Burghardt","Leveraging Language Models, Deep Learning, and Novel Data Streams to Characterize Restaurant Nutritional Quality Across the U.S",2024
+Methods & Innovations,"Johan A. Dornschneider-Elkink, Salsabil M. Abdalbaki","A comparison of frame detection using large language models, keyword-assisted topic models, and transformer-based models",2024
+Methods & Innovations,Matthew F Asher,"Literature Analysis with Algorithms, AI and Human Assistance",2024
+Computational Epidemiology and Public Health,"Adam Fourney, Eric Horvitz, Serina Chang",Accurate Measures of Vaccination and Concerns of Vaccine Holdouts from Web Search Logs,2024
+Computational Epidemiology and Public Health,"Alessandro Flammini, Filippo Menczer, Francesco Pierri, Matthew DeVerna, Santo Fortunato, Yong-Yeol Ahn",Misinformed populations amplify the spread of disease,2024
+Computational Epidemiology and Public Health,"Hao Xu, Jaideep Srivastava, Jisu Huh, Smitha Muthya Sudheendra",Impact Of Emotions on Information Seeking And Sharing Behaviors During Pandemic,2024
+Computational Epidemiology and Public Health,"Layla Bouzoubaa, Preetha Chatterjee, Ramtin Ehsani, Shadi Rezapour",Shifting Narratives in Media Coverage: A Decade of Drug Discourse in The Philadelphia Inquirer,2024
+Computational Epidemiology and Public Health,"Abigail L Horn, Alex Pentland, Bernardo Garcia Bulle Bueno, Esteban Moro, Kayla de la Haye, Mohsen Bahrami",Effect of mobile food environments on fast food visits,2024
+Computational Epidemiology and Public Health,"Caoyifu Zhou, Chris Chao Su, Jiacheng Huang, Le He, Xinwei Zheng",Knowledge breaks homophily: Examining the communication interaction among crowdsourced elites in COVID-19 vaccine communication,2024
+Culture and Online Communities,"Dan Jurafsky, Kristina Gligoric, Myra Cheng",Multimodal Implicit Harm Discovery: Capturing Harmful Body Metaphors on TikTok,2024
+Culture and Online Communities,"Andrea Forte, Jordyn Young, Michal Monselise",Identifying Patterns in Discussion of Religious Deconversion on Reddit,2024
+Culture and Online Communities,"Arianna Pera, Luca Maria Aiello",Shifting Climates: Climate Change Communication from YouTube to TikTok,2024
+Culture and Online Communities,"Joshua Introne, Yuheun Kim",Cross-Cultural Belief Dynamics: A Case Study of K-pop Fans and the BLM Movement,2024
+Culture and Online Communities,"Badr AlKhamissi, Mai Alkhamissi, Mona T. Diab, Muhammad ElNokrashy",Investigating Cultural Alignment of Large Language Models,2024
+Culture and Online Communities,"Deb Roy, Hope Schroeder, Jad Kabbara",Fora: Insights from a corpus and framework for the study of facilitated dialogue,2024
+"Crises, Emergencies, and Disasters","Jeanine M. Buchanich, Kushagra Tiwari, M. Amin Rahimian, Praveen Kumar",Measuring Network Dynamics of Drug Overdose Deaths in the United States,2024
+"Crises, Emergencies, and Disasters","David Lagnado, Nichola J Raihani, Trisevgeni Papakonstantinou",Belief updating patterns and social learning in stable and dynamic environments,2024
+"Crises, Emergencies, and Disasters","Emma Spiro, Kaitlyn Zhou, Kate Starbird, Tom Wilson",Spotlight Tweets: Exploring Attention Dynamics in Online Sensemaking during Crisis Events,2024
+"Crises, Emergencies, and Disasters","Eduardo López, Jericho McLeod, Unchitta Kan",Dynamical prioritization of social ties in systemic crises: The role of non-coresident kin in intercity migration during COVID-19,2024
+"Crises, Emergencies, and Disasters","David Jurgens, Ethan Zuckerman, Mattia Samory, Scott A. Hale, Xi Chen, Przemyslaw A. Grabowicz",Global News Synchrony and Diversity During the Start of the COVID-19 Pandemic,2024
+"Crises, Emergencies, and Disasters","Nan Li, Ruoxi Wang",Revealing disaster dynamics and disparities in urban facility accessibility using an improved utilization-based metric,2024
+Politics and Media,"Chris Callison-Burch, David Rothschild, Duncan J. Watts, Samar Haider",Measuring Diversity in Online News,2024
+Politics and Media,"Shir Weinbrand, Shira Dvir-Gvirsman",Navigating News in the Digital Era: The Influence of Browsing Modes and User Characteristics on Exposure and Diversity,2024
+Politics and Media,"Bruno Lepri, Marco Tonin, Michele Tizzoni",From Networks to Ballot Boxes: Comparing Online and Offline Partisan Exposure in the U.S.,2024
+Politics and Media,"Ethan Zuckerman, Kevin Zheng, Ryan McGrady","One Platform, Four Languages: A Method to Compare Languages on YouTube",2024
+Politics and Media,"J. Nathan Matias, Marianne Aubin Le Quéré",When Curiosity Gaps Backfire: Effects of Headline Concreteness on Information Selection Decisions,2024
+Politics and Media,"Ben Rochford, Munmun De Choudhury, Neha Kumar, Sachin Pendse",The Role of Partisan Culture in Mental Health Language Online,2024
+Social Impact and Policy,"Ayan-Yue Gupta, Saumya Tripathi",Gender Mainstreaming in Global Governance: An NLP Analysis of United Nations General Assembly Meetings,2024
+Social Impact and Policy,Morgan Ryan Frank,Location is a major barrier for transferring US fossil fuel employment to green jobs,2024
+Social Impact and Policy,Andrew Renninger,Understanding neighborhoods in the United States with diversity and exposure,2024
+Social Impact and Policy,"Hiroki Nakajima, Ichiro Sakata, Kimitaka Asatani, Rikuei Kaku, Shun Kishimoto",Evaluating Diversity of Encounters in Urban Spaces Based on Restaurant Reviews,2024
+Social Impact and Policy,"Yangwang, Meiling Li",Motivating Innovation: The Impact of “People based” Funding on Junior Scientists,2024
+Social Impact and Policy,"Almog Simchon, David Garcia, Fabio Carrella, Jana Lasser, Segun Aroyehun, Stephan Lewandowsky",145 years of Truth in Congress: Computational Analysis of Speeches from 1879 to 2022,2024
+AI and the Future of Work,"Abdullah Almaatouq, Duncan J. Watts, Mark E. Whiting, Xinlan Emily Hu",Recipe for Success: Quantifying the Relative Influence of Teamwork Facets on Performance,2024
+AI and the Future of Work,"Andrew Gordon, David Rothschild, Manoel Horta Ribeiro, Philip J. Cozzolino, Robert West, Veniamin Veselovsky",Prevalence and prevention of large language model use in crowd work,2024
+AI and the Future of Work,"Anastasios Evgenidis, Apostolos Fasianos",AI Innovations and Labor Markets: Innocuous or Ominous Effects?,2024
+AI and the Future of Work,"Isabella Loaiza, Roberto Rigobon",The EPOCH of AI: Human-Machine Complementarities at Work,2024
+AI and the Future of Work,"Diego Gomez-Zara, Noshir Contractor",Assigning or recommending you to a team? The Algorithmic Effects on Team Assembly and Performance,2024
+AI and the Future of Work,Xizhao Wang,Human Capital and Firm’s Innovation Direction,2024
+AI for Civic Engagement,"Han Zhang, Haohan Chen, Xinxin Wang",Dynamics of Cyber-Nationalism: An Empirical Study of the COVID-19 Lockdown,2024
+AI for Civic Engagement,Nicole Schwitter,Voting on Wikipedia: Do offline ties matter?,2024
+AI for Civic Engagement,"JungHwan Yang, Mattia Samory, Stephen Kenneth Scarano, Vijayalakshmi Vasudevan, Kai-Cheng Yang, Przemyslaw A. Grabowicz","Election Polls on Social Media: Prevalence, Biases, and Voter Fraud Beliefs",2024
+AI for Civic Engagement,"Abraham Bernstein, Cristina Sarasua, Fynn Bachmann",Adaptive Questionnaires for Voting Advice Applications,2024
+AI for Civic Engagement,"Yixin Dai, Zhuoxin LU",Unveiling the Dynamics of Collaborative Governance: The Impact of Facilitative Leadership,2024
+AI for Civic Engagement,"Carolina F.T. Batista, Ernesto Calvo, Giovanni Luca Ciampaglia, Juan Diego Alvarado, Rojin Ziaei",The electoral business cycle of Wikipedia: What elections reveal on partisanship and the supply of information online,2024
+Misinformation and Fact-Checking,"David Rand, Gordon Pennycook, Hause Lin, Samantha C Phillips, Sze Yuh Nina Wang",Negative emotional language decreases belief in but increases dwell time and shares of (false) claims,2024
+Misinformation and Fact-Checking,"Adam Berinsky, David Rand, Dean Eckles, Gordon Pennycook, Hause Lin",Reducing misinformation sharing at scale using digital accuracy prompt ads,2024
+Misinformation and Fact-Checking,Calvin Yixiang Cheng,Exploring the Survival of Online Conspiracy Theories,2024
+Misinformation and Fact-Checking,"Martin Saveski, Soham De, Michiel A. Bakker",Enhancing Crowd-Sourced Fact-Checking Using LLM-Driven Consensus,2024
+Misinformation and Fact-Checking,"Axel Peytavin, Isaac Slaughter, Johan Ugander, Martin Saveski",Investigating the Heterogeneous Effects of Community-Driven Fact-Checking on Social Media,2024
+Misinformation and Fact-Checking,"Manoel Horta Ribeiro, Robert West, Shagun Jhaver",Deplatforming Influencers on Social Media Reduces Overall Online Attention Toward Them,2024
+Algorithmics & Public Opinion,"Allison Wan, David Lazer, Zhen Guo, Kai-Cheng Yang",Search politicians online: Concentration and localization of Google search results,2024
+Algorithmics & Public Opinion,"Jon Kleinberg, Yanbang Wang",On the Relationship Between Relevance and Conflict in Online Social Link Recommendations,2024
+Algorithmics & Public Opinion,"Amit Goldenberg, Federico Zimmerman",Attraction to Extreme Partisans on Social Media,2024
+Algorithmics & Public Opinion,"Brooke Perreault, Eni Mustafaraj",Measuring and Evaluating the Localness of Google Search Results in the Context of the 2022 US Midterm Elections,2024
+Algorithmics & Public Opinion,"Giuseppe Russo, Manoel Horta Ribeiro, Robert West",Stranger Danger! Interactions with Fringe Users Increase the Growth of Fringe Communities on Reddit,2024
+Algorithmics & Public Opinion,"Alessandro Flammini, Brendan J. Nyhan, Filippo Menczer, Giovanni Luca Ciampaglia, Olivier Bergeron-Boutin, Saumya Bhadani",Building a Trustworthy Social Media News Feed,2024
+AI in Education,"Balaraju BATTU, Fengyuan Michael Liu, Hazem Ibrahim, Talal Rahwan, Yasir Zaki","Perception, performance, and detectability of conversational artificial intelligence across 32 university courses",2024
+AI in Education,"Renzhe Yu, Sky CH-Wang, Zhen Xu",Whose ChatGPT? Unveiling Unintended Educational Inequalities Introduced by Large Language Models,2024
+AI in Education,"Chaoqun Ni, Xiang Zheng",Contextualizing gender disparities in online teaching evaluations for professors,2024
+AI in Education,"Abdullah Almaatouq, Robin Na",Does reading the literature improve the ability to predict the effects of interventions?,2024
+AI in Education,"Anna De Simoni, Xiancheng LI",Understanding superusers’ and regular users’ engagement in UK Respiratory Online Health Communities and the impact of their interaction: A BioBERT-based Sentiment Analysis Perspective,2024
+AI in Education,"Blue Lerner, James Alex Bonus, Jason C. Coronel, Matt Sweitzer, Rebecca A. Dore",Predicting Children's Comprehension of Science Concepts from Real-World Educational Videos using Eye Movements and Machine Learning,2024
+AI in Education,"Ebru Sanliturk, Emilio Zagheni, Tom Theile",Patterns of scholarly migration by democratic performance: evidence from bibliometric data,2024
+Politics and Media,"Alessia Antelmi, Arianna Pera, Lucio La Cava",Finding Hidden Swingers in the 2022 Italian Elections Twitter Discourse,2024
+Politics and Media,"Emily Ito Okabe, Hans William Alexander Hanley, Zakir Durumeric",Tracking the Takes and Trajectories of News Narratives from Trustworthy and Worrisome Websites,2024
+Politics and Media,"Chenyan Jia, Jeanne L. Tsai, Jeffrey Hancock, Martin Saveski, Michael S. Bernstein, Tiziano Piccardi",Examining the Impact of Pro-Democratic Feed Ranking on Short-Term Feelings Towards Outpartisans,2024
+Politics and Media,"Marianne Aubin Le Quéré, Sanjay Kairam","Beyond Local News: Assessing Localized Social Media Use, Community Attachment, and Political Intent in a Multi-National Survey",2024
+Politics and Media,"Timothy Dörr, Yphtach Lelkes",Uncovering Anti-Democratic Norm Justifications,2024
+Politics and Media,"Ekaterina Landgren, Jeremiah Osborne-Gowey, Joshua Garland, Matthew G. Burgess",Echo Chambers and False Balance: Understanding Underestimation of Climate Policy Support,2024
+Fairness and bias,"Bryan Li, Chris Callison-Burch, Samar Haider","This Land is {Your, My} Land: Evaluating Geopolitical Bias in Language Models through Territorial Disputes",2024
+Fairness and bias,"Johann Demetrio Gaebler, Ravi Shroff, Sam Corbett-Davies, Sharad Goel",Mitigating Included- and Omitted-Variable Bias in Estimates of Disparate Impact,2024
+Fairness and bias,"Allison Koenecke, Anna Seo Gyeong Choi, Hilke Schellmann, Katelyn X. Mei, Mona Sloane",Careless Whisper: Speech-to-Text Hallucination Harms,2024
+Fairness and bias,"Jun Luo, Jungseock Joo, Mo Chen, Renee Mitson, Seungahn Nah, Seungbae Kim",Algorithmic Bias or Algorithmic Reconstruction? A Comparative Analysis Between AI News and Human News,2024
+Fairness and bias,Peter Dodds,"The essence of meaning conforms to a two-dimensional powerful-weak and dangerous-safe framework, with diverse corpora presenting a safety bias",2024
+Fairness and bias,"Aaron Clauset, Daniel Larremore, Nicholas LaBerge, Sam Zhang",Assessing Bias and Idiosyncracies in Elite Scientific Peer Review,2024
+Policy and Urban Planning,Andrea Musso,The stable nature of city growth,2024
+Policy and Urban Planning,"Madison Landry, Nabeel Gillani",Merging public elementary schools to reduce racial/ethnic segregation,2024
+Policy and Urban Planning,"Dean Eckles, Eaman Jahani, Michael Bailey, Samuel Fraiberger","Long ties, disruptive life events and economic prosperity",2024
+Policy and Urban Planning,"Michael Lees, R. M. Hilman",Network Approach to Disentangle the Complexity of School and Residential Segregation,2024
+Policy and Urban Planning,"Eduardo LÃ³pez, Jericho McLeod, Unchitta Kan",Origins of Face-to-face Interaction with Kin in US Cities,2024
+Policy and Urban Planning,"Allison Koenecke, Benjamin Q Huynh, Daniel E. Ho, David H Rehkopf, Derek Ouyang, Elizabeth T Chin, Mathew V. Kiang",Mitigating allocative tradeoffs and harms in an environmental justice data tool,2024
+Methods & Innovations,"Dan Jurafsky, Kristina Gligoric, Myra Cheng, Tiziano Piccardi",AnthroScore: A Computational Linguistic Measure of Anthropomorphism,2024
+Methods & Innovations,"Jamie Rosas-Smith, Anjalie Field",A public data set for processing and analyzing police body-worn camera footage,2024
+Methods & Innovations,"Hyunuk Kim, Seonbin Jo, Woo-Sung Jung",Wallets' Explorations Across Non-Fungible Token Collections,2024
+Methods & Innovations,"James Evans, Likun Cao",Depth versus Breadth in the Hierarchical Recombination of Technology,2024
+Methods & Innovations,"Abdullah Almaatouq, David Rand, Duncan J. Watts, Mohammed Alsobay",The Heterogeneous Effects of Peer Punishment Across Cooperative Settings,2024
+Methods & Innovations,"Abdullah Almaatouq, Michelle Vaccaro, Thomas Malone",Evaluating Performance in Human-AI Systems,2024
+Methods & Innovations,"Alex Pentland, Bijin Joseph, Esteban Moro",Popularity vs. performance: Dynamics of Social Mirroring in a Trading Platform,2024
+Methods & Innovations,Nanum Jeon,Natural Course Scenario Prediction Task for Dynamic Treatment Effects Modeling with R-Transformer,2024
+Methods & Innovations,"Adolfo Fuentes-Jofre, Cristian E Candia",Quantifying the Mass Political Ideology Using Neural Network Architecture,2024
+Methods & Innovations,Yongjun Zhang,Developing Large Language and Vision Models to Study Global Social Protests,2024
+Methods & Innovations,"Damian Serwata, Katarzyna Musial-Gabrys, Mateusz Nurek, Michał Czuba, Mingshan Jia, Piotr Bródka, Radosław Michalski, Yu-Xuan Qiu",Network Diffusion - Framework to Simulate Spreading Processes in Complex Networks,2024
+Methods & Innovations,Javier Garcia-Bernardo,Redundancy in transmission promotes information consensus across independent social networks,2024
+Methods & Innovations,"Chris Kempes, Jisung Yoon, Seoul Lee, Vicky Chuqiao Yang, Hyejin Youn",Coordination mechanism in collective intelligence: costs for I's to become We,2024
+Methods & Innovations,Weiyu Li,The spatial correlation length of human mobility and its evolution following disasters,2024
+Lightening Talks,Xuechunzi Bai,Measuring Implicit Bias in Explicitly Unbiased Large Language Models,2024
+Lightening Talks,"Babak Heydari, Negin Maddah",Platform-Driven Collaboration Patterns: Structural Evolution Over Time and Scale,2024
+Lightening Talks,"Byunghwee Lee, Haewoon Kwak, Jisun An, Rachith Aiyappa, Yong-Yeol Ahn",Neural embedding of beliefs reveals the role of relative dissonance in human decision-making,2024
+Lightening Talks,"Kathleen M. Carley, Kenneth Joseph, Samantha C Phillips",Why do people think liberals drink lattes? How social media afforded self-presentation can shape subjective social sorting,2024
+Lightening Talks,Yifan Wang,The Arrival of Fast Internet and Infant Mortality,2024
+Lightening Talks,"Esteban Moro, Guangyuan Weng, Minsuk Kim, Yong-Yeol Ahn",Unsupervised embedding of mobility reveals invisible barriers in US cities,2024
+Lightening Talks,"Ankita Gupta, Ethan Zuckerman, Brendan O'Connor",Making sense of public participation in rulemaking using argument explication,2024
+Lightening Talks,"Diego Gomez-Zara, Nandini Banerjee",All-Female Teams Produce More Disruptive Work: Evidence from Scientific Papers,2024
+Lightening Talks,"Daniel Romero, David Gamba, Grant Schoenebeck, Yuan Yuan, Yulin Yu",Exit Ripple Effects: Understanding the Disruption of Socialization Networks Following Employee Departures,2024
+Lightening Talks,"Andreas Bjerre-Nielsen, Jacob Aarup Dalsgaard, Roberta Sinatra",Evidence of situational contagion: how smartphone use spreads in social encounters,2024
+Lightening Talks,"Giuseppe Russo, Maciej Styczen, Manoel Horta Ribeiro, Robert West",Deplatforming anti-feminist communities increases participation in recovery communities on Reddit,2024
+Lightening Talks,"Andrea Musso, Elisabeth Stockinger, Laura Maria Alessandretti",Urban poor exhibit higher smartphone usage during nighttime hours,2024
+Lightening Talks,"Fred Morstatter, Zhuoyu Shi",The Diffusion of Causal Language in Social Networks,2024
+Lightening Talks,"Filippo Menczer, Kai-Cheng Yang",Anatomy of an AI-powered malicious social botnet,2024
+Lightening Talks,"Joshua Grossman, Julian Nyarko, Sharad Goel",Reconciling Legal and Empirical Conceptions of Disparate Impact: An Analysis of Police Stops Across California,2024
+Lightening Talks,"Alicja Chaszczewicz, Emma Pierson, Emma Wang, Jure Leskovec, Maya Josifovska, Serina Chang",Generating Social Networks with LLMs,2024
+Lightening Talks,Joshua Z. Stadlan,Even Homogeneous Interactions can be Bursty: Determining the cause of thick-tailed temporal distributions of social event face-to-face contact,2024
+Lightening Talks,"Carina Kane, Donghyun Kang, James Evans, Shiyang Lai",The Concept-Knowledge Nexus: Pathways of Concept Evolution and Knowledge Assembly,2024
+Lightening Talks,"Kiran Garimella, Sudhamshu Hosamane",Analyzing Hate Speech Campaigns During the 2016 Philippine Elections on Facebook,2024
+Lightening Talks,"Gerardo Iñiguez, Jan Bachmann, Lisette Espin-Noboa",The Cumulative Effect of Brokerage on Academic Success,2024
+Poster,"Hazem Ibrahim, Talal Rahwan, Yasir Zaki",Big Tech dominance despite global mistrust,2024
+Poster,"Anubha Shokhand, Nilam Kaushik, Satyam Mukherjee",Unpacking Novelty: University vs. Industry Publications and Field-effects of Industry Publishing,2024
+Poster,Vikram Balasubramanian,Estimating Police Anti-Black Bias in Use of Force Decisions,2024
+Poster,Guodong Ju,What Contributions are Favoured in the Community: An LGBTQ+ Case on Chinese Social Media,2024
+Poster,"Carina I Hausladen, Colin Camerer, Manuel Knott, Pietro Perona",An experimental approach to measure social bias in vision-language models,2024
+Poster,Stuart Duncan,Single Board Computers: A Case Study in Using Physical Computing Approaches as a Computational Social Science Methodology,2024
+Poster,Max Falkenberg,Affective and interactional polarization align across countries,2024
+Poster,"Kenji Yokotani, Masanori Takano, Nobuhito Abe",Can likes returned from peers within a day improve users’ depressive/manic levels in a massive multiplayer online game?: A randomized controlled trial,2024
+Poster,Tenzin Tamang,Exploring User Gratifications and Climate Information Preferences in Wikipedia,2024
+Poster,Shreya Jain,Bounding the Causal Effect of Parental Educational Hypogamy on Child Health in India,2024
+Poster,"Arianna Pera, Luca Maria Aiello",The Storm Within: Hurricanes and Socio-Political Leaning in Climate Change Group Behavior,2024
+Poster,"Arianna Pera, Luca Maria Aiello",Narratives of Collective Action in YouTube's Discourse on Veganism,2024
+Poster,Lynnette Hui Xian Ng,Social Bot Persuasion Techniques in COVID-19 Misinformation,2024
+Poster,Jennifer M Krebsbach,How might someone’s politics show in their online rhetoric? Theory and evidence of employed identity markers,2024
+Poster,"Ting Luo, Yan Wang",The art of storytelling: Pro-regime narratives on Chinese social media and the official opinion leaders,2024
+Poster,"Qian Shen, Xiaomeng Xiong, Xueyan Gao",A multi-dimensional Study on Retractions in the 21st Century,2024
+Poster,"Masahiro Kuwahara, Yukihisa Fujita",Large Scale Point of Interests Detection Using Connected Car Trajectory Data,2024
+Poster,CAI Tianji,Roles of members of telecom fraud group -- a GIS based cluster and social network analysis using cell phone traces and call records,2024
+Poster,"Emilio Zagheni, Ingmar Weber, Jisu Kim",The Grass Really is Greener on the Other Side: Immigration and Changes in Emotional Well-Being on Twitter,2024
+Poster,"Alex Pentland, Alex Rutherford, Esteban Moro, Iyad Rahwan, Morgan Ryan Frank, Tobin South",Network constraints on worker mobility,2024
+Poster,"Marios Papachristou, Yuan Yuan",Network Formation and Dynamics Among Multi-LLMs,2024
+Poster,"Cameron Lai, Fujio Toriumi, Haruhiko Tashiro",A comparison of embedding representation methods for multi-lingual text,2024
+Poster,"Cameron Lai, Fujio Toriumi, Mitsuo Yoshida",A cross-lingual analysis of pro-Russian misinformation on Twitter during the opening weeks of the Russian invasion of Ukraine,2024
+Poster,"Cailean Osborne, Hannah Rose Kirk, Jennifer Ding",The AI community building the future? A quantitative analysis of development activity on the Hugging Face Hub,2024
+Poster,"Koji Suzuki, Takehiko Murai, Toshio Murase",Deciphering the Role of Attention in the Acquisition of Meta-knowledge through ESM,2024
+Poster,Lukas Erhard,Populist Content on YouTube: Online-Communication Strategies of German Parties,2024
+Poster,Yutong Si,Temporal Shifts in Narrative Strategies: Aggregating Competing Narratives on Social Media through Text Mining and Network Analysis,2024
+Poster,"Jen-Hao Chen, Lu Hsiu-Chi",A Journey of Inclusiveness: Mapping Emotions and Phrases for LGBTQ in Taiwanese Major News over the Past Decade,2024
+Poster,Shashwat Sourav,SocialNet: Navigating Real-Time Sentiment and Topics in the Social Sphere,2024
+Poster,"Chloe Ahn, Drew Dimmery, Kevin Munger",Fast or Slow Twitch,2024
+Poster,Hassan Mustafa,Conceptualizing the Evolving Nature of Computational Propaganda: A Systematic Literature Review,2024
+Poster,Linda Vecgaile,Decoding Future Paths: Utilizing Transformers to Predict Life Course Sequences,2024
+Poster,Zhuangyuan Fan,Urban visual intelligence: uncovering hidden city profiles with street view images,2024
+Poster,Tobias Kamelski,Image Clustering of Visual Self-Presentation: A Transcultural Computational Analysis of Online Dating Profiles,2024
+Poster,"Chuyao WANG, Feng Han",Enhancing Public Deliberation with Generative AI: Evidence from Computational Visual-textual Analysis and an AI-mediated Survey Experiment,2024
+Poster,"Benjamin C. Kennedy, John Diaz, Lily Hofstetter, William P Hogan, Yan Jiang",Comparative NLP Analysis of Policymakers’ and Practitioners’ Perceptions of Quality in California’s Universal Prekindergarten Initiative,2024
+Poster,Vicky Chuqiao Yang,Dynamical Behavioral Model Uncovers Conditions for Administrative Bloat,2024
+Poster,"Adrian Zhou, Camelia E. Hostinar, Emily Y Tran, Fernanda Ferreira, Isaac Barsky-Ex, Sally Hang",Using Linguistic Inquiry and Word Count (LIWC) to Assess Variation in Child Speech,2024
+Poster,"Akihiro Inomata, Sayuri Kohmura, Yuki Sasamoto",Chain of Difference: Creating Process Models from Incomplete Texts Using Large Language Models,2024
+Poster,"Aliakbar Akbaritabar, Emilio Zagheni, Huaxia Zhou, Luis A. Nunes Amaral, Mengyi Sun",Partition and reunification of science under external shocks in Germany,2024
+Poster,"Nico Hornig, Tobias Schmidt",(Un)covering Europe - An Investigation of the Usage of Foreign Named Entities in European Economic Dailies,2024
+Poster,"Borbála Zoé Ungvári, Borbála Zoé Ungvári, Julia Koltai, Kata Számel, Szilvia Rudas, Zoltan Kmetty, Zsófia Rakovics, Ákos Huszár",Digital Behavioral Patterns of Social Classes,2024
+Poster,Dr Matthew F Asher,Dangerous Digital Physiognomy: Social bias from image processing,2024
+Poster,Harry Febrian,Rise of Religious Influencers: Manufactured Authority on Instagram,2024
+Poster,"Hsuan-Wei Lee, Lu Hsiu-Chi",From Information to Influence: Modeling the Spread of Disinformation,2024
+Poster,"David M Kent, Madison Coots, Sharad Goel, Soroush Saghafian",Reevaluating the Role of Race and Ethnicity in Estimating Disease Risk,2024
+Poster,Zhaoyin Chu,Emotional Flow in the Hybrid ACG Culture: A Computational Study on the Japanese Players of Genshin Impact,2024
+Poster,"Friedolin Merhout, Mauro Martinelli",Using Online Searches to Measure Discriminatory Attitudes and Radical Right Politics,2024
+Poster,"Mahmoudreza Babaei, Sepideh Khalafi",Towards Fairness: Investigating and Challenging Political Leaning in LLMs through Rumor Fact-Checking,2024
+Poster,"Alexander R. Caceres-Wright, Grant Bunn, Kenneth Joseph, Stef M. Shuster",Who supports Bernie? Analyzing identity and ideological variation of Bernie supporters on Twitter,2024
+Poster,"Asael H Sorensen, Asmeret Naugle, Casey Doyle, Dan J. Krofcheck, Matt Sweitzer",A Dynamic Model of the Relationship Between Online Influence and Real-World Action,2024
+Poster,"Ahana Bhattacharya, Alyssa Hasegawa Smith, Holliday Sims, Kenneth Joseph",An analysis of the Ecosystem of Elites on American Twitter in 2020,2024
+Poster,"Kilian Buehling, Volker Stocker, Yangliu Fan",Measuring Knowledge Diffusion from Academia to Journalism and Policy-Making,2024
+Poster,"Alexandra Segerberg, Matias Piqueras, Matteo Magnani",Visual Structural Topic Modeling for the Analysis of Political Communication: A Deep Generative Approach,2024
+Poster,"Ancsa Hannak, Huei-Yen Chen, Kenneth Joseph, Stefania Ionescu, Yuhao Du","A qualitative, network-centric method for modeling socio-technical systems",2024
+Poster,"Andres Abeliuk, Naim Bro, Vanessa Gaete",LLMs for Political Predictions in the Chilean Context,2024
+Poster,"Christopher Danforth, Denis Hudon, Jonathan St-Onge, Julia Witte Zimmerman, Kathryn Cramer, Mikaela Irene Fudolig, Milo Z Trujillo, Peter Dodds",A blind spot for large language models: Supradiegetic linguistic information,2024
+Poster,"Calvin Isch, Neil Fasching, Timothy Dörr",Narrative License in the Social Sciences,2024
+Poster,"Dmitry Zinoviev, Pelin Bicen, Yannick Thams",Influence of Political Ideology on English-Speaking Entrepreneurs' Twitter Reaction to the Russia-Ukraine Conflict,2024
+Poster,"Anna B. Stephenson, Chris Kempes, Guillaume Falmagne, Simon Levin",Understanding the scaling of organizations using a Reddit social experiment,2024
+Poster,"Asael H Sorensen, Asmeret Naugle, Casey Doyle, Dan J. Krofcheck, Matt Sweitzer",Changes in emotional content of forum messages precede user action on subject,2024
+Poster,"Albert-Laszlo Barabasi, Alexander J Gates, Cristian E Candia, Yessica Herrera-Guzman",Quantifying Hierarchy and Prestige in US Ballet Academies as Social Predictors of Career Success,2024
+Poster,Eirliani Abdul Rahman,The Anatomy of Indirect Swarming and Its Potential Threat to Democracies,2024
+Poster,Lin Gan,People use more cohesive language after upheavals: Evidence from 43 communities and 256 upheavals,2024
+Poster,"Mark Mets, Maximilian Schich, Peter Dodds",Fundamental Attention Changes Towards Ukraine in 28 Languages from 2008 to 2023,2024
+Poster,"Charles Jonathan Gomez, Silvan Daniel Baier",Paradigms and Hierarchies: Linking Knowledge Structures and Social Order in Science,2024
+Poster,"Shir Weinbrand, Tali Kristal",What is an Occupation? Ascribing Workers into Occupational Categories Using Linked Employer-Employee Longitudinal Data,2024
+Poster,Satyam Mukherjee,The Evolution and Formation of Indian Political Debate Networks,2024
+Poster,"Daniel Verdi do Amarante, Kritim K Rijal",Investigating Socio-Economic Disparities in a Brazilian Science Fair through Statistical Analyses,2024
+Poster,"Rikus H Heystek, Zachary Horne",An Investigation of ADHD Symptom Misinformation Prevalence in Reddit's r/ADHD Subreddit Using Google's DistilBERT,2024
+Poster,"Andrew Iliadis, Jing Han",A Picture is Worth a Thousand Prompts: Topic Modeling of AI Art Subreddit Communities,2024
+Poster,"Fengli Xu, James Evans, Lin Chen, Pan Hui, Yong Li",Social Fabric Resilience Underlying Hierarchical Human Mobility Crisis Response,2024
+Poster,"Florian Artinger, Julian Runge",Not Just Small Samples: Successfully Predicting Revenues With the Ratio Heuristic,2024
+Poster,"Bernie Hogan, Scott A. Hale, Yixin Chen","""I feel you"": Examining Empathy in Online Communities",2024
+Poster,"Anastasia Kozyreva, Briony Swire-Thompson, Michael Geers, Philipp Lorenz-Spreen, Ralph Hertwig, Ruben C. Arslan, Stefan Herzog",Real-time assessment of motives for sharing and producing content among highly active Twitter users.,2024
+Poster,"Brendan J. Nyhan, Do Won Kim, Filippo Menczer, Giovanni Luca Ciampaglia, Maria Elizabeth Grabe, Ro'ee Levy",Muting low-quality sources: A field experiment to mitigate the harm of inaccurate information online,2024
+Poster,"Diane Dagyong Kim, Haoning Xue, Jingwen Zhang, Xiaohui Wang, Yunya Song",A Holistic Approach to Multimodal Features: A Validated Computational Measure of Message Sensation Value in Short Videos,2024
+Poster,"Bin Chen, Jiyoun Suk, Josephine Lukito, Megan Brown, Meredith L. Pruden, Ross Dahlke, Sarah Shugars, Wei Zhong, Yini Zhang, Yunkang Yang",An Ecosystem Divided?: Cross-Platform Election Information Flows across Alt-Tech and Mainstream Social Media Platforms,2024
+Poster,"Masahiro Kazama, Ryan Smith, Susumu Nagayama, Toru Takahashi",Designing LLM Agents for Decision-Making Experiments: Assessing Similarity to Humans with the Active Inference Parameters,2024
+Poster,"Alireza Javadian Sabet, Daniel Rock, Morgan Ryan Frank, Renzhe Yu, Sarah H Bana",Quantifying exposure to Large Language Models in millions of college syllabi,2024
+Poster,"Bojan Simoski, David Blok",Large Language Models for conversational text style transfer: an evaluation study,2024
+Poster,"Bence Kollanyi, Krisztián Boros, Zoltan Kmetty",Boosting classification reliability of NLP transformer models in the long run - challenges of time in opinion prediction regarding COVID-19 vaccine,2024
+Poster,"Filippo Menczer, Francesco Pierri, John Bryden, Matthew DeVerna, Rachith Aiyappa, diogo pacheco",Cascade reconstruction assumptions influence our understanding of information diffusion,2024
+Poster,"Eni Mustafaraj, Jenny Shan Wang, Kyung Park",An Examination of the Racial Differences in the Performance of Race Classifiers: Evidence from TV,2024
+Poster,"Angelos Chatzimparmpas, Jessica Hullman, Matthew Groh, Negar Kamali",Evaluating Human Perception of AI-Generated Images Across Pose Complexities,2024
+Poster,Isamar Troncoso,The Impact of Unionization on Consumer Perceptions of Service Quality: Evidence from Starbucks,2024
+Poster,"Akira Matsui, Mitsuo Yoshida, Taichi Murayama",Behind the Screens of Fandom: Unraveling the Threads of Online Platform,2024
+Poster,Sijia Li,Uncovering the Heterogeneous Effects of Depression on Suicide Risk Conditioned by Linguistic Features: A Double Machine Learning Approach,2024
+Poster,"Ken J. Nixon, Martin Bekker, Emily-Rose S. Steyn",Visualising the legacy of colonialism and apartheid in South Africa by mapping street name origins,2024
+Poster,"Adam Stefkovics, Julia Koltai, Zoltan Kmetty",Intentions vs. Reality. Validating a Vignette Experiment Using Real-World Behavioral Data,2024
+Poster,"Alex Pentland, Mohsen Bahrami, Yilun Xu",Consumer Behavioral Shifts as a Result of the COVID-19 Pandemic: Are They “Sticky”?,2024
+Poster,"Byunghwee Lee, Jinhyuk Yun, Taekho You, Jin Kim",Understanding the Creativity through Evolution of Western Painting Art Using the Stable Diffusion Model,2024
+Poster,"Carolina Coimbra Vieira, Ebru Sanliturk, Emilio Zagheni",Using Wikipedia data to monitor big migration events,2024
+Poster,Inessa De Angelis,"Torrential Twitter: Climate Change, Female Politicians, and Harassment",2024
+Poster,"Lasse Mohr, Sune Lehmann",A large-scale study of family networks and heterogenous mating,2024
+Poster,"Ayush Kanodia, Herman Brunborg, Keyon Vafa, Susan Athey, Tianyu Du",Analyzing Labor Market Gender Disparities with Large Language Models,2024
+Poster,"Brooke Foucault Welles, Yukun Yang",Mapping Real-World Migration Flow Network Using Context-Rich Social Media Data,2024
+Poster,"Haiming Qin, Mengyu Li",Newsroom as a Collective Intelligence System: AI-Driven Simulations and Impact on Media Sustainability,2024
+Poster,"Hao Lin, Yongjun Zhang",Leveraging Generative AI for Sociological Inquiry: The Application of GPT-4 in Social Movement Studies,2024
+Poster,"Henry George Xu, Kathleen M. Carley, Patrick Park",The Life of a Tie: Social Origins of Network Diversity,2024
+Poster,"David Rand, Gordon Pennycook, Mohsen Mosleh, Qi Yang, Tauhid Zaman",Unbiased misinformation policies sanction conservatives more than liberals,2024
+Poster,"Georgina Curto, Nuria M Oliver, Adrian Arnaiz-Rodriguez",Structural Group Unfairness: Measurement and Mitigation by means of the Effective Resistance,2024
+Poster,"Alexander J Gates, Indraneel Mane, Jianjian Gao",The increasing fragmentation of global science limits the diffusion of ideas,2024
+Poster,Lucian Li,Tracing the Genealogies of Ideas with Sentence Embeddings,2024
+Poster,"Bruno Lepri, Eduardo López, Mailun Zhang, Sam G B Roberts, Simone Centellegher, Valentin Vergara Hidd",The rhythms of transient relationships: allocating time between weekdays and weekends,2024
+Poster,"Chaolin Tian, Langtian Ma, Roberta Sinatra, Xunyi Jiang, Yifang Ma, Yurui Huang",Quantifying the hierarchical scales of scientists’ mobility,2024
+Poster,"Aditya Gulati, Bruno Lepri, Marina Martinez-Garcia, Nuria M Oliver","What is beautiful is still good, especially if you are man: The Attractiveness Halo Effect in the era of AI-based Beauty Filters",2024
+Poster,Jonas Schlicht,A Match Made in Language: Examining the Role of Psycholinguistic Similarity in Adolescents’ Preference for Persuasive Message Styles,2024
+Poster,"Armin Pournaki, Felix Gaisbauer, Jakob Ohme",Mapping news sharing on Twitter: A bottom-up approach based on network embeddings,2024
+Poster,Brennan Klein,Quantifying widespread disparate racial impact of drug-free zone laws in the United States,2024
+Poster,"Achim Edelmann, Panayiotis Smeros",MoraLLM: Morality Quantification on Structured Interviews using Zero-Shot Classification,2024
+Poster,"Daniel Romero, Misha Teplitskiy, Sidney Xiang",Unpacking interdisciplinarity: Input and output interdisciplinarity have different associations with evaluation outcomes,2024
+Poster,"Bhargav Srinivasa Desikan, Martin Gerlach, Robert West, Tiziano Piccardi","Google2Wiki: A Public Dataset for Mapping the Relevance of Wikipedia from Search, across Topics and Time",2024
+Poster,"Akhil Arora, Bhargav Srinivasa Desikan, Martin Gerlach, Robert West",The Head and Tail of Wikipedia: the Value of the Long Tail of the Information Warehouse,2024
+Poster,"Vasiliki Voukelatou, Kevin Tang, Ilaria Lauzana, Giulia Martini, Manita Jangid, Saskia De Pee, Frances Knight, Duccio Piovani",Bridging Data Gaps: Predicting Inadequate Micronutrient Intake with Machine Learning,2024
+Poster,"Gerard Christopher Yeo, Kokil Jaidka, Shaz Furniturewala",Beyond Text: Leveraging Multi-Task Learning and Cognitive Appraisal Theory for Post-Purchase Intention Analysis,2024
+Poster,"Guillaume Jorandon, Guillaume Latzko-Toth, Philippe Després",Online controversies around mRNA vaccines during the COVID-19 crisis: analyzing and mapping the anti-vaccine discourse on Twitter,2024
+Poster,"Benjamin Jones, Brian Uzzi, Tanya Y Tian, Yang Yang",Access to Science in the Town Square: The Role of Social Media in Science Communication,2024
+Poster,"Bence Kollanyi, Bence Ságvári",Temporal patterns of daily smartphone usage among Hungarian school-age children,2024
+Poster,"Galen Stocking, Regina Widjaya",Today’s News Influencers: Collecting key social media data in a post-API world,2024
+Poster,"A. Marthe Möller, Joanna Strycharz, Justin Chun-ting Ho, Rhianne W. Hoek",Topic Model for Image and Text Analysis,2024
+Poster,Jack Lipei Tang,"The Symphony of Racial Justice Movement: Multimodal Content, Communication Networks and Community Engagement across Four Social Media Platforms",2024
+Poster,"Nari Yoo, Sangpil Youm, Sou Hyun Jang",Predicting Depressive Symptoms through Emotion Pairs within Asian American Families,2024
+Poster,"Hyeong Jae Lee, Inho Hong",Measuring the influence of Vocational Education on Singapore labor market with LLM and similarity-based networks,2024
+Poster,"Alireza Javadian Sabet, Junghyun Lim, Morgan Ryan Frank",Gender and the Patterns of Return Migration after Work or Education in the U.S.,2024
+Poster,"Babak Heydari, Negin Maddah",The Heterogeneous Effect of Large Language Models on Professional Peer-to-Peer Knowledge Sharing,2024
+Poster,"Emily K McKinley, Muhammad Ehab Rasul, Sijia Qian","How Humor Shapes COVID-19 Vaccine Misinformation: Unveiling Prevalence, Characteristics, and Audience Perception",2024
+Poster,"Jisung Yoon, Shambhobi Bhattacharya, Hyejin Youn",Unveiling Scaling Laws in Regulatory Functions of Online Platforms,2024
+Poster,"Anku Rani, Kokil Jaidka, Ozan Kuru, Sharath Chandra Guntuku, Yuanyuan Wu",How do scientific breakthroughs influence public emotions: COVID-19 vaccine event and Twitter discussion in the U.S.,2024
+Poster,"Jiayu Chen, Kazutoshi Sasahara, Kei Ichikawa",The Emotional Levers of AI-generated Content,2024
+Poster,"Andres Abeliuk, Naim Bro",Extracting Political Networks from Text Using GPT-4,2024
+Poster,Makoto Mizuno,Exploring Robust Cost-effective Influencer Seeding Strategies in a Variety of Complex Networks,2024
+Poster,"Gerard Christopher Yeo, Kokil Jaidka, Fiona Anting Tan",PHAnToM: Personality Has An Effect on Theory-of-Mind Reasoning in Large Language Models,2024
+Poster,"David Garcia, Georg Ahnert, Markus Strohmaier, Max Pellert","Britain’s Mood, Entailed Weekly: In Silico Longitudinal Surveys with Fine-Tuned Large Language Models",2024
+Poster,"Aleksei Gorgadze, Ivan Burkov",What makes a review useful for restaurant visitors? Structural Topic Modeling of Tripadvisor restaurant reviews,2024
+Poster,"Armin Pournaki, Jean-Philippe Cointet, Pedro Ramaciotti Morales",Measuring multidimensional polarization in social media populations across countries in comparable political dimensions,2024
+Poster,Lucas Gautheron,Balancing Specialization and Adaptation in a Transforming Scientific Landscape,2024
+Poster,Tongjing Wang,Rethinking City Relationships: Moving from Frequency Analysis to Collocation Analysis,2024
+Poster,"Liza Danielle Kelly Gutierrez, Marcela de Niz",Latency variables of photojournalism associated with freedom of expression in digital news network,2024
+Poster,"Ksenia Mukhina, Mark Mets, Maximilian Schich, Mikhail Tamm, Mila Oiva",Quantitative analysis of city mentions in a newsreel corpus reveals geographical biases of Soviet propaganda,2024
+Poster,Thomas Davidson,Experimentally Evaluating Perceptions of Online Hate Speech in Social Contexts,2024
+Poster,Daniel Putman,Port-Au-Prince Calling: Social Network Response to Social Unrest using Mobile Phone Metadata in Haiti,2024
+Poster,"Andrea Passerini, Antonio Longa, Bruno Lepri, Gaia Trebucchi, Giulia Cencetti, NicolÃ² Alessandro Girardini",Community-Aware Temporal Network Generation,2024
+Poster,Belén C Saldías Fuentes,Designing Child-Centered Content Moderation,2024
+Poster,"Matti Nelimarkka, Roman Kyrychenko, Vasileios Maltezos","Enhanced Representation Learning: A Novel Heuristic for More Stable, Fast, and Precise Political Image Categorization",2024
+Poster,"Fabian Baumann, Iyad Rahwan, Qiankun Zhong, Thomas Franz Müller",Multi-level Selection of AI Behaviors,2024
+Poster,"Gloria Mark, Juhi Kulshrestha, Nguyen Luong, Talayeh Aledavood",Sleep Patterns During the COVID-19 Pandemic: A Longitudinal Multisensor Study,2024
+Poster,"Alireza Javadian Sabet, Derek Aguiar, Marjan Hosseini, Suining He",LDAVAE: An Interpretable Approach for Fake News Detection,2024
+Poster,"Duncan J. Watts, Mark E. Whiting, Josh Nguyen",Do Language Models Have Common Sense?,2024
+Poster,"Luca Rossi, Luigi Arminio",Tracing the sociolinguistic patterns of polarization in the Facebook debate on Climate Action,2024
+Poster,"Atticus McWhorter, Feng Fu",Q Learning Dynamics in Vaccination: A Double-Edged Sword for Addressing Vaccine Hesitancy,2024
+Poster,Jie Zhao,Tracing The Cooperative Game On Gig Platforms: How gig workers emerge strategies against algorithmic management through sensemaking,2024
+Poster,"Jie Zhao, Ke Li, Pu Yan",Exploring news consumption variances using large-scale user log and survey data,2024
+Poster,"Daniel G. Goldstein, David Rothschild, Harsh Kumar, Jake M. Hofman",Math Education With LLMs: Peril or Promise?,2024
+Poster,"Cynthia S. Wang, Jennifer A. Whitson, Jon Atwell, Joshua Becker, Nelberto Nicholas Quinto",Complex Negotiations as Computational Search,2024
+Poster,"Dawn Song, James Evans, Junsol Kim, Shiyang Lai, Yujin Potter",Evolving AI Collectives to Enhance Human Diversity and Enable Self-Regulation,2024
+Poster,"Asael H Sorensen, Asmeret Naugle, Casey Doyle, Dan J. Krofcheck, Matt Sweitzer","MADmax: Multi-Agent Opinion
+Dynamics Mediated by Trust in
+an Online Social Context",2024
+Poster,Danial Vahabli,Hashtag Activism for Global Attention: Unheard Subaltern Iranian Perspectives,2024
+Poster,"Mihai Surdeanu, Vijaya Raj Joshi",Visualizing and Verbalizing (VIVE) for Unveiling Local Context and Geospatial Insights,2024
+Poster,"Calvin Yixiang Cheng, Dorian Christoph Quelle, Scott A. Hale",Exploring the Content Mutation of Multilingual Misinformation,2024
+Poster,Linda Hong Cheng,"Dismantling Patriarchy, One Phone At a Time? The Relationship Between Online and Offline Gender Gaps",2024
+Poster,"Jiahong Yuan, Yi Yang, Yiming Wang",Automatic Transcription and Representations for Lexical Tones in Sino-Tibetan Languages,2024
+Poster,"Aria Pessianzadeh, Shadi Rezapour",Voices of Reddit: Exploring the Diverse Perspectives and Stances on Affirmative Action,2024
+Poster,Natalie Castro,Decoding the Problematization of COVID-19 in Colorado School Boards,2024
+Poster,"Ankit Aich, Brenda Curtis, João Sedoc, Kelsey Jane Isman, Salvatore Giorgi, Tingting Liu, Zachary Fried",The State of Modern LLMs for Substance Use Help,2024
+Poster,"Jason Yan, Sabina J Tomkins, Tong Lin",Tab2Text: Transforming tabular data to text with LLMs,2024
+Poster,"Alireza Ilami, Babak Heydari, Gabriele Ansaldo",Integrating Language Models with Agent-Based Modeling for Policy Analysis: The Case of EV Adoption,2024
+Poster,"Wei Bai, Wen Li, Yizhang Zhao","Once Reactivated, Dormant Ties Tend to Maintain Active in the Digital Age",2024
+Poster,"Nathan Senyard, Sathish Gopalakrishnan, Sumeet Gulati",Studying Human-Wildlife Conflict through Automated Analysis of News,2024
+Poster,"Ho-Chun Herbert Chang, Mingyue Zha",Quantifying Synergy and Gender Inequality in Online Video Game Streaming,2024
+Poster,"Afsaneh Razi, Jordyn Young, Max Song, Michal Monselise",Investigating Preferences of Young People for Support Types Provided by AI around Sexual Risks and Abuse,2024
+Poster,"Dorottya Kisfalusi, Zoltan Kmetty",Who are better at recalling names? Lessons from a comparison of self-reported and actual Facebook acquaintances,2024
+Poster,"Claudia Acciai, Friedolin Merhout, Mathias Wullum Nielsen, Natalie Schroyens",The Role of Scientists in Correcting Misinformation: Political Framing and Source Characteristics,2024
+Poster,"Boyuan Jia, Pu Yan, Ruyin Feng, Xiaozhong Zhu, Xieshuang","""Thanks for your question, I'm gonna answer anonymously"": A natural experiment on the effect of anonymity on content toxicity in Q&A forum",2024
+Poster,"Aoi Naito, Kazutoshi Sasahara, Koichi Onoue, Miho Tanaka",How Generative Agents Transform Team-Building Dynamics on Online Communication Platforms,2024
+Poster,"Cheng-Jun Wang, Haochuan Cui, Lihan Yan",What Patents Are Less Likely to be Granted? Perspective from Patent Examiner and Disruptive Innovation,2024
+Poster,"Cheng-Jun Wang, Lihan Yan, Yu Zhou",The Power of Elite Narratives: Evidence from the Tweets of the 2020 US Presidential Election,2024
+Poster,"Atom Sonoda, Fujio Toriumi",News Services and Filter Bubbles: Diversity Changes Depending on the Unit of Evaluation,2024
+Poster,"Agnieszka Czaplicka, Fabian Baumann, Iyad Rahwan, Maxime Derex, Thomas Franz Müller",The Impact of Recommender Systems on Cumulative Culture,2024
+Poster,"David Joachim Grüning, Frederik Riedel, Julian Kohne, Lukas Otto, Marc Sparhuber, Mareike Wieland",Beyond Screentime? The Interplay of Problematic Smartphone Use Perceptions and Actual Smartphone Use,2024
+Poster,James Calum Young,The Language of Weather: Exploring Regional Dialects on Social Media,2024
+Poster,Isak Ladegaard,Comparing the far-right “hate focus” on Stormfront and the Daily Stormer With Inductive-Deductive Topic Modeling,2024
+Poster,"Alessandro Piazza, Enrico Forti, Joost Rietveld",CrossFit in the Crosshairs: A Community-Embedded Theory of Firm Responsiveness to Social Issues,2024
+Poster,"Hideo Yasumoto, Ichiro Sakata, Kimitaka Asatani, Takeshi Sakaki",Left-Leaning Twitter Users Tend to Gather More Community Notes in Japan,2024
+Poster,"Jason Yan, Kerri Milita, Sabina J Tomkins, Tong Lin, Yanna Krupnikov",I've Seen That Before! Towards Understanding Hard News Exposure from Soft News Outlets,2024
+Poster,Maria C. Ramos,The Computational Social Science Pedagogical Toolkit,2024
+Poster,"Anita Keshmirian, Babak Hemmatian, Kristian Kersting, Moritz Willig, Tobias Gerstenberg",Investigating Causal Judgments in Humans and Large Language Models,2024
+Poster,"Andrés Gvirtz, Felix Patrick Sedgwick Wallis, James K. He, Steve Rathje",Artificial Intelligence Chatbots Mimic Human Collective Behaviour,2024
+Poster,Qing Ke,Diachronic periodical embeddings reveal evolution of science,2024
+Poster,"Aaron Clauset, Carolina Chavez-Ruelas, Daniel Acuna, Daniel Larremore, Katie Spoon",Socioeconomic status influences academic scholarship,2024
+Poster,"Deb Roy, Elinor Poole-Dayan",Sandbagging in LLMs: Systematic Underperformance for Uneducated and ESL Users,2024
+Poster,"Takayuki Mizuno, Tomonori Takahashi",Synthetic Financial Time Series by Diffusion Models,2024
+Poster,"Elisabetta Salvai, Giovanni Petri, Jacob Aarup Dalsgaard, Roberta Sinatra",Toward Fairness in Network Algorithms: Rankings by Biased Random Walks,2024
+Poster,"Basak Taraktas, Kadir Cihan Duran, Orkun İrsoy, Susan Üsküdarlı","Variations in Countermovements: Cause Diversity, Consistency, and Group Cohesion in the ``Lives Matter'' claim",2024
+Poster,Veronika Batzdorfer,Observational Causal Inference ̶ Risk Regulation of AI,2024
+Poster,"Lingxin Hao, Wenxuan Huang, Xingyun Wu","Climate Risks, County Dyads, and Migration Network Structure in the United States 2011-2020",2024
+Poster,Samuel R. Mendez,Exploring the suitability of supervised machine learning to scale health literacy assessments of short social media posts as bags-of-words,2024
+Poster,Yizhou Ye,Predicting Neighborhood Socioeconomic Status in Chinese Metropolis: Lessons from Shanghai,2024
+Poster,"Ashton Anderson, Rachel Minyoung Kim, Veniamin Veselovsky",Capturing Dynamics in Online Public Discourse: A Case Study of Universal Basic Income Discussions on Reddit,2024
+Poster,"Charlie Pilgrim, Joshua Becker",The Robust Benefits of Social Influence for the Wisdom of Individuals in the Crowd,2024
+Poster,Aakriti Kumar,People's Assessment of Human and AI Ability,2024
+Poster,"Aleksander Madry, Andrew Ilyas, Hannah Li, Jennifer Allen, Sarah Huiyi Cen",Measuring Strategization in Recommendation: Users Adapt Their Behavior to Shape Future Content,2024
+Poster,"Ashton Anderson, Difan Jiao, Jon Kleinberg, Reid McIlroy-Young, Siddhartha Sen, Zhenwei Tang",A Unified Model for Human-AI Alignment in Chess,2024
+Poster,"Brenda Curtis, Dahlia Earleywine, Pamela Osseyi, Salvatore Giorgi, Zachary Fried","Exploring Sexualized Cannabis Use on Reddit: Patterns, Motivations, and Public Health Implications",2024
+Poster,"David Rand, Duncan J. Watts, Jennifer Allen",Quantifying the Impact of Misinformation and Vaccine-Skeptical Content on Facebook,2024
+Poster,"Andrew Beers, Emma Spiro, Kate Starbird",Flows of Negativity in United States Political Influencer Communities,2024
+Poster,Nan Feng,The Roles of Macro and Micro-level Social Capital in Occupational Mobility via a Network Approach,2024
+Poster,"David Kempe, Fang-Yi Yu, Grant Schoenebeck, Yichi Zhang",A System-Level Analysis of Conference Peer Review,2024
+Poster,"Dehao Zhang, Fereshteh Amini, Longqi Yang, Marie-Laure Charpignon, Siddharth Suri, Sonia Jaffe, Yuan Yuan",Navigating the New Normal: Examining Co-Attendance in a Hybrid Work Environment,2024
+Poster,"Jon Kleinberg, Katherine Van Koevering",Social Tectonics: Rapid Organization of Online COVID Communities,2024
+Poster,Gülşah Akçakır,Exploring the Impact of Group Interdisciplinarity on Research Success: A case study of CSSS,2024
+Poster,"Alex Pentland, Alina Fonseca Flores, Carla Freitas Silveira Netto, Hend Alrasheed, Mohsen Bahrami, Vinicius Andrade Brei",Modified Human Mobility Models for Strategic Business Location Optimization,2024
+Poster,"David Fang, Yang Huang, Yu Ding",Revealing Your Past vs. Unveiling Your Future: Which Drives More Engagement?,2024
+Poster,"David Rand, Gordon Pennycook, Hause Lin, Jana Lasser, Stephan Lewandowsky",High level of correspondence across different news domain quality rating sets,2024
+Poster,"Taizo Horikomi, Takayuki Mizuno",The Generation of Customer Flow and Purchase Behavior in Retail Stores Using Transformer-based Deep Learning Structure,2024
+Poster,Xinlan Emily Hu,A Flexible Python-Based Toolkit for Analyzing Team Communication,2024
+Poster,"Markus Strohmaier, Stefano Balietti",Influence and Networks of DAOs' Contributors,2024
+Poster,"Levi Kaplan, Piotr Sapiezynski",Comprehensively Auditing the TikTok Mobile App,2024
+Poster,"Bruno Gomes Coelho, Damon McCoy, Laura Edelson, Tobias Lauinger",How Representative is Abortion-Related Content on TikTok in the Context of the U.S. Supreme Court Ruling,2024
+Poster,"Helen Z. Margetts, Sukankana Chakraborty",Disseminating critical information during crises : the use of nodality by UK state actors,2024
+Poster,"Akihiro Inomata, Atsuko Tada, Chika Yamanami, Satoshi Amemiya, Takeshi OTANI, Tsuyoshi Mizouchi, Yukiko Ito",Simulation of public hospital consolidation plans for regional healthcare quality in Japan,2024
+Poster,"Dallas Card, Lavinia Dunagan",Religious Rhetoric in the U.S. Congressional Record,2024
+Poster,Ivan Burkov,Driving Sustainable Urban Mobility: Insights from Consumer Perspectives,2024
+Poster,Alexander Sobieska,"Towards a Differential Model: A User-Centered, Longitudinal Study of Linguistic Pathways to Radicalization on r/Incel",2024
+Poster,"Gülşah Akçakır, Jun Luo, Seonhye Noh, Yanru Jiang",Validating a Mixed-Method Approach for Multilingual News Framing Analysis: A case study of COVID-19,2024
+Poster,"Ceren Budak, Eric Gilbert, Joshua Ashkinaze, Julia Mendelsohn, Li Qiwei","How AI Ideas Affect the Creativity, Diversity, and Evolution of Human Ideas: Evidence From a Large, Dynamic Experiment",2024
+Poster,"Alex Pentland, Amir Tohidi Kalorazi, Mohsen Bahrami",Surprising negative association of customer diversity with restaurants' post-covid foot traffic recovery,2024
+Poster,"Joshua Tomas Sealth Hewson, Ke Fang",Evaluating internal and external dissonance of belief dynamics in social systems,2024
+Poster,Edward Lee,Decentralized information cascades in firms,2024
+Poster,"Jaideep Srivastava, Jisu Huh, Maral Abdollahi, Smitha Muthya Sudheendra, Dongyeop Kang",Corpus for Skepticism Detection After Persuasion Attempt,2024
+Poster,Alexander Sobieska,Neurorights on Youtube: Investigating Ethical Considerations of Neurotechnology in Public Discourse,2024
+Poster,"Ali Hürriyetoğlu, Amanda Zaner, Erdem Yörük, Firat Durusan, Işık Topçu, Jungmin Han, Melih Can Yardı, Muge Finkel, Steven E. Finkel",A Computational Social Science Approach to Online Violence Against Female Political Candidates in the Turkish National Elections of 2023,2024
+Poster,"Ali Hürriyetoğlu,Erdem Yörük, Firat Durusan, Işık Topçu, Mehmet Fuat Kına, Melih Can Yardı, Oğuz Gürerk, Tolga Etgü, Şükrü Atsızelti",How to Use AI to Obtain Representative Public Opinion from X,2024
+Poster,"Aleksi Aaltonen, Detmar W. Straub, Kanghyun Cho, Ziyi Zhao",Decoding Coding Advice: Generative AI Is Thinking Outside the Box in Programming Problem-Solving,2024
+Poster,"Burak Ozturan, David Lazer",Anatomy of the Information Ecosystem: Mapping Voices Amidst the Concentrated Currents of Content and Attention on Twitter,2024
+Poster,Andrés Gvirtz,A mixed-method study on enhancing student learning through personalised GenAI content,2024
+Poster,"Reyhan Jamalova, Sharath Chandra Guntuku, Sunny Rai",Characterizing the Geographical Landscape of COVID-19 Misinformation from X,2024
+Poster,"Arnav Arora, Avneet Kaur",War vs Conflict: A Computational Framing Analysis of language used in News Media on Israel-Palestine,2024
+Poster,"Andrés Gvirtz, Anubhab Das, Daniele Quercia, Sanja Scepanovic",Understanding the divergence between digital health footprints and official prevalence: A multi-behaviour study across US states,2024
+Poster,"Angelita Repetto, Eugene Jang, Hannah Kinzer, Minghui Wang",Social Media Agendas and Research Agendas around Racial/Ethnic Health Disparities,2024
+Poster,Elizaveta Chernenko,Outgroup dehumanisation in Telegram – the role of ingroup perception,2024
+Poster,"Mitsuo Yoshida, Tomohiro Murakami",Categorization of Regional Pricing Trends Among Publishers on Steam,2024
+Poster,"Ho Chun Herbert Chang, Sean Noh",LLMs Are Cunning: Personality-based Exploitation in Multi-issue Bargaining Games,2024
+Poster,"Ashton Anderson, Jessica Bo, Jiessie Tie, Lillio Mok",Does GPT Distrust Algorithms? Evaluating Large Language Models for Algorithm Aversion,2024
+Poster,"Athena Chapekis, Sono Shah",Characterizing U.S. adults’ online behaviors using blended data,2024
+Poster,AJ Alvero,"Algorithmic Tradeoffs, Applied NLP, and the State-of-the-Art Fallacy",2024
+Poster,"Daisuke Kikutani, Mitsuo Yoshida",Classification of Characteristic Locations Extracted from Sentiment Analysis of Tweets,2024
+Poster,Isabelle Langrock,Social Science Research in the Post-API Age: How data access shapes methods and questions,2024
+Poster,"Joshua Grossman, Lindsay Page, Sabina J Tomkins, Sharad Goel",The Disparate Impacts of College Admissions Policies on Asian American Applicants,2024
+Poster,"Charles Rahal, Daniel Valdenegro",Computationally Efficient Synthetic Controls,2024
+Poster,Katie Spoon,Quantifying inequitable education pathways to scientific and technical jobs,2024
+Poster,Larrisa I. Miller,Using Social Network and Critical Discourse Analysis to Explore Digital Rape Culture in a University Subreddit,2024
+Poster,Erin Walk,Segregation in Online Content Viewing,2024
+Poster,"Allon Percus, Buddhika Nettasinghe, Kristina Lerman",Information Cascades in Affectively Polarized Social Networks,2024
+Poster,"Daniel A. McFarland, Jingruo Sun, Tianyu Du, Yuze Sui",The Development of Facticity—from Preliminary Finding to Accepted Implicit Knowledge,2024
+Poster,"Emma Spiro, Saloni Dash, Yiwei Xu",Understanding the Role of Large Language Models in Amplifying Heuristic Persuasion in Disinformation Operations,2024
+Poster,"Yosra Abdessamed, Shadi Rezapour, Steven R. Wilson",Identifying Narrative Content in Podcast Transcripts,2024
+Poster,"Anqi Liu, Ariane Kelly, Ashi Garg, I-Jeng Wang, Kelun Lu, Lingxin Hao, Michael J. Reese, Wenrui Huang, Xingyun Wu",Exploring College Student-ChatGPT Interaction Patterns: Natural Language Processing of Conversational Data in a Randomized Experiment,2024
+Poster,"Chris Wells, James Crissman, Rebecca Auger","Say Their Names: Breonna Taylor, George Floyd and a National Conversation About Race",2024
+Poster,Alejandro Sarria-Morales,Semantic Shades of Disdain: A Word Embedding Analysis of Disgust in Colombian Senate Speeches,2024
+Poster,"Ayse Deniz Lokmanoglu, Mowafak Allaham, Rod Abhari",Visualizing Violence: Thematic Analysis of Violence in Parler Memes,2024
+Poster,"Jordyn Young, Layla Bouzoubaa, Shadi Rezapour",Exploring the Landscape of Drug Communities on Reddit: A Network Study,2024
+Poster,"Filippo Menczer, Harry Yaojun Yan, Matthew DeVerna, Kai-Cheng Yang",Fact-checking information generated by a large language model can decrease news discernment,2024
+Poster,Jon Benedik Bunquin,Nuclear Talk in Networked Environments: Political and non-political sources in nuclear energy discourses on Twitter,2024
+Poster,"Allison S. Nahmias, Aubyn C Stahmer, Elizabeth McGhee Hassrick, Jessica Suhrheinrich, Melina Melgarejo",Multi-system Brokerage: How relationships across systems shape the implementation of learning in schools for autistic students,2024
+Poster,"Chaeeun Han, Sangpil Youm, Sou Hyun Jang",Information Seeking and Communication among International Students on Reddit,2024
+Poster,"Ashton Anderson, Jon Kleinberg, Karim Hamade, Reid McIlroy-Young, Siddhartha Sen",From Opponent to Trainer: Designing AI Agents as Human Partners in Chess,2024
+Poster,"David Rothschild, Hope Schroeder, Jenny Shan Wang",Using LLM-based Survey Creation to Track Real-Time News Absorption and Impact,2024
+Poster,"Filipi Nascimento Silva, Jin Ai",Mapping Philanthropic Studies Using Natural Language Processing,2024
+Poster,"Burak Ozturan, David Lazer, Pranav Goel, Kai-Cheng Yang",Revealing the localness of news domains through consumption patterns on social media,2024
+Poster,Wenlan Zhang,"Land Use Classification Reveals Data Injustice in Nairobi, Kenya",2024
+Poster,"Akira Goto, Genki Ichinose, Hiroki Sayama, Katsushige Fukushima, Mizuki Sakai, Wakaba Tateishi",Effects of others’ evaluations on cooperation in a collective-risk social dilemma game with different risks,2024
+Poster,"Achyutarama R Ganti, Wing-Yue Geoffrey Louie, Steven R. Wilson",Cross-Domain Classification of Educational Talk Turns,2024
+Poster,"Johann Demetrio Gaebler, Sharad Goel","A Simple, Statistically Robust Test of Discrimination",2024
+Poster,"Kokil Jaidka, Svetlana Churina","Verified Voices, Unverified Truths: The Role of Elites in X's Misinformation Landscape",2024
+Poster,"Danishjeet Singh, Filippo Menczer, Kai-Cheng Yang",Characteristics and prevalence of fake social media profiles with AI-generated faces,2024
+Poster,Yue J. He,Exploring Retention with Longitudinal Participants: An Agent-based Model,2024
+Poster,"Ege Otenen, Johan Bollen, Ozgur Can Seckin",Quantifying the Digital Phenotype of Loneliness on Twitter,2024
+Poster,Eunbin Ha,Demographic bias in LLMs: Sentiment analysis of ChatGPT responses to vaccination,2024
+Poster,Anusha Natarajan,Comprehending Public Discourse about Democracy in Battleground States during the 2020 U.S. Presidential Election on Twitter,2024
+Poster,"Joshua Introne, Qiusi Sun, Una Joh",Empirical Validation of a Model of Narrative Diffusion,2024
+Poster,"Khushi Shelat, Sharath Chandra Guntuku, Sunny Rai, Young Min Cho, Devansh Jain",Studying Differential Mental Health Expressions in India,2024
+Poster,Firman M Firmansyah,"Exploring Media Bias, News Tone, and User Reactions to Recycling News on Facebook",2024
+Poster,"Grant Schoenebeck, Weijie J Su, Yichi Zhang",Eliciting Honest Information From Authors Using Sequential Review,2024
+Poster,"Jianghui Li, Joshua Introne",Towards a Predictive Model of Individual Belief Dynamics,2024
+Poster,"Anna Lieb, Eni Mustafaraj, Maneesh Arora","Creating Targeted, Interpretable Topic Models with LLM-Generated Text Augmentation",2024
+Poster,"Cynthia Dwork, Linjun Zhang, Reid McIlroy-Young",Towards Large Language Model Based Simulations of Individuals' Behaviour That Match the Real World,2024
+Poster,"Libo Wu, Naifu Zhang, Yang Zhou, Zhengyu Shi",Inferring Bidding and Pricing for Electricity Spot Market: a Novel Multi-Agent Reinforcement Learning Approach,2024
+Poster,"Dora Zhao, Farnaz Jahanbakhsh, Isabel O. Gallegos, Johan Ugander, Michael S. Bernstein, Tiziano Piccardi, Zachary Robertson, Ziv Epstein, Sanmi Koyejo",Measuring the expression of basic values in social media,2024
+Poster,"Cheng-Hong CHI, Joseph David Gendreau",Exploring the Link Between Animal Vaccine Hesitancy and Human Health: Sentiment Analysis of Tweets Discussing Poultry Vaccination,2024
+Poster,"Lingxin Hao, Wenrui Huang",Mapping STEM-Peer Communities in High School: A Network Analysis of STEM Course Taking and Academic Performance,2024
+Poster,"Johanna Einsiedler, Simon Ullrich",Machine augmented actor categorization for the online public sphere,2024
+Poster,"Joshua Introne, LaRoyce J. Covington",Social Interaction and Collective Intelligence at Varying Degrees of Task Complexity,2024
+Poster,"Sangbeom Kim, Seonhye Noh",Digital Participation Divide and Online Hostility: Frequent Commenters versus Infrequent Commenters,2024
+Poster,Yiran Duan,From YouTube to Twitter: Who Decides What to Spread about Climate Change?,2024
+Poster,"Amirhossein Nakhaei, Duncan J. Watts, Linnea Gandhi, Mark E. Whiting",Atlas: building a map of commensurable knowledge from existing research,2024
+Poster,"Haohan Shi, Matthew VanEseltine",Disruption and Research Integrity: Insights from Retracted Papers,2024
+Poster,Sukie Xiuqi Yang,"Chemical Spills and Environmental Anxiety on Social Media: Linking Twitter Data with national surveys, 2010-2023",2024
+Poster,"Bao Tran Truong, Sangyeon Kim",Quantifying the effects of time delay in illegal content takedown,2024
+Poster,"Haohan Chen, Junya Liang",Public Trust towards Expert during COVID-19 in China,2024
+Poster,"Abdul Basit Adeel, Ibrahim Enes Atac",How Electoral Dynamics Affect Sentiments Against Refugees: A Natural Experimental Analysis of Roughly 4 Hundred Thousand Tweets On Syrian Refugees In Turkey,2024
+Poster,"Chris Riedl, David Lazer, Mauricio Santillana, Tamanna I. Urmi",Human Behavior Dynamics and Thermostatic Response to Public Health Crises Shows Collective Adaptation: a COVID-19 Case Study,2024
+Poster,"Juho Kim, Michael Guerzhoy",Observing the Southern US Culture of Honor using Large-Scale Social Media Analysis,2024
+Poster,"Maxwell Li, Qiwei Han",The open secrets of the model or marginalized minority: Political campaign participation of Asian Americans in the 21st century,2024
+Poster,"Julia Hsin-Ping Hsu, Myeong Lee, Rodrigo Plaza, Ron Mahabir, Victoria Gonzales, Zhehan Zhang",Collaborating to Success: Analyzing the Collaboration Networks of Gaming YouTubers,2024
+Poster,Mengqi Zhang,"Strategy of Information Disclosure, Receiver Heterogeneity and Mechanism Design",2024
+Poster,"Gabriella Harari, Sumer Vaid, Mahnaz Roshanaei",Social Interactions in the Era of Multiple Channels: a Media Richness Perspective,2024
+Poster,"Ksenia Mukhina, Maximilian Schich",Learning geo-socio-visual attention patterns regarding the city of Rome,2024
+Poster,"Alvan Arulandu, Brian Lee Zhou",Speeches to Interventions: Forecasting Scalar UN Peacekeeping Deployments from UN General Assembly Debates and Historical Intervention Data,2024
+Poster,"Alexandria Leto, David Rothschild, Maria Leonor Pacheco, Elliot E. Pickens",Selecting Facts and Frames: Misinforming About the Economy Without Telling a Lie,2024
+Poster,Sukie Xiuqi Yang,"Think Globally, Plan Nationally: Examining National Adoption of Climate Change Education Policies",2024
+Poster,"Ashton Anderson, Harsh Kumar, Jonathan Vincentius",Evaluating the Impact of Generative AI on Human Creativity: A Randomized Experiment,2024
+Poster,"Armin Shams, Christina Thorpe, Matt Bowden",Building Societal Resilience against Child Grooming using Digital Technologies: The Solution Design,2024
+Poster,"Aritra Dasgupta, Jun Yuan, Vrushali Koli",A Communicative Intent Model for Classifying Socially Mediated Crisis Information,2024
+Poster,Yunus Emre Tapan,Dynamics of Digital Dialogues: The Co-evolution of Epistemic Elite Networks On Twitter,2024
+Poster,"Keith Burghardt, Kristina Lerman, Nathan Bartley",Measuring Impact of Personalized Timelines in Agent-based Simulations of Social Networks,2024
+Poster,"Byungkyu Lee, Junsol Kim",Am I the Asshole? The Danger of Cultural Homogenization in the Era of Generative AI,2024
+Poster,"Bruno Lepri, Ciro Beneduce, Massimiliano Luca",LLMs Are Zero-Shot Next-Location Predictors,2024
+Poster,"Samuel Martin-Gutierrez, Sina Sajjadi",Unveiling homophily beyond the pool of opportunities,2024
+Poster,"David Rothschild, Duncan J. Watts, Samar Haider",Mapping the U.S. News Landscape,2024
+Poster,"Anthony Cusimano, Jiayu Zheng, Louis Chu, Renzhe Yu",What You Do vs. Who You Are: Evaluating the Value of Administrative Records and Behavioral Traces in Predictive Modeling in Education,2024
+Poster,"Rongxin Ouyang, Subhayan Mukerjee, Tian Yang, Yilang Peng",The Effect of Deplatforming Donald Trump on Media Coverage and Audience Engagement,2024
+Poster,Xinfeng Gu,Harmonizing Hierarchies? Exploring the Evolution of Musical Tastes Among the Elite,2024
+Poster,"Amy Hagopian, Emma Spiro, Ihsan Kahveci, Zack Almquist",Building Resilient Networks for Emergency Preparedness: Utilizing Social Ties for Natural Hazard and Disaster Communication Among People Experiencing Homelessness,2024
+Poster,"Jaehong Kim, Sunna Jang, Wonjae Lee, Youngik Lee",Exploratory Study on Public Hate Speech Surrounding the 20th South Korean Presidential Election,2024
+Poster,"Bong Gwan Jun, Youngik Lee, Yuwon Chun",Streaming Beyond Borders: Unraveling Viewer Preferences in the Netflix Multiverse,2024
+Poster,"Lanu Kim, Suhyoung Choi, Taegyoon Kim",The reproduce of annotator bias in machine using intended bias simulation,2024
+Poster,"Jinghui Chen, Takayuki Mizuno",X-based Link Analysis and Relation Detection with Political Campaign Donations,2024
+Poster,Filipi Nascimento Silva,Identifying Emerging Trends: Leveraging LLMs and Visualization for Narrative Analysis in Social Media Data,2024
+Poster,You Rok Do,Dynamics of Pandemic Parenting Online: A Three-year Analysis of A Korean Online Parenting Forum during COVID-19,2024
+Poster,Sara Mesquita,Socioeconomic and environmental factors causing healthcare seeking behaviour: impact of COVID-19 pandemic,2024
+Poster,"Kokil Jaidka, Shaz Furniturewala","Trends, Rumors, and Opinions: An Audit of LLMs for political information seeking",2024
+Poster,"Alessia Melegaro, Dirk Hovy, Duilio Balsamo, Federico Bianchi, Lorenzo Lucchini, Nicoletta Balbo",Mapping Emotional Landscapes during the COVID-19 Pandemic,2024
+Poster,Baoqi Eileen Chen,Clustering daily patterns of American time use from 2003 to 2022,2024
+Poster,"Hamed Alhoori, Miftahul Jannat Mokarrama",Examining the Representation of Youth in the US Policy Documents through the Lens of Research,2024
+Poster,"Aparna Ananthasubramaniam, Daniel Romero, David Jurgens",Macroeconomic Context Moderates Socioeconomic Determinants of Suicide,2024
+Poster,Siyun Gan,The Paradox of Meritocracy? A Bayesian Multilevel Perspective on Contextual Factors and Meritocratic Beliefs,2024
+Poster,Megan M. Wisniewski,From Job Descriptions to Occupations: Using Neural Language Models to Code Job Data,2024
+Poster,Michael Guerzhoy,Observing the Southern US Culture of Honor using Large-Scale Social Media Analysis,2024
+Poster,Regina Ruane,Political Speech as a Forecasting Tool for Democratic Backsliding,2024
+Poster,Neeti Pokhriyal,How to quantify participation biases in digital data,2024
+Poster,"Subhayan Mukerjee, Tian Yang, Xuzhen Yang, Yilang Peng","Partisan, Unreliable, Digital-Born, and Mass-Oriented Media are More Likely to Thrive on Social Media: A Comparison between Twitter, Facebook, YouTube, and the Web",2024
+Poster,"Chris Kempes, Sidney Redner, Vicky Chuqiao Yang, Hyejin Youn",Towards a unified science of regulatory costs in complex adaptive systems,2024
