@@ -13,9 +13,6 @@ def load_dataset(csv_path: Optional[str] = None, header: Optional[List[str]] = N
     df = pd.read_csv(csv_path)
     df = df[header]
     df = df.dropna()
-    # df["combined"] = (
-    #         "Type: " + df.Type.str.strip() + "; Speaker: " + df.Speaker.str.strip() + "; Topic: " + df.Topic.str.strip() + "; Year: " + df.Year.str.strip()
-    # )
     df["combined"] = (
         '; '.join([f'{h}: {df[h].str.strip()}' for h in header])
     )
