@@ -1,0 +1,68 @@
+[
+    {
+        "Cluster": 0,
+        "Theme": "All the topics are related to social science research and studies presented by various speakers in different years.",
+        "Topics": [
+            "Should They Stay or Should They Go? A Comparative Computational Analys",
+            "Elasticity divergence across socioeconomic levels: evidence from Mexic",
+            "Weak Ties in Job Change: Evidence From Business Card Exchange in Japan",
+            "Local Optimization Strategies in Urban Mobility from Geo-referenced Fl",
+            "Pull out all the stops: Combining survey and field experiment with mac"
+        ]
+    },
+    {
+        "Cluster": 1,
+        "Theme": "All topics are related to research presentations or studies in the field of data science, artificial intelligence, or machine learning.",
+        "Topics": [
+            "Constructing geometric graphs from features to aid classification task",
+            "Modularized Hate Speech Annotation: A Human-Labeled Dataset of German ",
+            "Can Online Juries Make Consistent, Repeatable Decisions?",
+            "Characterizing Human Preferences for Interpretability in Artificial In",
+            "Anti-China sentiments during the COVID-19 pandemic: An analysis using "
+        ]
+    },
+    {
+        "Cluster": 2,
+        "Theme": "Social Networks and Network Analysis",
+        "Topics": [
+            "Network Diffusion of Innovations in R: Introducing Netdiffuser",
+            "Invisible college in large co-authorship networks \u2013 iterative sampling",
+            "Examining the Effects of Exogenous Shocks on Social Networks and Colla",
+            "Analyzing Topic Transitions in Text-based Social Cascades using Dual-N",
+            "Power-law intensity distributions in linear and nonlinear self-excited"
+        ]
+    },
+    {
+        "Cluster": 3,
+        "Theme": "All topics are related to presentations or talks given at conferences or similar events.",
+        "Topics": [
+            "Promoting Educational Attainment at Scale with Psychological Intervent",
+            "Everything but the Kitchen Sink",
+            "Voices of Reddit: Exploring the Diverse Perspectives and Stances on Af",
+            "Can Scientific Impact Be Predicted?",
+            "Cultural Differences in Features of Popular Music in Taiwanese, Japane"
+        ]
+    },
+    {
+        "Cluster": 4,
+        "Theme": "Social Media and Information Analysis",
+        "Topics": [
+            "Fact-Checking and Partisan Cheerleading: Dissemination Patterns of Pol",
+            "No news is bad news: studying the relative prevalence of fake, mainstr",
+            "Nonmedical Opioid Consumption on Reddit: Patterns of Routes of Adminis",
+            "Why do people think liberals drink lattes? How social media afforded s",
+            "A Computerised Content Analysis of Language (ab)Use in Politics: The C"
+        ]
+    },
+    {
+        "Cluster": 5,
+        "Theme": "Social Interactions and Behavior Analysis",
+        "Topics": [
+            "Interactions between scales of coordination and non-laminar structure ",
+            "Clans and social interactions in Clash of Clans",
+            "Spatial coordination and cooperation among humans: experimental result",
+            "Who Gets What, According to Whom? An Analysis of Fairness Perceptions ",
+            "Persistence of social signatures in human communication"
+        ]
+    }
+]
