@@ -1,0 +1,101 @@
+[
+    {
+        "Cluster": 0,
+        "Theme": "Data Science and Analysis in Various Fields",
+        "Topics": [
+            "Topological properties and temporal dynamics of place networks in urba",
+            "CSC-Public Finnish infrastructure for data science",
+            "Mapping individual behavior in financial markets: synchronization and ",
+            "The wealth origins of income mobility",
+            "(Un)covering Europe - An Investigation of the Usage of Foreign Named E"
+        ]
+    },
+    {
+        "Cluster": 1,
+        "Theme": "Public Health and Disease Surveillance Using Digital and Computational Approaches",
+        "Topics": [
+            "Flu or Not: A computational approach to respiratory-disease surveillan",
+            "Understanding the divergence between digital health footprints and off",
+            "Modeling healthcare-seeking to estimate catastrophic health expenditur",
+            "Using online searches and Social Media during pandemics to improve now",
+            "Misinformed populations amplify the spread of disease"
+        ]
+    },
+    {
+        "Cluster": 2,
+        "Theme": "All topics are related to social science research, specifically focusing on aspects of human behavior, interaction, and information spread.",
+        "Topics": [
+            "Personal Bests as Reference Points",
+            "Are You Your Friends\u2019 Friend?",
+            "Studying Limits of Information Spread with Sequential Seeding",
+            "New Directions in Science Emerge from Disconnection and Discord",
+            "Structural Properties of Canon-Formation in the Western Art World"
+        ]
+    },
+    {
+        "Cluster": 3,
+        "Theme": "All topics are related to the study of social media data and its impact on various aspects such as collective behavior, socio-economic indicators, sentiments, and social movements.",
+        "Topics": [
+            "Investigating Coordinated `Social' Targeting of High-Profile Twitter A",
+            "Social media, collective behaviour and climate change",
+            "Predicting Socio-Economic Indicators for Multiple Countries from Socia",
+            "Sentiment Responses to the 2014 Ferguson Incident: Spatial data analys",
+            "Measuring The Effect of Violence and Cleavages on Social Movement Outc"
+        ]
+    },
+    {
+        "Cluster": 4,
+        "Theme": "Misinformation and Trust in Media and Social Media Platforms",
+        "Topics": [
+            "Tracking the Takes and Trajectories of News Narratives from Trustworth",
+            "Fact-Checking and Partisan Cheerleading: Dissemination Patterns of Pol",
+            "Unbiased misinformation policies sanction conservatives more than libe",
+            "Misinformation on online social media",
+            "New opinion dynamics theory considering trust and distrust in human re"
+        ]
+    },
+    {
+        "Cluster": 5,
+        "Theme": "Network Analysis and Computational Methods in Social and Business Contexts",
+        "Topics": [
+            "Computational Methods to Enhance Team Composition in Networks",
+            "Detecting Network Effects: Randomizing Over Randomized Experiments",
+            "Magical Encounters in the Business Card Exchange Networks",
+            "When does network structure matter? A comparative study of informal ne",
+            "Inferring social influence networks from information cascades"
+        ]
+    },
+    {
+        "Cluster": 6,
+        "Theme": "Academic presentations or lectures in the field of data science, machine learning, or artificial intelligence.",
+        "Topics": [
+            "Deciphering the Role of Attention in the Acquisition of Meta-knowledge",
+            "A Software Framework for Parameter-Space Explorations",
+            "Ground truth? Clustering Scientific Publications",
+            "Intentional State Machines",
+            "Measuring the Unmeasurable - A Project of High Risk Families Predictio"
+        ]
+    },
+    {
+        "Cluster": 7,
+        "Theme": "Social Science Research and Analysis",
+        "Topics": [
+            "Purchase Pattern, Socioeconomic Status, and Political Inclination",
+            "Ethnic Homophily and Social Influence in Workplace Preferences",
+            "Variations in Countermovements: Cause Diversity, Consistency, and Grou",
+            "Difference of Public Opinion in International Disputes: Case of Japan ",
+            "Are childless adults higher earners but unhappier than parents? Eviden"
+        ]
+    },
+    {
+        "Cluster": 8,
+        "Theme": "Social Interactions and Networks",
+        "Topics": [
+            "Mixing patterns in social interactions",
+            "Modeling dynamic identities and uncertainty in social interactions: Ba",
+            "Towards Smart Grid User Engagement Through Social Networking",
+            "Emotions and Online Content Diffusion: Evidence from a Massive Online ",
+            "The social name-letter effect on online social networks"
+        ]
+    }
+]
