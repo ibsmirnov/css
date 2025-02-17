@@ -2463,7 +2463,6 @@ Statistical methods,Christoph Stadtfeld,The co-evolution of digital behavioral t
 Statistical methods,"Dean Eckles, Jeremy Yang, Paramveer Dhillon, Sinan Aral",Learning Who to Target with What via Adaptive Experimentation to Optimize Long-term Outcomes,2020
 Statistical methods,"Ashton Anderson, Dan Goldstein, Duncan Watts, George Lifchits, Jake Hofman",Success stories cause false beliefs about success,2020
 Statistical methods,"Arkadiusz Wisniowski, Dilek Yildiz, Emilio Zagheni, Guy Abel, Ingmar Weber, Stijn Hoorens",Measuring Migration Stocks Using Traditional and Social Media Data,2020
-Type,Speaker,Topic,Year
 Urban and labor,"Aolong Zha, Itsuki Noda",Real-Time Taxi-Sharing Service Application Based on Boolean Satisfiability Techniques,2020
 Urban and labor,"Alex Pentland, Alex Rutherford, Esteban Moro, Iyad Rahwan, Manuel Cebrian, Morgan Frank",Universal resilience patterns in labor markets,2020
 Urban and labor,"Alexander Verbraeck, Mikhail Sirenko, Scott Cunningham, Trivik Verma, Yilin Huang",Assessing Urban Vulnerability and Resilience to Extreme Heat with Big Data and Machine Learning: The Case of July 2019 European Heatwave,2020
@@ -2750,3 +2749,305 @@ Poster Session,"Charlie Pilgrim, Weisi Guo, Thomas Hills",Information Foraging a
 Poster Session,"Cameron Raymond, Isaac Waller, Ashton Anderson",Measuring Alignment of Online Grassroots Political Communities with Political Campaigns,2021
 Poster Session,"Suman Kalyan Maity, Yang Wang, Victoria Medvec, Brian Uzzi, Nima Dehmamy, Dashun Wang","Winners, Losers, and Future Achievement",2021
 Poster Session,"Angelika Tsivinskaya, Katerina Guba, Mikhail Sokolov",Measuring academic reputation: peer review versus bibliometrics,2021
+Poster,Giuseppe Russo, Luca Verginer, Manoel Horta Ribeiro, Giona Casiraghi,Spillover of Antisocial Behavior from Fringe Platforms: The Unintended Consequences of Community Banning,2023
+Poster,Arianna Pera, Manuel Vimercati, Matteo Palmonari,Sentence-Level Explanations of Word Embeddings Associations,2023
+Poster,Manju Bura, Chico Q Camargo,Comparing News Headlines on Heatwaves in the US and Mexico: A BERTopic Analysis,2023
+Poster,Tenzin Tamang,Perceived salience of issues: Analysis of Meta's opinion data,2023
+Poster,Amy Munz, Ralph Schroeder, Scott A. Hale,Computational Analysis of Online Climate Change Backlash Discourse,2023
+Poster,Matthew Bramwell Bone,Labor Market Gaps in the Green Transition: A calibrated labor flow network,2023
+Poster,Matthew Bramwell Bone, Kobi Hackenburg,Political and human intervention topics shape the diffusion of climate change denial online,2023
+Poster,Blas Kolic, Fabián Aguirre-López,Quantifying the structure of controversial discussions with unsupervised methods: a look into the Twitter climate change conversation,2023
+Poster,Miguel A González Casado, Angel Sánchez,Towards a Structural Typology of Personal Networks,2023
+Poster,Byungkyu Lee, Kangsan Lee,Ingroup bias and othering process in close social ties: How Americans perceive the infection status of others during the COVID-19 pandemic,2023
+Poster,Anna Sokolova,Socio-economic background and educational inequality in networks,2023
+Poster,Haiko Lietz, Mathieu Génois, Johann Schaible, Maria Zens, Marcos A. Oliveira,Community formation at IC2S2 2017,2023
+Poster,Amir Ghasemian, Nicholas Christakis,Enmity Paradox,2023
+Poster,Josefine Bohr Brask, Andreas Koher, Darren Croft, Sune Lehmann,Linking social preferences to social network structure and function,2023
+Poster,Vedran Sekara, Ivan Dotu, Manuel Cebrian, Esteban Moro, Manuel Garcia-Herranz,Towards Fairer Access to Information: Addressing Fundemental Biases in Influence Maximization,2023
+Poster,Sonja M Schmer-Galunder, Scott Friedman, Vasanth Sarathy,Inferring Social Structures From Language,2023
+Poster,Rense Corten, Laura Boeschoten,Assessing Mobile Instant Messenger Networks with Donated Data,2023
+Poster,Vsevolod Suschevskiy, Lindsay Larson, Malte Jung, Leslie DeChurch, Noshir Contractor,Exploring the Structure of Human-AI Interaction Networks: The Impact of AI Teammate Modes on Collaboration and Performance,2023
+Poster,Pearl Pandya, Armin Pournaki,Twitter's Reaction to BBC's #TheModiQuestion,2023
+Poster,Leonie Neuhäuser, Jan Bachmann, Markus Strohmaier, Fariba Karimi, Michael T Schaub,Improving the visibility of minorities through network growth interventions,2023
+Poster,Daniel Matter, Jürgen Pfeffer,From Pizzagate to the Reichstag: A Multidimensional Analysis of the Coevolution of QAnon and Querdenken on German Telegram,2023
+Poster,Federico Mazzoni, Andrea Failla, salvatore Citraro, Giulio Rossetti,Quantifying and Reducing Marginalization in Networks: a Genetic Approach,2023
+Poster,Chiara Chiavenna, Lorenzo Lucchini, Laura Leone, Maria Cucciniello, Alessia Melegaro,The role of peer influence in shaping individuals' vaccine attitude,2023
+Poster,Mathieu Génois, Maria Zens, Marcos Oliveira, Johann Schaible,Exploration of contact behaviour during scientific conferences,2023
+Poster,Ziv Epstein, Eyal Perry, Micah Epstein, Max Lagencamp, Irmandy Wicaksono, Cathy Fang, OcÃ©ane Boulais, Hope Schroeder, Ray Funahashi, Christian Almenar, Alex Pentland,Mapping the patterns of gift giving at Burning Man,2023
+Poster,Ziv Epstein, Hause Lin, Gordon Pennycook, David Rand,How many others have shared this? Experimentally investigating the effects of social cues on engagement, misinformation, and unpredictability on social media,2023
+Poster,Antonio Longa, Veronica Lachi, Gabriele Santin, Monica Bianchini, Bruno Lepri, Pietro Lio, franco scarselli, Andrea Passerini,Graph Neural Networks for temporal graphs: State of the art, open challenges, and opportunities,2023
+Poster,Sahil Loomba,Causal inference in sparse and partially observed large-scale social networks,2023
+Poster,Rubén Rodríguez Casañ, Alessio Vincenzo Cardillo, Elisabet CarbÃ³ Catalan, Javier Borge Holthoefer, Diana Roig Sanz,Characterizing the geographical organization of the International Institute of Intellectual Cooperation via network cartography,2023
+Poster,Ali Yassin, Abbas Haidar, Hocine Cherifi, Hamida Seba, Olivier Togni,NetBone: A Python Package for Extracting Network Backbones,2023
+Poster,Elena Pavan, Anna Bertani, Riccardo Gallotti,Hidden in plain sight. A co-constitutive approach to unveil misogyny in digital public discourse.,2023
+Poster,Dan Dai, Guangnan Zhu,Unveiling the Coordinated Inauthentic Behaviour of COVID misinformation on Weibo,2023
+Poster,Francesco Pierri, Matthew R DeVerna, Kai-Cheng Yang, David Axelrod, John Bryden, Filippo Menczer,The spread of vaccine misinformation on Twitter during 2021,2023
+Poster,Shohei Hisamitsu, Sho Cho, Hongshan Jin, Masashi Toyoda, Naoki Yoshinaga,Diachronic Analysis of Users' Stances on COVID-19 Vaccination in Japan using Twitter,2023
+Poster,Cameron Lai, Fujio Toriumi, Mitsuo Yoshida,The Covid-19 wonder-drug: A cross-lingual analysis of Ivermectin misinformation on Twitter,2023
+Poster,Haoning Xue, Jingwen Zhang,How Does Fact-checking Message Intensity Influence Public Engagement and Attitude towards Fact-checking Targets: A Computational Analysis of Facebook Messages,2023
+Poster,Qiusi Sun, Haoning Xue, Cuihua Shen,Lost in diffusion: How (mis)information is distorted in online networks,2023
+Poster,Elisabeth Stockinger, Riccardo Gallotti, Carina Ines Hausladen,Diurnal Patterns in the Spread of Misinformation,2023
+Poster,Dorian Quelle, Calvin Yixiang Cheng, Scott A. Hale,Lost in Translation: Investigating Multilingual Misinformation & Its Evolution,2023
+Poster,Christiern Santos Rasmussen, Amir Ebrahimi Fard, Marijn ten Thij,Exposing Misinformation in Fringe Communities: Testing Source Exposure and Debunking of Anti-Ukrainian Misinformation among German Fringe Communities,2023
+Poster,Aliaksandr Herasimenka, Benedikt Ströbl, Dorian Quelle, Kate Joynes-Burgess, Samantha Vanderslott, Jonathan Bright, Philip Howard,Spreading the Misinformation Agenda: Analysis of Social Media Communication on Vaccination,2023
+Poster,Scott A Hale, Adriano Belisario, Ahmed Nasser Mostafa, Chico Q Camargo,Analyzing misinformation claims during the 2022 Brazilian general election on WhatsApp, Twitter, and Kwai,2023
+Poster,Sukrit Venkatagiri, Kristen Engel, Ashlyn B. Aske, Connor Cantrell,A Network Approach for Studying the Spread of Cross-Platform Visual Misinformation,2023
+Poster,Giulio Corsi,Seeing Through the Black Box: Twitter's Recommendation Algorithm and its Impact on the Diffusion of Low-Trust Content,2023
+Poster,Luca Rossi, Fabio Giglietto, Giada Marino,Unknowingly preaching to the choir? The use of Facebook microtargeting during 2022 Italian campaign,2023
+Poster,Luca Rossi, Fabio Giglietto, Giada Marino,Cracking open the European Newsfeed over time,2023
+Poster,Javier Alvarez-Galvez, Antonio Rojas-Garcia, Ilaria Montagni, Ourania Kolokotroni, Angelos Kassianos,Network models of vaccine hesitancy on COVID-19 vaccines,2023
+Poster,Salim Chouaki, Oana Goga,Selective, Incidental, Targeted or Algorithmic News: An Analysis of What News Users Actually See,2023
+Poster,Stephan Lewandowsky, Fabio Carrella, Jana Lasser, David Garcia, Segun Aroyehun, Almog Simchon,Truth Contagion'' in U.S. Political Debate,2023
+Poster,Hope Schroeder, Shayne Longpre, Deb Roy,Mapping COVID-19 Information Influence & Claims Online,2023
+Poster,Alejandro Dinkelberg, Pádraig Mac Carron, Michael Quayle,Attitude network analysis: Uncovering multidimensional polarisation,2023
+Poster,Keeley Erhardt, Saurabh Khanna,Who Provides the Largest Megaphone?,2023
+Poster,Avi Gamoran, Michael Gilead,Is this the real life? The language of Reality Monitoring.,2023
+Poster,Ke Li, Jie Hua, Pu Yan,The algorithm knows too much about me! Public understanding of content recommendation algorithms on Chinese social media platform,2023
+Poster,Fabian Baumann, Agnieszka Czaplicka, Iyad Rahwan,The Impact of Recommender Systems on Cultural Content Consumption on TikTok,2023
+Poster,Tim Faverjon,How do recommendation algorithms learn and leverage political preferences of users?,2023
+Poster,Samin Aref, Mahdi Mostajabdaveh, Hriday Chheda,Heuristic Modularity Maximization Algorithms for Community Detection Rarely Return an Optimal Partition or Anything Similar,2023
+Poster,Carlson Moses Büth, Anastassia Vybornova, Michael Szell,From Gridlocks to Greenways: Analyzing the Network Effects of Low Traffic Neighborhoods,2023
+Poster,Luigi Arminio, Luca Rossi,Using word embeddings to assess coherence within co-sharing communities of Facebook pages,2023
+Poster,PJ Lamberson, Gülşah Akçakır,Network Games with Local Correlation and Clustering,2023
+Poster,Anastassia Vybornova, Gülşah Akçakır, Chanuwas Aswamenakul,You Don't Have to Live Next to Me: A Critical Review of the Schelling Model and Its Reception,2023
+Poster,Michał‚ Czuba, Piotr Bródka,Seed Selection for Linear Threshold Model in Multilayer Networks,2023
+Poster,Mykola Makhortykh, Silke Adam, Maryna Sydorova, Franziska Keller, Aleksandra Urman,Auditing YouTube algorithms in relation to Holocaust and COVID misinformation,2023
+Poster,Jamell Dacon, Jiliang Tang,Can We Identify and Dismantle ISMs that Plague Our Society: An Online Approach,2023
+Poster,Akrati Saxena, George Fletcher, Mykola Pechenizkiy,FairSNA: Algorithmic Fairness in Social Network Analysis,2023
+Poster,Marie Decker, Laila Wegner, Carmen Leicht-Scholten,RRI as Opportunity for Enhancing Procedural Fairness in Machine Learning,2023
+Poster,Anna Seo Gyeong Choi, Allison Koenecke,Auditing Korean Speech Datasets for Dialectal Fairness in Speech-to-Text Applications,2023
+Poster,Orestis Papakyriakopoulos, Anna Seo Gyeong Choi, Alice Xiang, Allison Koenecke,Augmented Datasheets for Speech Datasets and Ethical Decision-Making,2023
+Poster,Meysam Alizadeh, Emma Hoes, Fabrizio Gilardi,Monetization of social media engagements increases the sharing of false (and other) news but penalization moderates it,2023
+Poster,Peidong Mei, Stefan Sarkadi, Edmond Awad,Should my agent lie for me? A study on attitudes towards deceptive AI,2023
+Poster,Reid McIlroy-Young, Siddhartha Sen, Jon Kleinberg, Ashton Anderson,Alternatives to Winning: Exploring the Implications of Human-like Chess AI,2023
+Poster,Bhargav Srinivasa Desikan, James Evans,Aggregate Integrate and Align to Embed Everything: A Multi-Modal Framework for Measuring Cultural Dynamics,2023
+Poster,Jeff T Sheng,Modeling Culture with AI: Understanding Photographic Style with Deep Learning,2023
+Poster,Sima Farokhnejad, Marcos Oliveira, Eraldo Ribeiro, Ronaldo Menezes,From networks to flows: Using flow maps to understand mobility patterns in cattle trade,2023
+Poster,Alberto Amaduzzi, Lucila Alvarez-Zuzek, Valeria D'Andrea, Simone Centellegher, Lorenzo Lucchini, Filippo Privitera, Manlio De Domenico, Bruno Lepri, Marta Gonzalez, Armando Bazzani, Riccardo Gallotti,Human mobility in COVID-19 era: a quantitative analysis,2023
+Poster,Louis Boucherie,Segregation in high-resolution residential mobility network,2023
+Poster,Kevin Sparks, Christa Brelsford, Jesse Piburn, Andy Berres, Marie Urban, Gautam Thakur,Temporal Dynamics of Public Behavior,2023
+Poster,Anastassia Vybornova, Tiago Oliveira Cunha, Astrid Gühnemann, Michael Szell,Automated Detection of Missing Links in Bicycle Networks with OpenStreetMap,2023
+Poster,Yan Asadchy, Takahiro Yabe, Maximilan Schich, Alex Pentland, Esteban Moro,Unequal culture: Effect of pandemic restrictions on the income segregation and diversity of museum visitors in the Boston Area,2023
+Poster,Ollie Ballinger, Sam Heroy, Neave O'Clery,Who shops at informal firms?,2023
+Poster,Pablo Andres Astudillo,Relatedness and Economic Diversification in Ecuador: A Complexity Approach,2023
+Poster,Giovanni Mauro, Nicola Pedreschi, Luca Pappalardo, Renaud Lambiotte,Modeling Gentrification as a dynamic spatio-temporal process,2023
+Poster,Fátima Velásquez-Rojas, Massimiliano Luca, Erjian Liu, José Javier Ramasco,Mobility Rhapsody: Unleashing the Power of Deep Learning and XAI to Decode Urban Flows at City Scale,2023
+Poster,Massimiliano Luca, Luca Pappalardo, Bruno Lepri, Gianni Barlacchi,Trajectory Test-Train Overlap in Next-Location Prediction Datasets,2023
+Poster,Takayuki Mizuno, Taizo Horikomi, Shouji Fujimoto, Atushi Ishikawa,Generating Synthetic Data on Individual Daily Trajectories with an Autoregressive Language Model,2023
+Poster,Katinka Den Nijs, Vedran Sekara,Representativeness Explained: Uncovering Hidden Biases in Human Mobility Data,2023
+Poster,Hasan Alp Boz, Mohsen Bahrami, Selim Balcisoy, Alex Pentland,Foot Traffic Prediction Using Graph Neural Networks,2023
+Poster,Sanggoo Kang, Ohhyun Kwon, Woo-sung Jung,Urban green space inequality across urban scales,2023
+Poster,Luca Maria Aiello, Sandor Juhasz, Anastassia Vybornova, Bokányi, Michael Szell,Highways are barriers to urban social connections,2023
+Poster,Adam Finnemann, Denny Borsboom, Sacha Epskamp,Exploring UK urban psychology through Urban Gradients,2023
+Poster,Cesar Augusto Marin, Jesus Berrios, Loreto Bravo, Vittoria Colizza, Leo Ferres,Evaluating the effect of interregional mobility on the spread of COVID-19 cases in Chile,2023
+Poster,Clodomir Santana, Federico Botta, Hugo Barbosa, Filippo Privitera, Ronaldo Menezes, Riccardo Di Clemente,Changes in the time-space dimension of human mobility during the COVID-19 pandemic,2023
+Poster,Hui Wang, Becky P.Y. Loo,A comprehensive evaluation of rural accessibility based on public transport: A case study from Hong Kong,2023
+Poster,Hugo Contreras, Rodrigo Troncoso, Leonardo Ferres, Carlos Rodriguez,Gender gaps between urban mobility and insecurity,2023
+Poster,Hugo Contreras, Leonardo Ferres, Rodrigo Troncoso, Carlos Rodriguez,Mobility and domestic violence against women,2023
+Poster,Ting Lian, Becky P.Y. Loo, Zhuangyuan Fan,Pedestrian road safety: Advances in measuring pedestrian risk exposure,2023
+Poster,Kristina Gligoric, Justyna Czestochowska, Ashton Anderson, Robert West,Anticipated versus Actual Effects of Platform Design Change: A Case Study of Twitter's Character Limit,2023
+Poster,Sydney DeMets, Emma Spiro,Podcast Citations in US Election Rumors on Twitter,2023
+Poster,Inês Terrucha, Elias Fernández Domingos, Rémi Suchonn, Francisco C Santos, Pieter Simoens, Tom Lenaerts,Delegation to autonomous agents: a key to overcome past failure and focus on the collective target ahead,2023
+Poster,Srishti Vashistha, Rosalia Steffi Longjam, Rishabh Kaushal,Gone but Not Forgotten: A Novel Approach for Collecting Deleted Tweets,2023
+Poster,Felix Victor Münch, Jan-Philipp Rau, Philipp Kessling,Augmenting Actor Lists with Explorative Network Sampling: Mapping German Right-wing Counterpublics on Twitter,2023
+Poster,Mingmeng Geng, Roberto Trotta,Survey Design and Optimization: Machine Learning for Question Selection and Weighting Adjustment,2023
+Poster,Sara Venturini, Satyaki Sikdar, Francesco Rinaldi, Francesco Tudisco, Santo Fortunato,Social Contagion in Science,2023
+Poster,Silvia De Sojo Caso, Mia Ann Jørgensen, Sune Lehmann, Laura Alessandretti,The motherhood penalty in mobility,2023
+Poster,Emil Bakkensen Johansen, Mathias Wullum Nielsen,Quantifying the Temporal Contingency of Protest Symbol Construction Processes: Visuality during the Anti-ELAB 2019 Protests,2023
+Poster,Levin Brinkmann, Bramantyo Supriyatno, Iyad Rahwan,Exploring the Evolution of Artistic Styles Using Generative AI and Influence Modeling,2023
+Poster,Takahiro Miura, Kimitaka Asatani, Ichiro Sakata,Quantitative understanding of knowledge application transition in CSS through citation behavior,2023
+Poster,Xinyi Zhao, Aliakbar Akbaritabar, Ridhi Kashyap, Emilio Zagheni,Gender differences in self-promotion on Twitter among early-career researchers: Are men more likely to disseminate their first publication and benefit more?,2023
+Poster,Katie Spoon, Nicholas LaBerge, K. Hunter Wapman, Sam Zhang, Allison Christine Morgan, Mirta Galesic, Bailey Fosdick, Daniel Larremore, Aaron Clauset,Gender and retention patterns among U.S. faculty,2023
+Poster,Munjung Kim, Sadamori Kojaku, Yong-Yeol Ahn,Quantifying disruptiveness using a neural embedding method,2023
+Poster,Ana María Jaramillo, Mariana Macedo, Marcos Oliveira, Fariba Karimi, Ronaldo Menezes,Gender representation and homophily as barriers to women's career in science,2023
+Poster,Filipi Nascimento Silva, Sadamori Kojaku, Lili Miao, Yong-Yeol Ahn,A Fine-Grained Map of All Sciences: Visualizing Nations' Scientific Production,2023
+Poster,Sadamori Kojaku, Clara Boothby, Filipi Nascimento Silva, Attila Varga, Xiaoran Yan, Stasa Milojevic, Alessandro Flamini, Filippo Menczer, Yong-Yeol Ahn,Mapping Scientific Foraging,2023
+Poster,Tongyu Ding, Qing Ke,It's in the syllabus: A data infrastructure for innovation studies,2023
+Poster,Alexander J Gates, Indraneel Mane,Increasing polarization of global science,2023
+Poster,Louis M Shekhtman, Alexander J Gates, Albert-Laszlo Barabasi,Mapping Philanthropic Support of Science,2023
+Poster,Mengjie Cheng, Daniel Scott Smith, Xiang Ren, Hancheng Cao, Sanne Smith, Daniel A. McFarland,How New Ideas Diffuse in Science,2023
+Poster,Bedoor AlShebli, Shahan Ali Memon, James Evans, Talal Rahwan,China and USA produce more impactful AI research when collaborating together,2023
+Poster,Cristian E Candia, Cesar A Hidalgo, Melanie Oyarzun, Victor Landaeta, Cecilia Monge, Tamara Yaikin, Carlos Rodriguez-Sickert,Children's academic performance and reciprocity in an experimentally elicited collaboration network,2023
+Poster,Robin Delabays, Melvyn Tyloo,Heavy-tailed distribution of the number of papers within scientific journals,2023
+Poster,Mark Wittek, Frank Berthold, Christoph Bartenhagen,The development of stratification and segregation in a new scientific field: A study of collaboration among scientists in neuroblastoma research between 1975 and 2016,2023
+Poster,Mariana Macedo, Ana Maria Jaramillo, Ronaldo Menezes,Academic Mobility as a Driver of Productivity: A Gender-centric Approach,2023
+Poster,Xiaohui WANG, Wen Hao HE, Han Zheng, Jonathan Zhu,The international flow of academics and its impacts on the scientific performance of scholars,2023
+Poster,Kevin Munger, Drew Dimmery,Ameliorating the Problem of Temporal Validity When Studying Fast-Moving Systems,2023
+Poster,Yizhou Fan, Kaixiang Kang, NAKAO Ran,Does a suspension of recruitment effect the hensachi of neighboring universities?,2023
+Poster,Alexandra Florea, Lea Biere, Ilona Horwath, Silvia Ioana Fierăscu,Data practices in Computational Social Science. A scoping review.,2023
+Poster,Saumya Tripathi,Understanding time spent on unpaid care work in India through a machine learning approach,2023
+Poster,Telmo Menezes, Antonin Pottier, Camille Roth,The two sides of the Environmental Kuznets Curve: A socio-semantic analysis,2023
+Poster,Margarita Torre, Jesús A. Prieto-Alonso, Iñaki Ucar,Does gender parity foster collaboration? Trends in gender homophily in scientific publications,2023
+Poster,Taekho You, Jinseo Park, June Young Lee, Jinhyuk Yun,Auditing Citation Polarization During COVID-19 Pandemic,2023
+Poster,Emil Bakkensen Johansen, Oliver Baumann,Orchestrator bypass: The emergence of non-orchestrated collaboration in the Danish news ecosystem,2023
+Poster,Akrati Saxena, Mariana Macedo,Gender-based Analysis of Communication Pattern and Emotion Expression: A Case-study of Soccer,2023
+Poster,Yevgeniy Golovchenko, Karolina Stanczak, Rebecca Adler-Nissen, Patrice Wangen, Isabelle Augenstein,Measuring Gender Bias in Digital Diplomacy,2023
+Poster,Zhixuan Zhou, Jiao Sun, Jiaxin Pei, Nanyun Peng, Jinjun Xiong, Yang Wang,A Moral- and Event-Centric Discovery of Gender Bias in Fairy Tales at A Large Scale,2023
+Poster,Giyeon Baek,Reconsidering the definition of noise: Multimodal discourse analysis of computer vision datasets,2023
+Poster,Bedoor Alshebli, Enshu Cheng, Marcin Waniek, Ramesh Jagannathan, Pablo Hernández-Lagos, Talal Rahwan,Beijing's Central Role in Global Artificial Intelligence Research,2023
+Poster,David Joyner,Self-Perpetuating Stereotype Threat: How Anonymous Posting May Undercut Efforts to Address Gender Stereotypes in Computing,2023
+Poster,Jaehyuk Park,Strategic R&D of Government in AI Innovation,2023
+Poster,Fabian Baumann, Agnieszka Czaplicka, Iyad Rahwan,Network Structure shapes the Impact of Diversity in Collective Learning,2023
+Poster,Mingjing Yin,How Does Institutional Context Matter? The Local Discrepancy in Social Credit System Implementation in China,2023
+Poster,Carolina Coimbra Vieira, Marisa Vasconcelos,Contrasting Global Gender Gaps in STEM interests on Facebook with Offline Gender Gap Indicators,2023
+Poster,Carolina Coimbra Vieira, Ebru Sanliturk, Emilio Zagheni,Using Wikipedia data to monitor unexpected migration events,2023
+Poster,Daniele Rama, Tiziano Piccardi, Miriam Redi, Robert West, Rossano Schifanella,On the role of images for navigating knowledge on Wikipedia,2023
+Poster,Tiziano Piccardi, Martin Gerlach, Akhil Arora, Robert West,A Large-Scale Characterization of How Readers Browse Wikipedia,2023
+Poster,Tiziano Piccardi, Martin Gerlach, Robert West,Going Down the Rabbit Hole: Characterizing the Long Tail of Wikipedia Reading Sessions,2023
+Poster,Shintaro Sakai, Yasuhiro Suzuki,Evaluating the Quality of Word Embedding Trained on Wikipedia Articles,2023
+Poster,Thomas Franz Müller, Levin Brinkmann, James Winters, Niccolo Pescetelli,Machine Impostors Avoid Detection by Imitating Human Interactions in a Minimal Turing Test,2023
+Poster,Federico Pilati, Oriol Artime, Pier Luigi Sacco,Something completely different, or more of the same? TikTok and the democratization of cultural content production,2023
+Poster,Aidar Zinnatullin,Political discussions in online oppositional communities in the non-democratic context,2023
+Poster,Fredrik Jansson,A theoretical framework for studying culture as a complex adaptive system,2023
+Poster,Isabel Sebire, Chico Q Camargo,Genres, Subgenres, and Storytelling Tropes: a Data Science Approach,2023
+Poster,Levin Brinkmann, Thomas Franz Müller, Valerii Chirkov, Sara Bonati, Maxim Derex, Anne-Marie Nussberger, Iyad Rahwan,Maintaining Unintuitive Algorithmic Strategies within Human Culture: The Role of Selective Social Learning,2023
+Poster,Daniel Torren Peraire, Ivan Savin,An agent-based model of cultural change for a low-carbon transition,2023
+Poster,Hyeseung Shim, Jihoon Kim, Jaehong Ahn, Chung-Kon Shi,Classification of typologies of cultural tourists at historic royal palaces using social media data,2023
+Poster,Christoph Kern, Rob Chew, Jacob Beck, Stephanie Eckman, Frauke Kreuter,Assessing the downstream effects of training data annotation methods on supervised machine learning models,2023
+Poster,Narayani Vedam, Subhayan Mukerjee,Polarization without Echoes? An Agent-Based Framework for Modeling Affective Polarization under Exposure to Diverse Content,2023
+Poster,Pu Yan, Scott A. Hale, Huiyi Lv,When agenda setting research meets big data: A literature review since 2016,2023
+Poster,Stephen Davies,An Agent-Based Model of Political Polarization Without Party Influence or Centralized Messaging,2023
+Poster,Ahmad Hesam, Zaid Al-Ars, Fons Rademakers, Frank Pijpers,Large Scale Calibration of Agent-Based Models in Social Systems with Sensitive Data,2023
+Poster,Jason Hiigh Thompson, Paul Salmon, Chris Baber, Scott McClean, Gemma Read, Tony Carden, Neville Stanton,Archetypal failures of artificial general intelligence (AGI): a generative guide,2023
+Poster,Lillio Mok, Michael Inzlicht, Ashton Anderson,Political Figures are More Polarized in Social Media than Traditional Media,2023
+Poster,Kristina Aleksandrovna Pedersen, Yevgeniy Golovchenko, Jonas Raaschou-Pedersen, Anna Rogers,Information Control on YouTube During Russia's Invasion of Ukraine,2023
+Poster,Kun He, Qianru Meng, Xiao Zhang, Malvina Nissim,Have you chatted with ChatGPT yet? Towards a dynamic framework of interaction between humans, AI, and society,2023
+Poster,Neeley Pate, Inga Trauthig, Josephine Lukito, Samuel Woolley,Chinese Propaganda Is No Longer Inward Facing and Profusely Positive: A Case Study of the Uyghurs in Xinjiang,2023
+Poster,Anna Di Natale, David Garcia,LEXpander: applying colexification networks to automated lexicon expansion,2023
+Poster,Shatayu Kulkarni, Sabine Brunswicker,Maximizing Cooperative Behavior in Collective Action Games Through a Deep Q-Learning AI Agent,2023
+Poster,Theresa Henn, Sarah Tell, Julian Polenz, Oliver Posegga,The Emergence of Collective Identities Online: Detecting Patterns in Social Movement Formation on Twitter,2023
+Poster,Lama Abdulrahman Alqazlan,An Approach to Computational Grounded Theory,2023
+Poster,Andrea W Wang, Allison Koenecke, David Mimno,Seasonality Visualizations of Online Text,2023
+Poster,Francisco Olivos,Using computational text analyses to understand the role of cultural categories in constitutional-drafting processes,2023
+Poster,Ana Alonso Curbelo,How is voter ID framed in UK news coverage?,2023
+Poster,Shintaro Ueki, Fujio Toriumi, Toshiharu Sugawara,Effect of Monetary Reward on Users' Individual Strategies Using Co-Evolutionary Learning,2023
+Poster,Moena Hashimoto, Yotaro Takazawa, Kazutoshi Sasahara,Does Morality Facilitate the Purchase of Meat Alternatives?,2023
+Poster,Linda Coufal, Lion Wedel,Did COVID-19 increase radicalization potential among misogynist extremists?,2023
+Poster,Priyanshi Sharma, Somya Tomar, Disha Saini, Rishabh Kaushal,Fake News: Can we find any Consistency?,2023
+Poster,Fabian Braesemann, Alexandra Rottenkolber, Ole Teutloff,The Global Digital Technology Space and Its Relations to Digital Inequalities,2023
+Poster,Vadim Voskresenskii,Exploring changes in RT DE narratives and its audience activity after the beginning of the Russian-Ukrainian war,2023
+Poster,Trisevgeni Papakonstantinou, Paulina Bondaronek,Crowdsourcing the potential negative effects of the most popular health apps: Evidence from Twitter,2023
+Poster,Daniela Valdes,Using topic modeling and Computational Grounded Theory to understand collective leadership in digital transformation in a Hospital board in England,2023
+Poster,Juan Carlos Rocha, Victor Galaz,Identifying Financial Actors Exposed to Tipping Points,2023
+Poster,Silvia Leoni, Andrea Gentili,Higher educational decisions: an agent-based model of comparison between Italy and Germany,2023
+Poster,Hiu Sze Chan,Influence of Socioeconomic Status on Parental Involvement: A Study of Online Discourse,2023
+Poster,Nabeel Gillani, Doug Beeferman, Cassandra Overney, Christine Vega Pourheydarian, Deb Roy,All a-board: sharing educational data science research with school districts,2023
+Poster,Kumar Chandra, Frank Pantano, George Bikhazi, Nabeel Gillani,Byte-Sized Justice: Supporting School Desegregation Policymaking with Algorithmic Redistricting,2023
+Poster,Kunihiro Miyazaki, Takayuki Uchiba, Haewoon Kwak, Jisun An, Kazutoshi Sasahara,How do Toxic Comments Induce Fearful Responses in Anti-vaccine Videos on YouTube?,2023
+Poster,Sota Watanabe, Genki Ichinose,Difference in emotional transitions between tweets about COVID-19 and other natural disasters revealed by emotional evolution trees,2023
+Poster,Catalina Vajiac, Arun Frey, Joachim Baumann, Abby Smith,Reducing Entry Into Homelessness Following Eviction Through Predictive Modeling,2023
+Poster,Marcos Oliveira, Junran Yang, Denis Bonnay, Juhi Kulshrestha,Browsing behavior exposes identities on the Web,2023
+Poster,Kazuhiro Seki,Newspapers' Biases and Unbiased Economic Index,2023
+Poster,Lisette Espin Noboa, Serine Ramlawi, Marton Karsai, Daniel J Corsi,The Twittersphere of Cannabis Use During Pregnancy,2023
+Poster,Timothy Douglas, Licia Capra, Mirco Musolesi,A Computational Linguistic Approach to Study Border Theory at Scale,2023
+Poster,Huiyi Lyu, Pu Yan, Ralph Schroeder,China's Belt and Road Initiative at Ten: A global Perspective on Twitter,2023
+Poster,Ayan-Yue Gupta,A Linguistic Approach to Information Propagation: Using BERT to Analyse the Spread of Ideas in the British Government 2000--2020,2023
+Poster,Xinlan Emily Hu, Duncan J Watts,Saying the Right Thing at the Right Time: Task-Sensitive Theories of Team Communication Processes,2023
+Poster,Saeedeh Mohammadi, Gabriela Juncosa, Margaret Samahita, Taha Yasseri,How can crowdsourcing rescue the social media?,2023
+Poster,Dennis Assenmacher, Leon Fröhling, Claudia Wagner,You are a Bot! - Studying the Development of Bot Accusations on Twitter,2023
+Poster,Andrés Gvirtz, Matteo Montecchi, Amy Selby, Friedrich Götz,Consumer Values Across The Lifespan,2023
+Poster,Sujan Dutta, Beibei Li, Daniel Nagin, Ashiqur R KhudaBukhsh,Estimating Disparate News Media Stance on US Policing,2023
+Poster,Indira Sen, Mattia Samory, Claudia Wagner, Isabelle Augenstein,Data Augmentation for Improving Automated Harmful Language Detection: Potentials and Pitfalls,2023
+Poster,Lorenzo Lucchini, Ollin Demian Langle-Chimal, Bruno Lepri, Samuel Fraiberger,Socioeconomic disparities in mobility behaviour during the COVID-19 pandemic in developing countries,2023
+Poster,Max Pellert, Hannah Metzler, Michael Matzenberger, David Garcia,Tracking the daily dynamics of emotions at scale with news discussions in Austria,2023
+Poster,Dongwoo Lim, Mikihito Tanaka, Fujio Toriumi, Mitsuo Yoshida,Dramatic Reversal of Public Opinion and More Dramatic Change of the Attitude of Experts: A Case Study of a Discourse on HPV in Japanese Twitter,2023
+Poster,Luca Maria Aiello, Daniele Quercia, Sagar Joglekar,Multidimensional Tie Strength and Economic Development,2023
+Poster,Varun Tandon, Vrushabh Vilas Wadnere, Ashiqur R KhudaBukhsh,How Social Justice Works on the Social Web: The Curious Case of Hans Neimann,2023
+Poster,Michael Vincent Arnold, Christopher Danforth, Peter Dodds,Curating corpora with classifiers: a case study of online clean energy sentiment,2023
+Poster,Andrés Gvirtz, Sanja Šćepanović, Jason Rentfrow, Daniele Quercia,Understanding health care demands through social media engagement,2023
+Poster,Gabriele Etta, Matteo Cinelli, Michele Avalle, Walter Quattrociocchi,Quantifying Topological Differences in Online Conversations,2023
+Poster,Matthew DeVerna, Rachith Aiyappa, Diogo Pachecho, John Bryden, Filippo Menczer,Twitter cascade reconstruction to find misinformation amplifiers,2023
+Poster,Erin Walk,Implicit Polarization on YouTube,2023
+Poster,Michele Coscia, Clara Vandeweerdt,Posts on Central Websites Need Less Originality to be Noticed,2023
+Poster,Aleksandra Urman, Mykola Makhortykh,Engagement with pro- and anti-regime framing of the war in Ukraine on Russian social media,2023
+Poster,Kunihiro Miyazaki, Taichi Murayama, Akira Matsui, Takayuki Uchiba, Haewoon Kwak, Jisun An,Political Honeymoon Effect on Social Media: Characterizing Social Media Reaction to the Changes of Prime Minister in Japan,2023
+Poster,Suyash Fulay, Nabeel Gillani, Deb Roy,Divergences in Following Patterns between Influential Twitter Users and their Audiences Across Dimensions of Identity,2023
+Poster,Jisu Kim, Alina Sîrbu, Giulio Rossetti, Fosca Giannotti, Hillel Rapoport,Origin and destination attachment: study of cultural integration on Twitter,2023
+Poster,Roberta Rocca, Katharina Lawall,Tweeting to the European people: analyzing dynamic changes in online communication strategies and their relation to citizen engagement,2023
+Poster,Hendrik Erz,Language Models from the Sweatshop? Towards Guidelines For CSS Researchers to Avoid Ethical and Legal Issues With Off-The-Shelf Software.,2023
+Poster,Alejandro Hermida Carrillo, Amir Goldberg,I Contains Multitudes - An inquiry on the plurality of the self-construal,2023
+Poster,Alfredo Hernandez Sanchez,Measures of Importance: a Network of UNGA Speech Mentions,2023
+Poster,Nicholas J Pangakis, Samuel Wolken, Neil Fasching,Text classification through iterative few-shot learning with generative LLMs,2023
+Poster,Sami Alexej Nenno,Propositional Claim Detection,2023
+Poster,Yiyan Zhang, Qin Li, Ruhao Liu, Zishan Lan, Xiaoya Chen,Measuring Global Issue Ownership: A Computational Communication Schema,2023
+Poster,Hope Schroeder, Doug Beeferman, Deb Roy,Comparing conversational dialog data to local news,2023
+Poster,Tobin South, Guy Zyskind, Robert Mahari, Alex Pentland,Community Transformers for Transforming Community Science,2023
+Poster,Max Pellert, Clemens M. Lechner, Claudia Wagner, Beatrice Rammstedt, Markus Strohmaier,AI Psychometrics: Using psychometric inventories to obtain psychological profiles of large language models,2023
+Poster,Wentao Xu, Bin Wang,Language Toxicity Patterns of Politically-Polarized Twitter Replies During the COVID-19 Pandemic,2023
+Poster,Vera Sosnovik,Benchmarks for Evaluating Political Ads Definitions,2023
+Poster,Linda Li, Balazs Vedres, Orsolya Vasarhelyi,The impact of bots on human communication patterns in online activism,2023
+Poster,Marieke Van Hoof, Damian Trilling, Corine Meppelink, Judith Moeller,Googling Politics? The Computational Identification of Political and News-Related Searches from Web Browsing Data,2023
+Poster,Fan Liang, Yuchen Cao,Reshuffling Political Influencers on Twitter,2023
+Poster,Zsófia Rakovics, Márton Rakovics,Language- and political polarization of parliamentary speeches between 1998-2020,2023
+Poster,Yan Xia, Antti Gronow, Arttu Malkamäki, Tuomas Ylä-Anttila, Barbara Keller, Mikko Kivelä,Did the Russian invasion of Ukraine depolarize political discussions on Finnish social media?,2023
+Poster,Mariana Macedo, Melanie Oyarzun, Cesar A Hidalgo,Unpacking popularity: volume, longevity, connectivity and globality,2023
+Poster,Pablo Moral,Undiplomatic diplomats: building an NLP tool for propaganda detection on Twitter,2023
+Poster,Huma Rasheed, Casey Randazzo, Melissa J Dreier, Akeela Careem,Abortion salience after the Roe v. Wade leak: An automated content analysis of tweets by CNN, Fox News, and ABC News,2023
+Poster,Li Liao, Wenna Chen,The Trap of Metaphor: Applications and Boundaries of Topic Models in the Social Sciences,2023
+Poster,Sawa Yoshioka, Tomomi Kito,Trademark network analysis for understanding homogenization and differentiation strategies in product naming,2023
+Poster,Anne C Kroon, Rens Vliegenthart, Jeroen Jonkman, Shaun Bevan, Christoffer Green-Pedersen, Damian Trilling,When the sum is more than its parts: Cross-content and cross-linguistic topic classification with traditional and transformer-based models,2023
+Poster,Alessia Antelmi, Daniele De Vinco, Carmine Spagnuolo, Gennaro Cordasco,Towards Unraveling Developers Communities in Stack Overflow and Reddit,2023
+Poster,Duilio Balsamo, Jakob Schlierf, Lorenzo Lucchini, Alessia Melegaro,Pro, Anti or Neutral? The unfolding of Covid-19 Vaccine Hesitancy on Reddit,2023
+Poster,Lui Ruck,Lights, Camera, Attention? A Quantitative Study on the Influence of Video Cameras on Sustained Attention in Videoconferences,2023
+Poster,Jacob R Brown, Enrico Cantoni, Sahil Chinoy, Martin Koenen, Vincent Pons,Where You Grow Up Shapes Your Political Behavior: Evidence from Childhood Moves,2023
+Poster,Khalid K Osman, Florian Barbaro, Andy Skumanich,The potential for social media analysis to assess and optimize water management,2023
+Poster,Mykola Makhortykh, Aleksandra Urman, Roberto Ulloa, Juhi Kulshrestha,Does it get better with time? Web search consistency and relevance in the visual representation of the Holocaust,2023
+Poster,Layla Bouzoubaa, Shadi Rezapour,Real Talk: A Case Study on HBO's Euphoria Viewer Discourse on Substance Use,2023
+Poster,Yoshi Meke Bird, Denis E Hudon,Using Machine Learning to Predict Involuntary Substance Use Treatment Terminations,2023
+Poster,Mohamed Abouelenien, Mihai Burzo, Rada Mihalcea,The Stress of Daily Life: Towards Automatic Stress Detection,2023
+Poster,Yelena Mejova, Anya Hommadova Lu,I feel you: Mixed-methods study of social support of loneliness on Twitter,2023
+Poster,Karim Hamade, Reid McIlroy-Young, Siddhartha Sen, Jon Kleinberg, Ashton Anderson,Designing Human-Compatible AI: Methodologies and Frameworks in Chess,2023
+Poster,Mohammed Alsobay, Abdullah Almaatouq,The Impact of Social Information on Private Use of Algorithmic Decision Support,2023
+Poster,Cassandra Overney, Belén C Saldías Fuentes, Dimitra Dimitrakopoulou, Deb Roy,SenseMate: A Collaborative Human-AI Platform for Qualitative Coding,2023
+Poster,Manuel Vimercati, Matteo Palmonari,SWEAT-XS: A method to analyze implicit associations in word embeddings trained on small corpora,2023
+Poster,Lion Wedel,incels.is - the community dynamics of a fringe community,2023
+Poster,Mónika Simon, Savvas Zannettou, Kasper Welbers, Anne Kroon, Damian Trilling,From darkness to light: Tracing information flow dynamics amid the Russian invasion of Ukraine,2023
+Poster,Tornike Tsereteli, Simone Paolo Ponzetto,A Lexico-semantic System for Survey Variable Search,2023
+Poster,Zexun Chen, Sean Kelty, Alexandre Evsukoff, Brooke Foucault Welles, James Bagrow, Ronaldo Menezes, Gourab Ghoshal,Information Transfer in co-location networks,2023
+Poster,Sonja M Schmer Galunder, Gwyneth Sutherlin, Adam H. Russell,AI/nthropology,2023
+Poster,Akira Tsurushima,Analysis of Symmetry-Breaking in Evacuation Exit Choice during the Tangshan Earthquake,2023
+Poster,Piyush Ghasiya,Identifying Themes of Right-Wing Extremism in Hindutva Discourse on Twitter,2023
+Poster,Balaraju Battu, Talal Rahwan,A few bad apples can destroy the reciprocal nature of the majority,2023
+Poster,Isabella Loaiza, Takahiro Yabe, Alex Pentland,Navigating the future labor landscape: Transitions between gigs and traditional forms of work,2023
+Poster,Indira Sen, Daniele Quercia, Marios Constantinides, Matteo Montecchi, Licia Capra, Sanja Scepanovic, Renzo Bianchi,Combining Survey Items and Digital Traces to Measure Workplace Depression,2023
+Poster,Indira Sen, Debora Nozza, Francesco Barbieri,Stakeholder-driven Content Moderation of Sensitive Content,2023
+Poster,Sharon Kang, Jaehyuk Park,Far More Alike Than Different: Longitudinal analysis of LGBT events in Meetup.com,2023
+Poster,Nguyen Luong, Ian Barnett, Talayeh Aledavood,The impact of the COVID-19 pandemic on daily rhythms of movement,2023
+Poster,Mark E Whiting, Amirhossein Nakhaei,Is luck random?,2023
+Poster,Jiani Yan,Death Predictions: Holistically and Precisely with Explainable AI,2023
+Poster,Toshiya Saito, Takayuki Mizuno,Sales Trend Extraction of Fast-Moving Consumer Goods,2023
+Poster,Athina Anastasiadou, Artem Volgin, Douglas Leasure,War and Migration: Modeling the Russian Exodus with Digital Trace Data,2023
+Poster,Cristian E Candia, Mohammad Atari, Nour Kteily, Brian Uzzi,Overuse of moral language dampens content engagement on social media,2023
+Poster,Masanori Hirano, Kiyoshi Izumi,Quantitative Evaluation of Multi-agent Simulation using Generative Adversarial Network,2023
+Poster,Veronika Batzdorfer, Julia Huschens, Holger Steinmetz,Conspiracy Theorising: Self-Reinforcing Feedback Loops through Online Expressions,2023
+Poster,Laura Casanovas Buliart, Priscila Alvarez-Cueva, Carlos Castillo,From The Beatles to Bad Bunny: Sexism in popular music through an automated text analysis,2023
+Poster,Karmanya Aggarwal, Baird Howland, David Rothschild, Duncan J. Watts,Exogenity and Endogenity: the amplification of ideas in the News Cycle,2023
+Poster,Mareike Wieland, Gerret von Nordheim, Katharina Kleinen,User Satisfaction with Text-Based News Recommender Systems,2023
+Poster,Luiz Neves, Chico Q Camargo,Using transformers-based NLP to set and detect news frames on COVID-19 coverage,2023
+Poster,Xuanjun Jason Gong, Haoning Xue,Partisan press on Twitter: Clustered semantics, attention, and diffusion dynamics,2023
+Poster,Likun Cao, Qiankun Zhong,Comparing social learning strategies in collective search: simulation and empirical evidence in patent data,2023
+Poster,Kenjiro Inoue, Mitsuo Yoshida,Analysis of psychographic indicators via LIWC and their impact on CTR for Instagram ads,2023
+Poster,Michelangelo Rossi, Tommaso Bondi, Ryan Louis Stevens,The Good, The Bad and The Picky: Reference Dependence and the Reversal of Product Ratings,2023
+Poster,Samar Haider, David Rothschild, Duncan Watts,Mapping the U.S. News Landscape,2023
+Poster,Samar Haider, David Rothschild, Chris Callison-Burch, Duncan Watts,Measuring Diversity in Online News,2023
+Poster,Lin Ai, Yu-Wen Chen, Yuwen Yu, Seoyoung Kweon, Julia Hirschberg, Sarah Ita Levitan,Unveiling the Influencers of Radical Content: A Multimodal Analysis of QAnon Videos,2023
+Poster,Pearl Pandya, Armin Pournaki, Jean-Philippe Cointet,What's the news on Muslims in Modi's India?,2023
+Poster,Eladio Montero-Porras, Riccardo Gallotti, Jelena Grujić, Tom Lenaerts,Fast deliberation is related to unconditional behaviour in iterated Prisoner's Dilemma experiments,2023
+Poster,Marcin Waniek, Navya Suri, Abdullah Zameek, Bedoor AlShebli, Talal Rahwan,Human intuition as a defense against AI,2023
+Poster,Elizaveta Chernenko,Rehumanisation in symbolic space of online social media: NLP approach to detection of rehumanising acts,2023
+Poster,Delphine De Moor, Jordan Hart, Camille Testard, Alex Mielke, Alba Motes Rodrigo, Josefine Bohr Brask, Dan Franks, Matthew Silk, Lauren Brent,Challenges, Solutions, and Directions in Comparative Animal Social Network Analysis,2023
+Poster,Hikaru Asano, Osamu Sakura,Rashomon Bound Regression: a Reproducible and Explorable Method for Regression-Based Analysis,2023
+Poster,Cornelius Puschmann, Helena Sophia Rauxloh, Sebastian Stier, Katrin Weller, Juhi Kulshrestha,Uncovering patterns in political search with survey and tracking data,2023
+Poster,Ronald E. Robertson, Amy Dunphy, Shelby Grossman,Identifying Search Directives on Social Media,2023
+Poster,Shotaro Ishihara, Hiromu Takahashi, Hono Shirai,Quantifying Diachronic Language Change via Word Embeddings: Analysis of Social Events using 11 Years News Articles in Japanese and English,2023
+Poster,Roman Kyrychenko,Time-Aware SentenceBert to analyse discourse dynamics,2023
+Poster,Matija Franklin, Carlos Fernandez-Basso, Darko Stojilovic, Hal Ashton, Bertram Malle, Edmond Awad, Vanessa Cheung, Srdja Dragovic, David Lagnado,A Serious Game for Studying Blame Attributions,2023
+Poster,Johannes Ross, Vera Rocha, Tom Grad, Jörg Claussen,The Hidden Costs of the Sharing Economy: Tax Dishonesty by Airbnb Hosts,2023
+Poster,Aidan Combs, Lynn Smith-Lovin,Multiple Identities, Uncertain Social Interactions and Mixed Emotions: Using Bayesian Probability to Model the Dynamics of Identity, Action and Emotion,2023
+Poster,Alexandros Gelastopoulos, Pantelis Analytis, Gaël Le Mens, Arnout van de Rijt,Ranking-based social influence produces path-dependence,2023
+Poster,Mahnaz Roshanaei, Sumer Vaid, Andrea Leigh Courtney, Serena Jimyn Soh, Jamil Zaki, Gabriella Harari,Meaningful Social Interaction and Well-Being in Young Adults: The Moderating Role of Micro and Macro Contexts,2023
+Poster,Coen D Needell, Elliot Pickens, David M Rothschild, Duncan J Watts,The News Observatory: A Collection and Storage System for Past and Future News Media Content,2023
+Poster,Rachith Aiyappa, Yong-Yeol Ahn,Zero-Shot Stance Detection on Tweets,2023
+Poster,Shintaro Sakai,Evaluating Semantic Changes in the Concept of Happiness with Diachronic Word Embeddings,2023
+Poster,Matthew Sharpe, Renaud Lambiotte,Exploring the relationship between publishing and listening behaviour in podcasting,2023
+Poster,Anna George, Jonathan Bright, Ana Valdivia,Investigating the Impact of White Supremacist Manifestos on Migration Conversations,2023
