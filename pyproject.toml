@@ -43,6 +43,7 @@ authors = ["chaewon yun <mcssfw@gmail.com>"]
 python = "^3.10"
 python-dotenv = "^1.0.1"
 azure-ai-inference = "^1.0.0b9"
+azure-identity = "^1.20.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^6.2.4"
