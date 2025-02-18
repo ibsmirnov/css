@@ -2,6 +2,7 @@
 name = "css"
 version = "0.1.0"
 description = ""
+package-mode = false
 authors = [
     {name = "chaee",email = "mcssfw@gmail.com"}
 ]
@@ -31,3 +32,17 @@ dependencies = [
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
 build-backend = "poetry.core.masonry.api"
+
+[tool.poetry]
+name = "css"
+version = "0.1.0"
+description = "css project to analyze past ic2s2 submissions"
+authors = ["chaewon yun <mcssfw@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+python-dotenv = "^1.0.1"
+azure-ai-inference = "^1.0.0b9"
+
+[tool.poetry.dev-dependencies]
+pytest = "^6.2.4"
